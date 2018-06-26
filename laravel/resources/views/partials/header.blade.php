@@ -5,14 +5,14 @@
         </div>
 
         <div class="navbar-header">
-            <a class="pull-left" href="/"><img style="padding:5px" src="/img/apo-logo-particle.png"></a>
-            <a class="navbar-brand" href="/">VolunteerDB</a>
+            <a class="pull-left" href="/"><img style="padding:5px" src="/img/logocorner.png" ></a>
+            <a class="navbar-brand" href="/">Loving Spoonful</a>
         </div>
 
-        <div class="collapse navbar-collapse"> 
+        <div class="collapse navbar-collapse">
             <ul class="nav navbar-nav">
                 <li><a href="/about">About</a></li>
-                
+
                 @if(Auth::check())
                         <li><a href="/profile/shifts">Your Shifts</a></li>
 
@@ -24,7 +24,7 @@
                         @endif
                 @endif
             </ul>
-            
+
             <ul class="nav navbar-nav navbar-right">
                 @if(Auth::check())
                     <li class="active"><a href="/profile">{{ Auth::user()->name }}</a></li>
