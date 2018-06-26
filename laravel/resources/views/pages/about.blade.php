@@ -10,7 +10,7 @@
     </div>
 
     <p>
-        This website is a scheduling system where users can sign up for volunteer shifts at festivals.
+        This website is a scheduling system where users can sign up for volunteer shifts.
         Administrators can create events with custom departments and shifts at any time of day.
         It was inspired by the volunteer databases of Apogaea and Elsewhence, but the code was written from scratch.
     </p>
@@ -27,7 +27,7 @@
 
     <p>
         Every user has specific roles that allow them to take certain shifts.
-        This allows administrators to create medical or fire fighting shifts that only allow approved users.  
+        This allows administrators to create medical or fire fighting shifts that only allow approved users.
     </p>
 
     <h3>User uploads</h3>
@@ -58,7 +58,7 @@
     </p>
 
     <hr>
-    
+
     <h2>Plans for the Future</h2>
 
     <p>
@@ -71,12 +71,12 @@
     <p>
         Obviously, this website is a work in progress.
         The design needs work and there are several features that should be fleshed out, but overall the system is complete enough for real-world use.
-        If there is enough interest from the community, or the project is approved for use by a festival, the project could be moved on GitHub into the control of an organization instead of a single user account. 
+        If there is enough interest from the community, or the project is approved for use by a festival, the project could be moved on GitHub into the control of an organization instead of a single user account.
     </p>
 
     <p>
         Moving forward, it will be important to get feedback from people who have volunteered at regionals in the past.
-        If you have hands on experience managing a festival and would like to suggest features to help you do your job better, feel free to <a href="mailto:rachel@wetfish.net">send Rachel an email</a>. 
+        If you have hands on experience managing a festival and would like to suggest features to help you do your job better, feel free to <a href="mailto:rachel@wetfish.net">send Rachel an email</a>.
     </p>
 
     <hr>

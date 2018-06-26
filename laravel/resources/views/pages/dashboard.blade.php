@@ -23,13 +23,13 @@
         <hr>
 
         @foreach($present as $event)
-            <p style="font-size:1.5em; margin-top: 1.4em;">
+            <p style="font-size:1.2em;">
                 @if($event->featured)
                     <span class="burn glyphicon glyphicon-fire"></span>
                 @endif
 
                 <b><a href='/event/{{ $event->id }}'>{{ $event->name }}</a></b>
-                <i>from {{ $event->start_date }} until {{ $event->end_date }}</i>
+                <i>(from {{ $event->start_date }} until {{ $event->end_date }})</i>
             </p>
         @endforeach
 
@@ -41,13 +41,13 @@
         <hr>
 
         @foreach($future as $event)
-            <p>
+            <p style="font-size:1.2em;">
                 @if($event->featured)
                     <span class="burn glyphicon glyphicon-fire"></span>
                 @endif
 
                 <b><a href='/event/{{ $event->id }}'>{{ $event->name }}</a></b>
-                <i>from {{ $event->start_date }} until {{ $event->end_date }}</i>
+                <i>(from {{ $event->start_date }} until {{ $event->end_date }})</i>
             </p>
         @endforeach
 
@@ -59,9 +59,9 @@
         <hr>
 
         @foreach($past as $event)
-            <p>
+            <p style="font-size:1.2em;">
                 <b><a href='/event/{{ $event->id }}'>{{ $event->name }}</a></b>
-                <i>from {{ $event->start_date }} until {{ $event->end_date }}</i>
+                <i>(from {{ $event->start_date }} until {{ $event->end_date }})</i>
             </p>
         @endforeach
 
