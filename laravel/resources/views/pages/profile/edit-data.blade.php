@@ -12,7 +12,7 @@
             'name' => 'full_name',
             'label' => 'Full Name',
             'placeholder' => 'Your name',
-            'help' => "Required. Your full name is used for reporting and ticketing purposes",
+            'help' => "Required. Your full name is used for reporting",
             'value' => (is_null($user->data)) ? '' : $user->data->full_name
         ])
 
