@@ -25,7 +25,7 @@ else
         $class = "slot taken-by-current-user";
     }
 
-    // If the user has profile data saved, and has a burner name
+    // If the user has profile data saved, and has a Public Name
     if(!is_null($slot->user->data) && !is_null($slot->user->data->burner_name))
     {
         $name = $slot->user->data->burner_name;

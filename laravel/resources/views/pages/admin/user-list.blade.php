@@ -9,7 +9,7 @@
             <tr>
                 <th>Username</th>
                 <th>Full Name</th>
-                <th>Burner Name</th>
+                <th>Public Name</th>
                 <th>Email</th>
                 <th>Roles</th>
                 <th>Date Registered</th>

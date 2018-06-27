@@ -28,7 +28,7 @@ class SendUserWelcome
     public function handle(UserRegistered $event)
     {
         $user = $event->user;
-        
+
         Mail::send('emails/user-welcome', compact('user'), function ($message) use ($user)
         {
             $message->to($user->email, $user->name)->subject('Welcome to the Volunteer Database!');
