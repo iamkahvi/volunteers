@@ -58,6 +58,7 @@
                     </h4>
                 </ul>
         </div>
+        <div class="clearfix"></div>
 
         @can('read-department')
             <a href="/event/{{ $event->id }}/departments" class="btn btn-primary">View All Departments</a>
@@ -71,7 +72,7 @@
             <a href="/event/{{ $event->id }}/schedule/create" class="btn btn-primary">Add a Shift to the Schedule</a>
         @endcan
 
-        <div class="clearfix"></div>
+
         <hr>
 
         @if($event->departments->count())
