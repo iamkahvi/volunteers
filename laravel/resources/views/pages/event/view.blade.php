@@ -48,6 +48,25 @@
             </h3>
         </div>
 
+        <div>
+            <h3>
+                <br><label>Legend:</label><br>
+                <ul>
+                    <h4>
+                        <li style="color:#8CC252">
+                            <p>Available shifts</p>
+                        </li>
+                        <li style="color:#337ab7">
+                            <p>Taken shifts</p>
+                        </li>
+                        <li style="color:#d83664">
+                            <p>User's taken shifts</p>
+                        </li>
+                    </h4>
+                </ul>
+            </h3>
+        </div>
+
         @can('read-department')
             <a href="/event/{{ $event->id }}/departments" class="btn btn-primary">View All Departments</a>
         @endcan
@@ -96,7 +115,7 @@
                 @foreach($event->days() as $day)
                     <div class="day" data-date="{{ $day->date->format('Y-m-d') }}">
                         <div class="heading">
-                            <h3>{{ $day->name }}</h3>
+                            <h3><ins>{{ date("D, M jS", strtotime($day->date->format('Y-m-d'))) }}</ins></h3>
                             &mdash; <i>{{ $day->date->format('Y-m-d') }}</i>
                         </div>
 
@@ -114,7 +133,7 @@
 
                                     <div class="department" data-id="{{ $department->id }}">
                                         <div class="title">
-                                            <b>{{ $department->name }}</b>
+                                            <strong style="color:grey;font-size:175%;">{{ $department->name }}</strong>
 
                                             @if($department->description)
                                                 <span class="description">
@@ -149,7 +168,7 @@
 
                                                 <li class="shift row" data-rows="{{ $schedule->volunteers }}">
                                                     <div class="title col-sm-2">
-                                                        <b>{{ $schedule->shift->name }}</b>
+                                                        <strong style="font-size:120%;">{{ $schedule->shift->name }}</strong>
 
                                                         @if($schedule->shift->description)
                                                             <span class="description">

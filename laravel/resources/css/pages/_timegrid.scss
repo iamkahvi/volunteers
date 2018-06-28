@@ -107,11 +107,13 @@
 
 .slot.empty {
     font-size: 10pt;
+    color: #333;
     line-height: 12pt;
-    background-color: #83f442;
+    background-color: #8CC252;
 
     &:hover {
         text-decoration: none;
+        background-color: #87F250;
     }
 }
 
