@@ -64,7 +64,7 @@ class ShiftStarting extends Notification
                        ->greeting('Hello '.$this->user->name.', you have a shift starting soon!')
                        ->line('Description: '.$this->shift->getDepartmentAttribute()->description)
                        ->action('View Shift',env('SITE_URL').'/slot/'.$this->shift->id.'/view')
-                       ->line('This shift begins at '.$this->shift->start_time);
+                       ->line('This shift begins at '.date('g:i A',strtotime($this->shift->start_time)));
        }
 
        // If not, the notification is for the admin
@@ -75,7 +75,7 @@ class ShiftStarting extends Notification
                        ->greeting('Hello '.$this->user->name.', no one has signed up for a shift that is starting soon!')
                        ->line('Description: '.$this->shift->getDepartmentAttribute()->description)
                        ->action('View Shift',env('SITE_URL').'/slot/'.$this->shift->id.'/view')
-                       ->line('This shift begins at '.$this->shift->start_time);
+                       ->line('This shift begins at '.date('g:i A',strtotime($this->shift->start_time)));
        }
    }
 

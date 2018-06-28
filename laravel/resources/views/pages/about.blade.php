@@ -2,20 +2,31 @@
 
 @section('content')
     <h1>About the Volunteer Database</h1>
+
+    <h4>
+        This website is a scheduling system where users can sign up for volunteer shifts.
+    </h4>
+
     <hr>
 
-    <div class="image-caption pull-right">
-        <a href="/img/apogaea-volunteer-db.jpg"><img src="/img/apogaea-volunteer-db.jpg"></a>
-        <p>The original Apogaea volunteer database</p>
-    </div>
+    <h2 style="color:grey"><ins>Instructions</ins></h2>
 
-    <p>
-        This website is a scheduling system where users can sign up for volunteer shifts.
-        Administrators can create events with custom departments and shifts at any time of day.
-        It was inspired by the volunteer databases of Apogaea and Elsewhence, but the code was written from scratch.
-    </p>
+    <ol>
+        <li>
+            <h4>
+                Select an event from the homepage
+            </h4>
+        </li>
+        <li>
+            <h4>
+                Register for shifts by clicking on available time slots
+            </h4>
+        </li>
+    </ol>
 
-    <h2>Features</h2>
+    <hr>
+
+    <h2 style="color:grey"><ins>Features</ins></h2>
 
     <h3>Mobile friendly</h3>
 
@@ -50,38 +61,10 @@
         Instead of being locked into a rigid table, this lets administrators create longer shifts for leads and shorter shifts for miscellaneous jobs.
     </p>
 
-    <h3>Websockets</h3>
-
-    <p>
-        Portions of this website use websockets, a modern web technology that allows real-time communication between the server and users.
-        When someone signs up for a shift, all other users on the event page will see the changes immediately without needing to refresh.
-    </p>
 
     <hr>
 
-    <h2>Plans for the Future</h2>
-
-    <p>
-        <b>Beta testing is encouraged!</b>
-        If you find any problems with the site, please <a href="https://github.com/itsrachelfish/laravel-voldb/issues">open an issue on GitHub</a> or <a href="https://github.com/itsrachelfish/laravel-voldb/pulls">submit a pull request</a> if you know how to program.
-        Being built on modern frameworks like Laravel and Bootstrap means it's easy for anyone to add new features.
-        There are already several open issues on GitHub detailing the requirements from the unfinished 2014 - 2015 Apogaea volunteer database.
-    </p>
-
-    <p>
-        Obviously, this website is a work in progress.
-        The design needs work and there are several features that should be fleshed out, but overall the system is complete enough for real-world use.
-        If there is enough interest from the community, or the project is approved for use by a festival, the project could be moved on GitHub into the control of an organization instead of a single user account.
-    </p>
-
-    <p>
-        Moving forward, it will be important to get feedback from people who have volunteered at regionals in the past.
-        If you have hands on experience managing a festival and would like to suggest features to help you do your job better, feel free to <a href="mailto:rachel@wetfish.net">send Rachel an email</a>.
-    </p>
-
-    <hr>
-
-    <h2>History</h2>
+    <h2 style="color:grey"><ins>History</ins></h2>
 
     <p>
         Back between late 2014 and early 2015, volunteers from Apogaea were working on making updates to their existing volunteer database.

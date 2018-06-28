@@ -58,6 +58,7 @@
                     </h4>
                 </ul>
         </div>
+        <br>
         <div class="clearfix"></div>
 
         @can('read-department')
