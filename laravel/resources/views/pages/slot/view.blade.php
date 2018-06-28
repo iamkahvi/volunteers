@@ -51,12 +51,12 @@ if(!empty($slot->user))
 
         <div>
             <label>Start Time</label>
-            {{ $slot->start_time }}
+            {{ date('g:i A',strtotime($slot->start_time)) }}
         </div>
 
         <div>
             <label>End Time</label>
-            {{ $slot->end_time }}
+            {{ date('g:i A',strtotime($slot->end_time)) }}
         </div>
 
         @if($slot->department->description)
@@ -132,6 +132,7 @@ if(!empty($slot->user))
             <button type="submit" class="btn btn-success">Take Shift</button>
         @endif
 
-        <a href="/event/{{ $slot->event->id }}" class="btn btn-primary">Back to Event</a>
+        <a href="/event/{{ $slot->event->id }}" class="btn btn-primary">Back To Event</a>
+        <a href="/profile/shifts" class="btn btn-primary">View Your Shifts</a>
     {!! Form::close() !!}
 @endsection

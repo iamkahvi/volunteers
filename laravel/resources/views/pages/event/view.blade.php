@@ -83,7 +83,7 @@
         <hr>
 
         @if($event->departments->count())
-            <h2>Available Shifts</h2>
+            <h2>All Shifts</h2>
 
             <form class="form-inline event-filter">
                 Filter:

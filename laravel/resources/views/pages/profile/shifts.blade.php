@@ -29,8 +29,8 @@
                         <td>{{ $slot->department->name }}</td>
                         <td>{{ $slot->schedule->shift->name }}</td>
                         <td>{{ Carbon::parse($slot->start_date)->formatLocalized('%A') }} ({{ $slot->start_date }})</td>
-                        <td>{{ Carbon::parse($slot->start_time)->format('h:i a') }} ({{ $slot->start_time }})</td>
-                        <td>{{ Carbon::parse($slot->end_time)->format('h:i a') }} ({{ $slot->end_time }})</td>
+                        <td>{{ Carbon::parse($slot->start_time)->format('h:i A') }} ({{ $slot->start_time }})</td>
+                        <td>{{ Carbon::parse($slot->end_time)->format('h:i A') }} ({{ $slot->end_time }})</td>
                         <td>
                             <a href="/slot/{{ $slot->id }}/view" class="btn btn-primary">View Details</a>
                         </td>
@@ -42,7 +42,7 @@
 
     @if($past->count())
         <h2>Past Shifts</h2>
-    
+
         <table class="table table-hover">
             <thead>
                 <tr>
@@ -78,5 +78,5 @@
         <div class="general-alert alert alert-danger" role="alert">
             <b>Hey!</b> You haven't signed up for any shifts yet. When you do, they will be listed here.
         </div>
-    @endif    
+    @endif
 @endsection
