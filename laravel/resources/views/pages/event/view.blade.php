@@ -17,7 +17,7 @@
         </div>
 
         <h1 class="relative">
-            Viewing Event: {{ $event->name }}
+            {{ $event->name }}
 
             @if($event->featured)
                 <span class="burn glyphicon glyphicon-fire"></span>
@@ -29,28 +29,21 @@
             <img class="pull-right" src="/files/event/{{ $event->image }}">
         @endif
 
+        <div>
+            <h3 class="relative">
+                From {{ date("M jS, Y", strtotime($event->start_date)) }} to {{ date("M jS, Y", strtotime($event->end_date)) }}
+            </h3>
+        </div>
+        <hr>
+
         @if($event->description)
             <label><h3>Description:</h3></label>
             <p>{!! nl2br(e($event->description)) !!}</p>
+            <hr>
         @endif
 
         <div>
-            <h3>
-                <br><label>Start Date:</label>
-                {{ date("M jS, Y", strtotime($event->start_date)) }}
-            </h3>
-        </div>
-
-        <div>
-            <h3>
-                <label>End Date:</label>
-                {{ date("M jS, Y", strtotime($event->end_date)) }}
-            </h3>
-        </div>
-
-        <div>
-            <h3>
-                <br><label>Legend:</label><br>
+            <label><h3>Legend:</h3></label><br>
                 <ul>
                     <h4>
                         <li style="color:#8CC252">
@@ -64,7 +57,6 @@
                         </li>
                     </h4>
                 </ul>
-            </h3>
         </div>
 
         @can('read-department')
@@ -133,7 +125,7 @@
 
                                     <div class="department" data-id="{{ $department->id }}">
                                         <div class="title">
-                                            <strong style="color:grey;font-size:175%;">{{ $department->name }}</strong>
+                                            <strong style="color:grey;font-size:150%;">{{ $department->name }}</strong>
 
                                             @if($department->description)
                                                 <span class="description">
