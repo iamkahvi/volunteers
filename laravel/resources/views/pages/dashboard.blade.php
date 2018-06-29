@@ -13,6 +13,7 @@
     <hr>
 
     <a href="/profile" class="btn btn-primary">View Your Profile</a>
+    <a href="/profile/shifts" class="btn btn-primary">View Your Shifts</a>
 
     @can('create-event')
         <a href="/event" class="btn btn-primary">Create an Event</a>
@@ -22,48 +23,72 @@
         <h2>Ongoing Events</h2>
         <hr>
 
-        @foreach($present as $event)
-            <p style="font-size:1.2em;">
-                @if($event->featured)
-                    <span class="burn glyphicon glyphicon-fire"></span>
-                @endif
+        <div class="list-group">
+            @foreach($present as $event)
 
-                <b><a href='/event/{{ $event->id }}'>{{ $event->name }}</a></b>
-                <i>(from {{ $event->start_date }} until {{ $event->end_date }})</i>
-            </p>
-        @endforeach
+            <a href='/event/{{ $event->id }}' class="list-group-item"><h4>
+                <b style="font-size:1.3em;color:#337AB7">
+                    @if($event->featured)
+                        <span class="burn glyphicon glyphicon-fire"></span>
+                    @endif
+                    {{ $event->name }}
+                </b>
+                <i style="text-overflow:ellipsis;white-space:nowrap;overflow:hidden;">
+                    <!--(from {{ $event->start_date }} until {{ $event->end_date }})-->
+                    {{ date("M jS", strtotime($event->start_date)) }} to {{ date("M jS, Y", strtotime($event->end_date)) }}
+                </i>
+            </h4></a>
 
-        <br>
+            @endforeach
+        </div>
     @endif
 
     @if(count($future))
         <h2>Upcoming Events</h2>
         <hr>
 
-        @foreach($future as $event)
-            <p style="font-size:1.2em;">
-                @if($event->featured)
-                    <span class="burn glyphicon glyphicon-fire"></span>
-                @endif
+        <div class="list-group">
+            @foreach($future as $event)
 
-                <b><a href='/event/{{ $event->id }}'>{{ $event->name }}</a></b>
-                <i>(from {{ $event->start_date }} until {{ $event->end_date }})</i>
-            </p>
-        @endforeach
+            <a href='/event/{{ $event->id }}' class="list-group-item"><h4>
+                <b style="font-size:1.3em;color:#337AB7">
+                    @if($event->featured)
+                        <span class="burn glyphicon glyphicon-fire"></span>
+                    @endif
+                    {{ $event->name }}
+                </b>
+                <i style="text-overflow:ellipsis;white-space:nowrap;overflow:hidden;">
+                    <!--(from {{ $event->start_date }} until {{ $event->end_date }})-->
+                    {{ date("M jS", strtotime($event->start_date)) }} to {{ date("M jS, Y", strtotime($event->end_date)) }}
+                </i>
+            </h4></a>
 
-        <br>
+            @endforeach
+        </div>
     @endif
 
     @if(count($past))
         <h2>Past Events</h2>
         <hr>
 
-        @foreach($past as $event)
-            <p style="font-size:1.2em;">
-                <b><a href='/event/{{ $event->id }}'>{{ $event->name }}</a></b>
-                <i>(from {{ $event->start_date }} until {{ $event->end_date }})</i>
-            </p>
-        @endforeach
+        <div class="list-group">
+            @foreach($past as $event)
+
+            <a href='/event/{{ $event->id }}' class="list-group-item"><h4>
+                <b style="font-size:1.3em;color:#337AB7">
+                    @if($event->featured)
+                        <span class="burn glyphicon glyphicon-fire"></span>
+                    @endif
+                    {{ $event->name }}
+                </b>
+                <i style="text-overflow:ellipsis;white-space:nowrap;overflow:hidden;">
+                    <!--(from {{ $event->start_date }} until {{ $event->end_date }})-->
+                    {{ date("M jS", strtotime($event->start_date)) }} to {{ date("M jS, Y", strtotime($event->end_date)) }}
+                </i>
+            </h4></a>
+
+            @endforeach
+        </div>
 
         <br>
     @endif
