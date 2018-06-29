@@ -13,7 +13,7 @@
             <thead>
                 <tr>
                     <th>Event</th>
-                    <th>Department</th>
+                    <th>Activity</th>
                     <th>Shift</th>
                     <th>Date</th>
                     <th>Start Time</th>
@@ -47,7 +47,7 @@
             <thead>
                 <tr>
                     <th>Event</th>
-                    <th>Department</th>
+                    <th>Activity</th>
                     <th>Shift</th>
                     <th>Date</th>
                     <th>Start Time</th>

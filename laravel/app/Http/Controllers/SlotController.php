@@ -27,13 +27,17 @@ class SlotController extends Controller
     private function eventHasPassed(Slot $slot)
     {
         $start_date = new Carbon($slot->start_date);
+        $start_time = new Carbon($slot->start_time);
 
-        if($start_date->lte(Carbon::today()))
+        if($start_date->gte(Carbon::today()))
         {
-            return true;
+            if($start_time->gt(Carbon::today()))
+            {
+                return false;
+            }
         }
 
-        return false;
+        return true;
     }
 
     // Helper function to determine allowed roles
@@ -91,7 +95,7 @@ class SlotController extends Controller
 
         if($this->eventHasPassed($slot))
         {
-            $request->session()->flash('error', 'This event is starting soon or has already started, you are no longer able to sign up for shifts online. See you at the burn!');
+            $request->session()->flash('error', 'This event is starting soon or has already started, you are no longer able to sign up for shifts online.');
             return redirect()->back();
         }
 

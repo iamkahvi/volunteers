@@ -11,18 +11,14 @@
 
     <h2 style="color:grey"><ins>Instructions</ins></h2>
 
-    <ol>
+    <ol><h4>
         <li>
-            <h4>
-                Select an event from the homepage
-            </h4>
+            Select an event from the homepage
         </li>
         <li>
-            <h4>
-                Register for shifts by clicking on available time slots
-            </h4>
+            Register for shifts by clicking on available time slots
         </li>
-    </ol>
+    </ol></h4>
 
     <hr>
 

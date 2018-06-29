@@ -23,18 +23,20 @@
                 <span class="burn glyphicon glyphicon-fire"></span>
             @endif
         </h1>
+
+        <div>
+            <h4 class="relative">
+                {{ date("M jS, Y", strtotime($event->start_date)) }} to {{ date("M jS, Y", strtotime($event->end_date)) }}
+            </h4>
+        </div>
+
         <hr>
 
         @if($event->image)
             <img class="pull-right" src="/files/event/{{ $event->image }}">
         @endif
 
-        <div>
-            <h3 class="relative">
-                From {{ date("M jS, Y", strtotime($event->start_date)) }} to {{ date("M jS, Y", strtotime($event->end_date)) }}
-            </h3>
-        </div>
-        <hr>
+
 
         @if($event->description)
             <label><h3>Description:</h3></label>
@@ -94,7 +96,7 @@
 
                 <div class="form-group">
                     <select class="form-control filter-departments">
-                        <option value="all">Show All Departments</option>
+                        <option value="all">Show All Activities</option>
 
                         @foreach($event->departments->sortBy('name') as $department)
                             <option value="{{ $department->id }}">{{ $department->name }}</option>
