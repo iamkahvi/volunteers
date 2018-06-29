@@ -1,5 +1,7 @@
 <?php
 
+use App\Http\Controllers\SlotController;
+
 $class = "slot empty";
 $href = "/slot/{$slot->id}/view";
 $name = "";
@@ -38,17 +40,20 @@ if($href)
 }
 
 // If the event has passed, remove any links
+
+
 $start_date = new \Carbon\Carbon($slot->start_date);
 
-if($start_date->lt(\Carbon\Carbon::now()))
+if($start_date->lte(\Carbon\Carbon::today()))
 {
     $start_time = new \Carbon\Carbon($slot->start_time);
 
-    if($start_time->lt(\Carbon\Carbon::now()))
+    if($start_time->lt(\Carbon\Carbon::today()))
     {
         $href = "";
     }
 }
+
 
 ?>
 
