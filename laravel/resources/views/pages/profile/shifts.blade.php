@@ -28,9 +28,9 @@
                         <td><a href="/event/{{ $slot->event->id }}">{{ $slot->event->name }}</a></td>
                         <td>{{ $slot->department->name }}</td>
                         <td>{{ $slot->schedule->shift->name }}</td>
-                        <td>{{ Carbon::parse($slot->start_date)->formatLocalized('%A') }} ({{ $slot->start_date }})</td>
-                        <td>{{ Carbon::parse($slot->start_time)->format('h:i A') }} ({{ $slot->start_time }})</td>
-                        <td>{{ Carbon::parse($slot->end_time)->format('h:i A') }} ({{ $slot->end_time }})</td>
+                        <td>{{ date("M jS, Y", strtotime($slot->start_date)) }} ({{ $slot->start_date }})</td>
+                        <td>{{ Carbon::parse($slot->start_time)->format('h:i A') }}</td>
+                        <td>{{ Carbon::parse($slot->end_time)->format('h:i A') }}</td>
                         <td>
                             <a href="/slot/{{ $slot->id }}/view" class="btn btn-primary">View Details</a>
                         </td>
@@ -63,9 +63,9 @@
                             <td><a href="/event/{{ $slot->event->id }}">{{ $slot->event->name }}</a></td>
                             <td>{{ $slot->department->name }}</td>
                             <td>{{ $slot->schedule->shift->name }}</td>
-                            <td>{{ Carbon::parse($slot->start_date)->formatLocalized('%A') }} ({{ $slot->start_date }})</td>
-                            <td>{{ Carbon::parse($slot->start_time)->format('h:i a') }} ({{ $slot->start_time }})</td>
-                            <td>{{ Carbon::parse($slot->end_time)->format('h:i a') }} ({{ $slot->end_time }})</td>
+                            <td>{{ date("M jS, Y", strtotime($slot->start_date)) }} ({{ $slot->start_date }})</td>
+                            <td>{{ Carbon::parse($slot->start_time)->format('h:i A') }}</td>
+                            <td>{{ Carbon::parse($slot->end_time)->format('h:i A') }}</td>
                             <td><a href="/slot/{{ $slot->id }}/view" class="btn btn-primary">View Details</a></td>
                         </tr>
                     @endif

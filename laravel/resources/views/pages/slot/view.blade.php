@@ -46,7 +46,7 @@ if(!empty($slot->user))
     {!! Form::open(['url' => $url]) !!}
         <div>
             <label>Start Date</label>
-            {{ $slot->start_date }}
+            {{ date("M jS, Y", strtotime($slot->start_date)) }}
         </div>
 
         <div>
