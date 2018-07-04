@@ -15,6 +15,7 @@
 
                 @if(Auth::check())
                         <li><a href="/profile/shifts">Your Shifts</a></li>
+                        <li><a href="/">Events</a></li>
 
                         @if(Auth::user()->hasRole('admin'))
                             <li><a href="/event">New Event</a></li>
@@ -23,6 +24,7 @@
                             <li><a href="/reports">Reports</a></li>
                         @endif
                 @endif
+
             </ul>
 
             <ul class="nav navbar-nav navbar-right">
