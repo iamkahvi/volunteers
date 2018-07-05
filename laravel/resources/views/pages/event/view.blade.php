@@ -70,11 +70,19 @@
         @can('read-shift')
             <a href="/event/{{ $event->id }}/shifts" class="btn btn-primary">View All Shifts</a>
         @endcan
+        <br><br>
+
+        @can('create-department')
+            <a href="/event/{{ $event->id }}/department/create" class="btn btn-primary">Create Department</a>
+        @endcan
+
+        @can('create-shift')
+            <a href="/event/{{ $event->id }}/shift/create" class="btn btn-primary">Create Shift</a>
+        @endcan
 
         @can('create-schedule')
             <a href="/event/{{ $event->id }}/schedule/create" class="btn btn-primary">Add a Shift to the Schedule</a>
         @endcan
-
 
         <hr>
 
@@ -204,15 +212,6 @@
                 @endforeach
             </div>
 
-            <hr>
-
-            @can('create-department')
-                <a href="/event/{{ $event->id }}/department/create" class="btn btn-primary">Create Department</a>
-            @endcan
-
-            @can('create-shift')
-                <a href="/event/{{ $event->id }}/shift/create" class="btn btn-primary">Create Shift</a>
-            @endcan
         @endif
     </section>
 @endsection
