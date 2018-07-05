@@ -56,7 +56,7 @@ use Carbon\Carbon;
                     <th>End Time</th>
                     <th>Username</th>
                     <th>Real Name</th>
-                    <th>Playa Name</th>
+                    <th>Public Name</th>
                     <th>Flake?</th>
                     <th>Awesome?</th>
                 </tr>

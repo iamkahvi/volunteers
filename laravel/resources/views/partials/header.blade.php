@@ -1,12 +1,12 @@
-<nav class="navbar navbar-inverse navbar-fixed-top">
+<nav class="navbar navbar-default navbar-fixed-top">
     <div class="container-fluid">
         <div class="hamburger pull-right visible-xs">
             <span class="glyphicon glyphicon-menu-hamburger"></span>
         </div>
 
         <div class="navbar-header">
-            <a class="pull-left" href="/"><img style="padding:5px" src="/img/logocorner.png" ></a>
-            <a class="navbar-brand" href="/">Loving Spoonful</a>
+            <a class="pull-left" href="/"><img style="padding:5px;height:50px" src="/img/logocorner4.png" ></a>
+            <a class="navbar-brand" href="/">Volunteer Robot</a>
         </div>
 
         <div class="collapse navbar-collapse">

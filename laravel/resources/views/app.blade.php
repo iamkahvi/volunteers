@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Volunteer Database</title>
-        <link rel="shortcut icon" href="/img/favicon.ico"/>
+        <title>Volunteer Robot</title>
+        <link rel="shortcut icon" href="/img/favicon2.ico"/>
 
         <!-- Bootstrap styles -->
         <link rel="stylesheet" href="/css/bootstrap.min.css">
