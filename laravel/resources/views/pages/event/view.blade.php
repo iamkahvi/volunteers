@@ -55,7 +55,7 @@
                             <p>Taken shifts</p>
                         </li>
                         <li style="color:#d83664">
-                            <p>User's taken shifts</p>
+                            <p>Your shifts</p>
                         </li>
                     </h4>
                 </ul>

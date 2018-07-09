@@ -9,20 +9,20 @@
 
     <hr>
 
-    <h2 style="color:grey"><ins>Instructions</ins></h2>
+    <h2><ins>Instructions</ins></h2>
 
-    <ol><h4>
+    <ol>
         <li>
             Select an event from the homepage
         </li>
         <li>
             Register for shifts by clicking on available time slots
         </li>
-    </ol></h4>
+    </ol>
 
     <hr>
 
-    <h2 style="color:grey"><ins>Features</ins></h2>
+    <h2><ins>Features</ins></h2>
 
     <h3>Mobile friendly</h3>
 
@@ -60,7 +60,7 @@
 
     <hr>
 
-    <h2 style="color:grey"><ins>History</ins></h2>
+    <h2><ins>History</ins></h2>
 
     <p>
         Back between late 2014 and early 2015, volunteers from Apogaea were working on making updates to their existing volunteer database.
