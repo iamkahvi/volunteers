@@ -49,8 +49,6 @@ $(document).ready(function()
     {
         var date = $(this).value();
 
-        alert(date.toString());
-
         if(date == "all")
         {
             // Show all the days
@@ -66,8 +64,6 @@ $(document).ready(function()
             let m = moment();
 
             m = moment(date.toString());
-
-            alert(m);
 
             // Show this one
 
