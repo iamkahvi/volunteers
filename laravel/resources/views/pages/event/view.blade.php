@@ -91,13 +91,12 @@
 
             <form class="form-inline event-filter">
                 Filter:
-
                 <div class="form-group">
                     <select class="form-control filter-days">
                         <option value="all">Show All Days</option>
 
                         @foreach($event->days() as $day)
-                            <option value="{{ $day->date->format('Y-m-d') }}">{{ $day->name }} - {{ $day->date->format('Y-m-d') }}</option>
+                            <option value="{{ $day->date->format('Y-m-d') }}">{{ date("D, F jS", strtotime($day->date->format('Y-m-d'))) }}</option>
                         @endforeach
                     </select>
                 </div>
@@ -111,6 +110,20 @@
                         @endforeach
                     </select>
                 </div>
+
+                <div class="form-group">
+                    <select class="form-control filter-weeks">
+                        <option value="all">Show All Weeks</option>
+
+                        @foreach($event->days() as $day)
+                            @if($day->date->format('D') == "Mon")
+                                <option value="{{ $day->date->format('Y-m-d') }}">Week of {{ date("F jS", strtotime($day->date->format('Y-m-d'))) }}</option>
+                            @endif
+                        @endforeach
+                    </select>
+                </div>
+
+
             </form>
 
             <hr>
