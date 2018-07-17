@@ -11,6 +11,7 @@ var ajaxOptions =
 
 $(document).ready(function()
 {
+
     $('.upload-status').each(function()
     {
         $(this).value($(this).data('status'));
