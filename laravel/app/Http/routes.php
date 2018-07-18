@@ -17,12 +17,12 @@ Route::get('/about', 'PageController@view');
 
 // Resources pages
 Route::get('/resources', 'ResourcesController@view');
-Route::get('/Booths', 'ResourcesController@view');
-Route::get('/Kitchens', 'ResourcesController@view');
-Route::get('/Delivery', 'ResourcesController@view');
-Route::get('/GROW', 'ResourcesController@view');
-Route::get('/Events', 'ResourcesController@view');
-Route::get('/Gleaning', 'ResourcesController@view');
+Route::get('/booths', 'ResourcesController@view');
+Route::get('/kitchens', 'ResourcesController@view');
+Route::get('/delivery', 'ResourcesController@view');
+Route::get('/grow', 'ResourcesController@view');
+Route::get('/events', 'ResourcesController@view');
+Route::get('/gleaning', 'ResourcesController@view');
 
 // User authentication routes
 Route::get('/register', 'PageController@view');
@@ -115,7 +115,7 @@ Route::get('/user/{user}', 'AdminController@userProfile');
 Route::post('/user/{user}/edit', 'AdminController@userEdit');
 
 Route::get('/uploads', 'AdminController@uploadList');
-Route::post('/upload/{upload}/edit', 'AdminController@uploadEdit'); 
+Route::post('/upload/{upload}/edit', 'AdminController@uploadEdit');
 
 Route::get('/reports', 'ReportController@reportList');
 Route::post('/report/users', 'ReportController@searchUsers');

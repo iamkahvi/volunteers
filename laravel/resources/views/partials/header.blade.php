@@ -18,12 +18,12 @@
                       <ul class="dropdown-menu">
                             <li><a href="/resources">Volunteer Handbook</a></li>
                             <li role="separator" class="divider"></li>
-                            <li><a href="/Delivery">Fresh Food Delivery</a></li>
-                            <li><a href="/Booths">GAR Market Booths</a></li>
-                            <li><a href="/Kitchens">Community Kitchens</a></li>
-                            <li><a href="/GROW">GROW Project</a></li>
-                            <li><a href="/Gleaning">Gleaning</a></li>
-                            <li><a href="/Events">Events</a></li>
+                            <li><a href="/delivery">Fresh Food Delivery</a></li>
+                            <li><a href="/booths">GAR Market Booths</a></li>
+                            <li><a href="/kitchens">Community Kitchens</a></li>
+                            <li><a href="/grow">GROW Project</a></li>
+                            <li><a href="/gleaning">Gleaning</a></li>
+                            <li><a href="/events">Events</a></li>
                             <li role="separator" class="divider"></li>
                             <li><a href="/about">About Vol-Robot</a></li>
 
