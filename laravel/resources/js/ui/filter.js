@@ -7,6 +7,8 @@ $(document).ready(function()
 
     $('.filter-days').on('change', function()
     {
+        $('.days .day').removeClass('hidden');
+
         var date = $(this).value();
 
         if(date == "all")
@@ -16,6 +18,7 @@ $(document).ready(function()
         }
         else
         {
+
             // Hide all the days
             $('.days .day').addClass('hidden');
 
@@ -47,6 +50,8 @@ $(document).ready(function()
 
     $('.filter-weeks').on('change', function()
     {
+        $('.days .day').removeClass('hidden');
+
         var date = $(this).value();
 
         if(date == "all")
