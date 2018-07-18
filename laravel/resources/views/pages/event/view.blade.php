@@ -117,9 +117,14 @@
                 <div class="form-group" style="padding-right:15px;">
                     <select class="form-control filter-days">
                         <option value="all">Show All Days</option>
+                        <option disabled>──────────</option>
+
 
                         @foreach($event->days() as $day)
-                            <option value="{{ $day->date->format('Y-m-d') }}">{{ date("D, F jS", strtotime($day->date->format('Y-m-d'))) }}</option>
+                            @if($day->date->format('D') == "Mon")
+                                <option disabled>──────────</option>
+                            @endif
+                                <option value="{{ $day->date->format('Y-m-d') }}">{{ date("D, F jS", strtotime($day->date->format('Y-m-d'))) }}</option>
                         @endforeach
                     </select>
                 </div>
