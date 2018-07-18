@@ -2,6 +2,7 @@ body {
     overflow-x: hidden;
 }
 
+
 section.content {
     margin-top: 4em;
 }
@@ -28,6 +29,16 @@ section.content {
 
 .navbar-collapse.open {
     display: block;
+}
+
+.navbar-default {
+    background-image: none;
+    box-shadow: none;
+}
+
+.dropdown {
+    background-image: none;
+    box-shadow: none;
 }
 
 .footer {

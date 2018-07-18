@@ -1,3 +1,4 @@
+
 <nav class="navbar navbar-default navbar-fixed-top">
     <div class="container-fluid">
         <div class="hamburger pull-right visible-xs">
@@ -11,7 +12,24 @@
 
         <div class="collapse navbar-collapse">
             <ul class="nav navbar-nav">
-                <li><a href="/about">About</a></li>
+
+                <li class="dropdown">
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Resources <span class="caret"></span></a>
+                      <ul class="dropdown-menu">
+                            <li><a href="/resources">Volunteer Handbook</a></li>
+                            <li role="separator" class="divider"></li>
+                            <li><a href="/Delivery">Fresh Food Delivery</a></li>
+                            <li><a href="/Booths">GAR Market Booths</a></li>
+                            <li><a href="/Kitchens">Community Kitchens</a></li>
+                            <li><a href="/GROW">GROW Project</a></li>
+                            <li><a href="/Gleaning">Gleaning</a></li>
+                            <li><a href="/Events">Events</a></li>
+                            <li role="separator" class="divider"></li>
+                            <li><a href="/about">About Vol-Robot</a></li>
+
+                      </ul>
+                </li>
+
 
                 @if(Auth::check())
                         <li><a href="/profile/shifts">Your Shifts</a></li>

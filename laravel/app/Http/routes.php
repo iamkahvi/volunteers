@@ -15,6 +15,14 @@
 Route::get('/', 'PageController@home');
 Route::get('/about', 'PageController@view');
 
+// Resources pages
+Route::get('/resources', 'ResourcesController@view');
+Route::get('/Booths', 'ResourcesController@view');
+Route::get('/Kitchens', 'ResourcesController@view');
+Route::get('/Delivery', 'ResourcesController@view');
+Route::get('/GROW', 'ResourcesController@view');
+Route::get('/Events', 'ResourcesController@view');
+Route::get('/Gleaning', 'ResourcesController@view');
 
 // User authentication routes
 Route::get('/register', 'PageController@view');
