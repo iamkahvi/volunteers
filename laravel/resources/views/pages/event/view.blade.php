@@ -90,18 +90,9 @@
             <h2>All Shifts</h2>
 
             <form class="form-inline event-filter">
-                Filter:
-                <div class="form-group">
-                    <select class="form-control filter-days">
-                        <option value="all">Show All Days</option>
+                <span style="padding-right:15px; font-size:15px;">Filter:</span>
 
-                        @foreach($event->days() as $day)
-                            <option value="{{ $day->date->format('Y-m-d') }}">{{ date("D, F jS", strtotime($day->date->format('Y-m-d'))) }}</option>
-                        @endforeach
-                    </select>
-                </div>
-
-                <div class="form-group">
+                <div class="form-group" style="padding-right:15px;">
                     <select class="form-control filter-departments">
                         <option value="all">Show All Activities</option>
 
@@ -111,7 +102,7 @@
                     </select>
                 </div>
 
-                <div class="form-group">
+                <div class="form-group" style="padding-right:15px;">
                     <select class="form-control filter-weeks">
                         <option value="all">Show All Weeks</option>
 
@@ -119,6 +110,16 @@
                             @if($day->date->format('D') == "Mon")
                                 <option value="{{ $day->date->format('Y-m-d') }}">Week of {{ date("F jS", strtotime($day->date->format('Y-m-d'))) }}</option>
                             @endif
+                        @endforeach
+                    </select>
+                </div>
+
+                <div class="form-group" style="padding-right:15px;">
+                    <select class="form-control filter-days">
+                        <option value="all">Show All Days</option>
+
+                        @foreach($event->days() as $day)
+                            <option value="{{ $day->date->format('Y-m-d') }}">{{ date("D, F jS", strtotime($day->date->format('Y-m-d'))) }}</option>
                         @endforeach
                     </select>
                 </div>
