@@ -2,6 +2,14 @@ body {
     overflow-x: hidden;
 }
 
+.navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:hover {
+    color: #000000;
+    text-decoration: underline;
+}
+
+.navbar-default .navbar-nav:focus, .navbar-default .navbar-nav>li:hover {
+    background-color: #e7e7e7;
+}
 
 section.content {
     margin-top: 4em;
