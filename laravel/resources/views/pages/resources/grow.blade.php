@@ -3,13 +3,13 @@
 @section('content')
 <div class="col-sm-2"></div>
 <div class="col-sm-8">
-    <h1>GROW Project</h1>
+    <h2>GROW Project</h2>
     <p>Loving Spoonful&rsquo;s GROW Project teaches elementary school students about community and collaboration, local food systems and stewardship, and gardening and cooking through classroom and garden workshops.</p>
     <p>GROW Project Volunteers will choose to:</p>
     <p>1) Assist with in-class and in-garden workshops that occur during the school year (in April, May &amp; June and Oct &amp; Nov) at our GROW schools <strong>and/or</strong></p>
     <p>2) Look after one GROW school garden during the summer (July &amp; August)</p>
     <ul>
-    <li><em>In-school and summer volunteer shifts are approximately 2 hours in length. </em></li>
+    <li><em>In-school and summer volunteer shifts are approximately 2 hours in length.</em></li>
     </ul>
     <p>During the in-school workshops, you will assist with workshop activities as required, including set up and clean up, small group work, and one-on-one interactions (e.g., ensuring knife safety when cooking, helping with seedling transplanting, planting gardens, etc.). When appropriate, you will talk to students about relevant topics to generate discussion around the activity.</p>
     <p>If volunteering in the summer program, you will be responsible for ensuring the garden is well watered and weeded a minimum of once per week. You will also help with thinning of the crops as needed, and will need to make sure cuttings and weeds are disposed of. This will include harvesting any ripe produce and ensuring it is delivered to Loving Spoonful as needed.</p>

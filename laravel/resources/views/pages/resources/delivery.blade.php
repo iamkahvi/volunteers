@@ -3,12 +3,12 @@
 @section('content')
 <div class="col-sm-2"></div>
 <div class="col-sm-8">
-    <h1>Fresh Food Delivery</h1>
+    <h2>Fresh Food Delivery</h2>
     <p>Fresh Food Delivery drivers are responsible for picking up donated surplus food from restaurants, grocers, caterers, and farmers&rsquo; markets and delivering it to local shelters and meal programs to get it to people experiencing hunger.</p>
     <p>Regular routes are available weekly, or you may sign up to cover one-time routes on an occasional basis. If you are delivering food by car, you will need a valid driver&rsquo;s license and regular or occasional access to a vehicle. If you are using a bike to deliver food you will need access to a bicycle; large bike trailer or the willingness to attach one to your bicycle and a backpack, panniers, and/or basket for transporting food.</p>
     <p>You will need:</p>
     <ul>
-    <li>An account on the <a href="robot.boulderfoodrescue.org">Food Rescue Robot</a> (sign up for region=Loving Spoonful)</li>
+    <li>An account on the <a href="https://wordhtml.com/robot.boulderfoodrescue.org">Food Rescue Robot</a> (sign up for region=Loving Spoonful)</li>
     <li>Route details (time, locations, route order, any special instructions)</li>
     <li>A scale for weighing donated food (in pounds (lb))</li>
     <li>A Loving Spoonful car magnet (while supplies last)</li>
@@ -21,7 +21,7 @@
     <h3>SAFE LIFTING TIPS</h3>
     <p>Some of the volunteer roles require lifting heavy objects. Improper lifting techniques can potentially lead to various back injuries. Here are a few simple tips about how to lift heavy objects safely:</p>
     <ul>
-    <li>Always begin with your feet should be shoulder-width apart, with one foot slightly ahead of the other.</li>
+    <li>Always begin with your feet shoulder-width apart, with one foot slightly ahead of the other.</li>
     <li>Squat down, bending at the hips and knees only. Do not attempt to lift by bending forward.</li>
     <li>Look straight ahead, and keep your back straight, your chest out, and your shoulders back. This helps keep your upper back straight while having a slight arch in your lower back.</li>
     <li>Slowly lift by straightening your hips and knees (not your back). Keep your back straight.</li>
