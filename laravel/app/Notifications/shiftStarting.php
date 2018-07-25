@@ -60,22 +60,20 @@ class ShiftStarting extends Notification
       if ($this->shift->user_id == $this->user->id){
 
            return (new MailMessage)
-                       ->subject('You Have a Shift Starting Soon!')
-                       ->greeting('Hello '.$this->user->name.', you have a shift starting soon!')
-                       ->line('Description: '.$this->shift->getDepartmentAttribute()->description)
+                       ->subject('Shift Starting Soon!')
+                       ->greeting('Hello '.$this->user->name.', your shift begins at '.date('g:i A',strtotime($this->shift->start_time)))
                        ->action('View Shift',env('SITE_URL').'/slot/'.$this->shift->id.'/view')
-                       ->line('This shift begins at '.date('g:i A',strtotime($this->shift->start_time)));
+                       ->line('Description: '.$this->shift->getDepartmentAttribute()->description);
        }
 
        // If not, the notification is for the admin
        else {
 
            return (new MailMessage)
-                       ->subject('There Is a Shift Starting Soon')
-                       ->greeting('Hello '.$this->user->name.', no one has signed up for a shift that is starting soon!')
-                       ->line('Description: '.$this->shift->getDepartmentAttribute()->description)
+                       ->subject('Admin: Shift Starting Soon')
+                       ->greeting('No one has signed up for a shift that begins at '.date('g:i A',strtotime($this->shift->start_time)))
                        ->action('View Shift',env('SITE_URL').'/slot/'.$this->shift->id.'/view')
-                       ->line('This shift begins at '.date('g:i A',strtotime($this->shift->start_time)));
+                       ->line('Description: '.$this->shift->getDepartmentAttribute()->description);
        }
    }
 
