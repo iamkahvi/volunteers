@@ -50,6 +50,11 @@ class sendEmail extends Command
     {
         $shift = Slot::get()->first();
 
+        $user = User::get()->where('email', '=', 'kahvi@lovingspoonful.org')->first();
+
+        $user->notify(new shiftStarting($shift, $user));
+
+        /*
         $admins = UserRole::get()->where('role_id', 1);
 
         //echo $admins.PHP_EOL;
@@ -60,6 +65,7 @@ class sendEmail extends Command
 
             $user->notify(new shiftStarting($shift, $user));
         }
+        */
 
 
 
