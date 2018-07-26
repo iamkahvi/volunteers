@@ -12,6 +12,9 @@
     </h1>
     <hr>
 
+    <a href="/about" class="btn btn-primary btn-lg"> Click here for instruction on how to use the Robot!</a>
+    <hr>
+
     <div class="profile">
         <div class="row">
             <div class="col-sm-2 title">Username</div>
