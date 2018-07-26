@@ -12,7 +12,7 @@
         <table class="table table-hover">
             <thead>
                 <tr>
-                    <th>Event</th>
+                    <th>Program</th>
                     <th>Activity</th>
                     <th>Shift</th>
                     <th>Date</th>
@@ -46,7 +46,7 @@
         <table class="table table-hover">
             <thead>
                 <tr>
-                    <th>Event</th>
+                    <th>Program</th>
                     <th>Activity</th>
                     <th>Shift</th>
                     <th>Date</th>

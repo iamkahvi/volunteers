@@ -25,7 +25,7 @@
                             <li><a href="/gleaning">Gleaning</a></li>
                             <li><a href="/events">Events</a></li>
                             <li role="separator" class="divider"></li>
-                            <li><a href="/about">About Vol-Robot</a></li>
+                            <li><a href="/about">Instructions</a></li>
 
                       </ul>
                 </li>
@@ -33,7 +33,7 @@
 
                 @if(Auth::check())
                         <li><a href="/profile/shifts">Your Shifts</a></li>
-                        <li><a href="/">Events</a></li>
+                        <li><a href="/">Programs</a></li>
 
                         @if(Auth::user()->hasRole('admin'))
                             <li><a href="/event">New Event</a></li>
