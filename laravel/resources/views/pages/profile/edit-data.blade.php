@@ -29,6 +29,7 @@
         [
             'name' => 'phone',
             'label' => 'Phone Number',
+            'help' => "Optional.",
             'value' => (is_null($user->data)) ? '' : $user->data->phone
         ])
 
@@ -36,6 +37,7 @@
         [
             'name' => 'emergency_name',
             'label' => 'Emergency Contact',
+            'help' => "Optional.",
             'value' => (is_null($user->data)) ? '' : $user->data->emergency_name
         ])
 
@@ -43,6 +45,7 @@
         [
             'name' => 'emergency_phone',
             'label' => 'Emergency Phone Number',
+            'help' => "Optional.",
             'value' => (is_null($user->data)) ? '' : $user->data->emergency_phone
         ])
 
