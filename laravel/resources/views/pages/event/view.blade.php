@@ -87,10 +87,9 @@
         <hr>
 
         @if($event->departments->count())
-            <h2>All Shifts</h2>
+            <h2>Filters: </h2>
 
             <form class="form-inline event-filter">
-                <span style="padding-right:15px; font-size:15px;">Filter:</span>
 
                 <div class="form-group" style="padding-right:15px;">
                     <select class="form-control filter-departments">
@@ -133,6 +132,8 @@
             </form>
 
             <hr>
+
+            <h2>All Shifts:</h2>
 
             <div class="days">
                 @foreach($event->days() as $day)
