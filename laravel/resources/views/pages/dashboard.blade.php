@@ -20,7 +20,7 @@
     @endcan
 
     @if(count($present))
-        <h2>Ongoing Events:</h2>
+        <h2>Ongoing Programs:</h2>
 
         <div class="list-group">
             @foreach($present as $event)
@@ -44,7 +44,7 @@
     @endif
 
     @if(count($future))
-        <h2>Upcoming Events:</h2>
+        <h2>Upcoming Programs:</h2>
 
         <div class="list-group">
             @foreach($future as $event)
@@ -68,7 +68,7 @@
     @endif
 
     @if(count($past))
-        <h2>Past Events:</h2>
+        <h2>Past Programs:</h2>
 
         <div class="list-group">
             @foreach($past as $event)
