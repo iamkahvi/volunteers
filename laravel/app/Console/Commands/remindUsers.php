@@ -62,10 +62,10 @@ class remindUsers extends Command
              if($shift->start_date == date('Y-m-d'))
              {
 
-                 // Find all the shifts that start within the next hour
-                 if(date('H:i:s', strtotime($shift->start_time) - 3600) <= date('H:i:s') and $shift->start_time > date('H:i:s'))
+                 // Find all the shifts that start within the next day
+                 if(date('H:i:s', strtotime($shift->start_time) - 86400) <= date('H:i:s') and $shift->start_time > date('H:i:s'))
                  {
-                     echo date('H:i:s', strtotime($shift->start_time) - 3600).' is less than or equal to '.date('H:i:s').PHP_EOL;
+                     echo date('H:i:s', strtotime($shift->start_time) - 86400).' is less than or equal to '.date('H:i:s').PHP_EOL;
 
                      echo $shift->start_time.' is greater than '.date('H:i:s').PHP_EOL;
 
@@ -83,9 +83,9 @@ class remindUsers extends Command
                              // Find all admin users
                              foreach ($admins as $admin)
                              {
-                                 $user = User::get()->where('id', $admin->user_id)->first();
+                                 //$user = User::get()->where('id', $admin->user_id)->first();
 
-                                 $user->notify(new shiftStarting($shift, $user));
+                                 //$user->notify(new shiftStarting($shift, $user));
                              }
 
                          } else
