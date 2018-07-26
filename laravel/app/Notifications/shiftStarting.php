@@ -7,6 +7,7 @@ use Illuminate\Notifications\Notification;
 use Illuminate\Contracts\Queue\ShouldQueue;
 use Illuminate\Notifications\Messages\MailMessage;
 use App\Models\Shift;
+use App\Models\Schedule;
 use App\Models\Slot;
 use App\Models\User;
 use App\Models\UserRole;
@@ -56,25 +57,42 @@ class ShiftStarting extends Notification
 
        $urlEvent = url('/event/'.$this->shift->getEventAttribute()->id);
 
-      // Check if user is signed up for shift
-      if ($this->shift->user_id == $this->user->id){
+       // Get the shift object
+       $schedules = Schedule::get()->where('id', '=', $this->shift->schedule_id);
+       foreach ($schedules as $schedule)
+       {
+          if (Shift::get()->where('id', '=', $schedule->shift_id)->isEmpty())
+          {
 
-           return (new MailMessage)
-                       ->subject('Shift Starting Soon!')
-                       ->greeting('Hello '.$this->user->name.', your shift begins at '.date('g:i A',strtotime($this->shift->start_time)))
-                       ->action('View Shift',env('SITE_URL').'/slot/'.$this->shift->id.'/view')
-                       ->line('Description: '.$this->shift->getDepartmentAttribute()->description);
+          } else
+          {
+              $theShift = Shift::get()->where('id', '=', $schedule->shift_id)->first();
+          }
        }
 
+      // Check if user is signed up for shift
+      //if ($this->shift->user_id == $this->user->id) {
+
+           return (new MailMessage)
+                       ->subject($this->shift->getDepartmentAttribute()->name.' Shift Tomorrow!')
+                       ->greeting('Hello '.$this->user->name.'!')
+                       ->line('Thank you so much for being apart of the Loving Spoonful team.')
+                       ->line('This is a friendly reminder of your '.$theShift->name.' shift tomorrow from '.date('g:i A',strtotime($this->shift->start_time)).' to '.date('g:i A',strtotime($this->shift->end_time)))
+                       ->action('View Shift',env('SITE_URL').'/slot/'.$this->shift->id.'/view');
+
+       //}
+
        // If not, the notification is for the admin
+       /*
        else {
 
            return (new MailMessage)
-                       ->subject('Admin: Shift Starting Soon')
-                       ->greeting('No one has signed up for a shift that begins at '.date('g:i A',strtotime($this->shift->start_time)))
+                       ->subject('Admin: '.$this->shift->getDepartmentAttribute()->name.' Shift Starting Soon')
+                       ->greeting('No one has signed up for a '.$theShift->name.' shift that begins at '.date('g:i A',strtotime($this->shift->start_time)))
                        ->action('View Shift',env('SITE_URL').'/slot/'.$this->shift->id.'/view')
-                       ->line('Description: '.$this->shift->getDepartmentAttribute()->description);
+                       ->line('Description: '.$theShift->description);
        }
+       */
    }
 
    /**
