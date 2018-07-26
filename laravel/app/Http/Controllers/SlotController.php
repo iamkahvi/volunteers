@@ -34,7 +34,7 @@ class SlotController extends Controller
         $start_date = new Carbon($slot->start_date);
         $start_time = new Carbon($slot->start_time);
 
-        if($start_date->gte(Carbon::today()))
+        if($start_date->subDays(3)->gte(Carbon::today()))
         {
             if($start_time->gt(Carbon::today()))
             {
@@ -100,7 +100,7 @@ class SlotController extends Controller
 
         if($this->eventHasPassed($slot))
         {
-            $request->session()->flash('error', 'This event is starting soon or has already started, you are no longer able to sign up for shifts online.');
+            $request->session()->flash('error', 'This shift is starting soon or has already started, you are no longer able to sign up for shifts online.');
             return redirect()->back();
         }
 
@@ -113,6 +113,7 @@ class SlotController extends Controller
             event(new SlotChanged($slot, ['status' => 'taken', 'name' => Auth::user()->name]));
             $request->session()->flash('success', 'You signed up for a volunteer shift.');
 
+            // Send notification to administrator
             $volunteer = Auth::user();
 
             $user = User::get()->where('name', '=', 'LovingSpoonful')->first();
@@ -151,7 +152,7 @@ class SlotController extends Controller
         {
             if($this->eventHasPassed($slot))
             {
-                $request->session()->flash('error', 'This event has already passed, you are no longer able to sign up for shifts.');
+                $request->session()->flash('error', 'This shift is happening too soon. Please contact administrator to release shift.');
             }
             else
             {
@@ -163,6 +164,7 @@ class SlotController extends Controller
                     event(new SlotChanged($slot, ['status' => 'released']));
                     $request->session()->flash('success', 'You are no longer volunteering for your shift.');
 
+                    // Send notification to administrator
                     $volunteer = Auth::user();
 
                     $user = User::get()->where('name', '=', 'LovingSpoonful')->first();
