@@ -32,7 +32,7 @@
     <p>All volunteers are required to read and agree to comply with the Privacy Policy, Conflict of Interest Policy, and Code of Conduct. Visit <a href="https://goo.gl/forms/5aLW4dLH5o3hbNCP2">this web form</a> to read and agree to them.</p>
     <h2>Volunteer Roles</h2>
     <p>There are lots of different ways that volunteers contribute to the work of Loving Spoonful.</p>
-    <p><em>Fresh Food Delivery Drivers</em><strong><em>: </em></strong>Pick up donated food from local grocers, farmers, and other businesses and deliver it directly to local shelters and meal programs.</p>
+    <a href="http://volunteer.lovingspoonful.org/delivery"><p><em>Fresh Food Delivery Drivers</em></a><strong><em>: </em></strong>Pick up donated food from local grocers, farmers, and other businesses and deliver it directly to local shelters and meal programs.</p>
     <p><em>Grow A Row Market Booth Representatives</em><strong><em>: </em></strong>Represent us at our booths at the Downtown Kingston Public Market and the Memorial Centre Farmers&rsquo; Market over the summer. Receive fresh healthy produce donated by local farmers and gardeners for local shelters and meal programs.</p>
     <p><em>Community Kitchen Assistant Instructors</em><strong><em>: </em></strong>Help run cooking classes to teach people to cook healthy, affordable and delicious meals while building confidence and community.</p>
     <p><em>GROW Project Workhop Assistants</em><strong><em>: </em></strong>Work in primary schools in Kingston, teaching kids about food security, gardening, healthy eating, and community through in-class and in-garden workshops, or help maintain gardens over the summer.</p>
