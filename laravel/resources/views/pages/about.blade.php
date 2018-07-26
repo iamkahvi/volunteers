@@ -9,16 +9,7 @@
 
     <hr>
 
-    <h2><ins>Instructions</ins></h2>
-
-    <ol>
-        <li>
-            Select an event from the homepage
-        </li>
-        <li>
-            Register for shifts by clicking on available time slots
-        </li>
-    </ol>
+    <h2><ins>Instructions coming soon</ins></h2>
 
     <hr>
 
