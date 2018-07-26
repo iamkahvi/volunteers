@@ -8,12 +8,17 @@ use App\Http\Controllers\Controller;
 
 use App\Http\Requests\SlotRequest;
 use App\Models\Slot;
+use App\Models\User;
 use App\Models\UserRole;
 
 use Illuminate\Support\Facades\Auth;
 
 use App\Events\SlotChanged;
 use Carbon\Carbon;
+
+use App\Notifications\slotTaken;
+use App\Notifications\slotReleased;
+use Illuminate\Notification\Notifications;
 
 class SlotController extends Controller
 {
@@ -108,6 +113,11 @@ class SlotController extends Controller
             event(new SlotChanged($slot, ['status' => 'taken', 'name' => Auth::user()->name]));
             $request->session()->flash('success', 'You signed up for a volunteer shift.');
 
+            $volunteer = Auth::user();
+
+            $user = User::get()->where('name', '=', 'LovingSpoonful')->first();
+            $user->notify(new slotTaken($slot, $volunteer));
+
             // If a password was used
             if($slot->schedule->password)
             {
@@ -152,6 +162,12 @@ class SlotController extends Controller
 
                     event(new SlotChanged($slot, ['status' => 'released']));
                     $request->session()->flash('success', 'You are no longer volunteering for your shift.');
+
+                    $volunteer = Auth::user();
+
+                    $user = User::get()->where('name', '=', 'LovingSpoonful')->first();
+                    $user->notify(new slotReleased($slot, $volunteer));
+
                 }
                 else
                 {
