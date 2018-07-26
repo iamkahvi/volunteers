@@ -35,7 +35,7 @@
                     <td>{{ $user->data->full_name or '' }}</td>
                     <td>{{ $user->data->burner_name or '' }}</td>
                     <td>{{ $user->email }}</td>
-                    <td>{{ implode(", ", $user->getRoleNames()) }}</a></td>
+                    <td>{{ implode("; ", $user->getRoleNames()) }}</a></td>
                     <td>{{ $user->created_at->format('Y-m-d') }}</td>
                 </tr>
             @endforeach
