@@ -9,7 +9,7 @@
 
     <hr>
 
-    <h2><ins>Instructions coming soon</ins></h2>
+    <h2><ins>Instructions are coming soon</ins></h2>
 
     <hr>
 
