@@ -9,6 +9,8 @@ use App\Http\Controllers\Controller;
 
 use App\Models\User;
 use App\Models\UserUpload;
+use App\Events\UserRegistered;
+use App\Http\Requests\UserRequest;
 use App\Events\FileChanged;
 use App\Models\Role;
 use App\Models\UserRole;
@@ -22,12 +24,43 @@ class AdminController extends Controller
         $this->middleware('admin');
         $this->middleware('bindings');
     }
-    
+
+    // Create a new user
+    public function create(UserRequest $request)
+    {
+        // Create user based on post input
+        $input = $request->all();
+        $input['password'] = bcrypt($input['password']);
+        $user = User::create($input);
+
+        // Is this the first user?
+        if($user->id == 1)
+        {
+            UserRole::assign($user, 'admin');
+        }
+        else
+        {
+            // Otherwise assign to volunteer role by default
+            UserRole::assign($user, 'volunteer');
+        }
+
+        // Send notification emails
+        event(new UserRegistered($user));
+
+        $request->session()->flash('success', ['title' => 'The account has been registered!', 'message' => "Before the user can sign up for volunteer shifts, they must enter their full name in the profile section page. All other fields are optional."]);
+
+        $users = User::latest()->get();
+        return view('pages/admin/user-list', compact('users'));
+    }
+
     // List of users
     function userList()
     {
         $users = User::latest()->get();
-        return view('pages/admin/user-list', compact('users'));
+        $userroles = UserRole::latest()->get();
+        $roles = Role::get();
+
+        return view('pages/admin/user-list', compact('users', 'userroles', 'roles'));
     }
 
     // View an indivual user profile
@@ -89,5 +122,19 @@ class AdminController extends Controller
         event(new FileChanged($upload));
 
         return;
+    }
+
+    // General purpose function for displaying views
+    public function view(Request $request)
+    {
+        return view('pages/' . $request->path());
+    }
+
+    public function delete($id)
+    {
+        DB::table('users')->where('id', '=', $id)->delete();
+
+        $users = User::latest()->get();
+        return view('pages/admin/user-list', compact('users'));
     }
 }

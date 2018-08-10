@@ -19,33 +19,7 @@ use App\Models\UserRole;
 
 class UserController extends Controller
 {
-    // Create a new user
-    public function create(UserRequest $request)
-    {
-        // Create user based on post input
-        $input = $request->all();
-        $input['password'] = bcrypt($input['password']);
-        $user = User::create($input);
-
-        // Is this the first user?
-        if($user->id == 1)
-        {
-            UserRole::assign($user, 'admin');
-        }
-        else
-        {
-            // Otherwise assign to volunteer role by default
-            UserRole::assign($user, 'volunteer');
-        }
-
-        $this->auth->loginUsingID($user->id);
-
-        // Send notification emails
-        event(new UserRegistered($user));
-
-        $request->session()->flash('success', ['title' => 'Thanks for registering!', 'message' => "Your account has been created, you are now logged in. Before you can sign up for volunteer shifts you'll need to enter your full name. All other fields are optional."]);
-        return redirect('/profile/data/edit');
-    }
+    
 
     // Handle a user logging in
     public function login(UserRequest $request)

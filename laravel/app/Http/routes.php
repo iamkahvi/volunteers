@@ -25,19 +25,15 @@ Route::get('/events', 'ResourcesController@view');
 Route::get('/gleaning', 'ResourcesController@view');
 
 // User authentication routes
-Route::get('/register', 'PageController@view');
 Route::get('/login', 'PageController@view');
 Route::get('/logout', 'UserController@logout');
 
-Route::post('/register', 'UserController@create');
 Route::post('/login', 'UserController@login');
 
 Route::get('/forgot', 'PageController@view');
 Route::post('/forgot', 'UserController@forgotPassword');
 Route::get('/forgot/{token}', 'UserController@verifyToken');
 Route::post('/forgot/{token}', 'UserController@changePassword');
-
-
 
 // Event routes
 Route::get('/event', 'EventController@createForm');
@@ -110,6 +106,9 @@ Route::post('/profile/upload', 'ProfileController@upload');
 
 
 // Admin routes
+Route::get('/register', 'AdminController@view');
+Route::post('/register', 'AdminController@create');
+
 Route::get('/users', 'AdminController@userList');
 Route::get('/user/{user}', 'AdminController@userProfile');
 Route::post('/user/{user}/edit', 'AdminController@userEdit');

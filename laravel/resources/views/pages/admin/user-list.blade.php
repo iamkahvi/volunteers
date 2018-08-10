@@ -9,8 +9,9 @@
     <div class="col col-lg-2">
         <input class="form-control" id="myInput" type="text" placeholder="Search..">
     </div>
-    <div class="col col-lg-2">
-        <button type="button" class="btn btn-primary">Export HTML table to CSV file</button>
+    <div class="col">
+        <a type="button" class="btn btn-primary" id="download">Export HTML table to CSV file</a>
+        <a type="button" class="btn btn-success" href="/register" role="button">Register an Account</a>
     </div>
 </div>
 
@@ -44,12 +45,99 @@
 
     <hr>
 
+    <?php
+    $adminemails = array();
+    $volunteeremails = array();
+    $GROWemails = array();
+    $CKemails = array();
+    $GARemails = array();
+
+        foreach ($users as $user) {
+            foreach($userroles as $role) {
+                if($role->user_id == $user->id) {
+                    if($role->role_id == 1) {
+                        $adminemails[] = $user->email;
+                    }
+                    if($role->role_id == 2) {
+                        $volunteeremails[] = $user->email;
+                    }
+                    if($role->role_id == 4) {
+                        $GROWemails[] = $user->email;
+                    }
+                    if($role->role_id == 5) {
+                        $CKemails[] = $user->email;
+                    }
+                    if($role->role_id == 6) {
+                        $GARemails[] = $user->email;
+                    }
+                }
+            }
+        }
+    ?>
+
+    <!--
+
+
+    <form class="form-inline event-filter">
+        <div class="form-group">
+            <select class="form-control filter-roles">
+                <option value="all">Show All Roles</option>
+
+                @foreach($roles as $role)
+                    <option value="{{ $role->name }}">{{ $role->name }}</option>
+                @endforeach
+            </select>
+        </div>
+    </form>
+
+    <hr>
+
+<div class="roles">
     <b>Email List</b> (copy and paste this list)
+
     <blockquote>
-        @foreach($users as $user)
-            {{ $user->email }}
+    <div class="role" data-role="admin">
+        @foreach($adminemails as $email)
+            {{ $email }}
         @endforeach
+    </div>
+
+    <div class="role" data-role="volunteer">
+        @foreach($volunteeremails as $email)
+            {{ $email }}
+        @endforeach
+    </div>
+
+    <div class="role" data-role="GROW">
+        @foreach($GROWemails as $email)
+            {{ $email }}
+        @endforeach
+    </div>
+
+    <div class="role" data-role="CK">
+        @foreach($CKemails as $email)
+            {{ $email }}
+        @endforeach
+    </div>
+
+    <div class="role" data-role="GAR">
+        @foreach($GARemails as $email)
+            {{ $email }}
+        @endforeach
+    </div>
+
     </blockquote>
+</div>
+
+-->
+
+<b>Email List</b> (copy and paste this list)
+
+<blockquote>
+    @foreach($users as $user)
+        {{ $user->email }}
+    @endforeach
+</blockquote>
 
     <script>
     $(document).ready(function(){
@@ -103,7 +191,7 @@
           download_csv(csv.join("\n"), filename);
       }
 
-      document.querySelector("button").addEventListener("click", function () {
+      document.querySelector("#download").addEventListener("click", function () {
           var html = document.querySelector("table").outerHTML;
       	export_table_to_csv(html, "table.csv");
       });
