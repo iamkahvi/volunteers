@@ -10,10 +10,10 @@ class CreateRoles extends Seeder
         'admin',
         'volunteer',
         'banned',
-        'ranger',
-        'event-admin',
-        'department-lead',
-        'photography',
+        'GROW',
+        'CK',
+        'GAR',
+        'CPIC',
         'board-member',
     ];
 

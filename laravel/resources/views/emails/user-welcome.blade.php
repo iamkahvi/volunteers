@@ -7,3 +7,8 @@
 <p>
     In case you forget, your username is: <b>{{ $user->name }}</b>
 </p>
+
+<p>
+    Instructions on how to use the Volunteer Robot are attached to this email. <br>
+<a href="http://volunteer.lovingspoonful.org/about">Click here to view them on the website!</a>
+</p>
