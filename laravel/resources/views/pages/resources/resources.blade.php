@@ -18,11 +18,11 @@
     <h2>Contact Info</h2>
     <p>For support, please call the most appropriate staff person:</p>
     <ul>
-    <li>Loving Spoonful office (559 Bagot St., 2nd floor): (613) 507-8848</li>
-    <li>Madison Hainstock, Community Programs Manager (Maternity leave): c. (613) 795-5426</li>
-    <li>Sarah Keyes, Food Skills Manager: c. (613) 929-6145</li>
-    <li>Melanie Redman, Office Manager: c. (613) 770-6105</li>
-    <li>Mara Shaw, Executive Director: c. (613) 217-9404</li>
+    <li>Loving Spoonful office (559 Bagot St., 2nd floor): 613-507-8848</li>
+    <li>Madison Hainstock, Community Programs Manager (Maternity leave): c. 613-795-5426</li>
+    <li>Leslie Hanson, Food Education Manager (Maternity leave): c. 204-981-3801</li>
+    <li>Melanie Redman, Office Manager: c. 613-770-6105</li>
+    <li>Mara Shaw, Executive Director: c. 613-217-9404</li>
     </ul>
     <h2>Being a Volunteer</h2>
     <p>First off &ndash; <strong>thank you</strong>! It is only because of volunteers like you that our work is possible.</p>
@@ -33,10 +33,10 @@
     <h2>Volunteer Roles</h2>
     <p>There are lots of different ways that volunteers contribute to the work of Loving Spoonful.</p>
     <a href="http://volunteer.lovingspoonful.org/delivery"><p><em>Fresh Food Delivery Drivers</em></a><strong><em>: </em></strong>Pick up donated food from local grocers, farmers, and other businesses and deliver it directly to local shelters and meal programs.</p>
-    <p><em>Grow A Row Market Booth Representatives</em><strong><em>: </em></strong>Represent us at our booths at the Downtown Kingston Public Market and the Memorial Centre Farmers&rsquo; Market over the summer. Receive fresh healthy produce donated by local farmers and gardeners for local shelters and meal programs.</p>
-    <p><em>Community Kitchen Assistant Instructors</em><strong><em>: </em></strong>Help run cooking classes to teach people to cook healthy, affordable and delicious meals while building confidence and community.</p>
-    <p><em>GROW Project Workhop Assistants</em><strong><em>: </em></strong>Work in primary schools in Kingston, teaching kids about food security, gardening, healthy eating, and community through in-class and in-garden workshops, or help maintain gardens over the summer.</p>
-    <p><em>Gleaners</em><strong><em>: </em></strong>Help harvest surplus produce from farmers&rsquo; fields for donation.</p>
-    <p><em>Events Assistants</em><strong><em>: </em></strong>Help organize, set up, and represent us at various events throughout the year.</p>
+    <a href="http://volunteer.lovingspoonful.org/booths"><p><em>Grow A Row Market Booth Representatives</em></a><strong><em>: </em></strong>Represent us at our booths at the Downtown Kingston Public Market and the Memorial Centre Farmers&rsquo; Market over the summer. Receive fresh healthy produce donated by local farmers and gardeners for local shelters and meal programs.</p>
+    <a href="http://volunteer.lovingspoonful.org/kitchens"><p><em>Community Kitchen Assistant Instructors</em></a><strong><em>: </em></strong>Help run cooking classes to teach people to cook healthy, affordable and delicious meals while building confidence and community.</p>
+    <a href="http://volunteer.lovingspoonful.org/grow"><p><em>GROW Project Workhop Assistants</em></a><strong><em>: </em></strong>Work in primary schools in Kingston, teaching kids about food security, gardening, healthy eating, and community through in-class and in-garden workshops, or help maintain gardens over the summer.</p>
+    <a href="http://volunteer.lovingspoonful.org/gleaning"><p><em>Gleaners</em><strong><em>: </em></a></strong>Help harvest surplus produce from farmers&rsquo; fields for donation.</p>
+    <a href="http://volunteer.lovingspoonful.org/events"><p><em>Events Assistants</em></a><strong><em>: </em></strong>Help organize, set up, and represent us at various events throughout the year.</p>
     <p><em>Administrative Helpers</em><strong><em>: </em></strong>Helps keep everything organized and running smoothly from our head office, this role includes mostly phone and computer work.</p>
 </div>
