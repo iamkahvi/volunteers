@@ -3,8 +3,11 @@
 @section('content')
 <div class="col-sm-2"></div>
 <div class="col-sm-8">
-    <h2>Fresh Food Delivery</h2>
-    <p>Fresh Food Delivery drivers are responsible for picking up donated surplus food from restaurants, grocers, caterers, and farmers&rsquo; markets and delivering it to local shelters and meal programs to get it to people experiencing hunger.</p>
+    <h2>FRESH FOOD DELIVERY DRIVERS</h2>
+    <h3>Purpose of Position - Your Impact</h3>
+    <p>As the backbone of the Fresh Food Delivery program, Loving Spoonful's conscientious Fresh Food Delivery Drivers make it possible for those who live in poverty or who are struggling in Kingston to have access to fresh food, every day. The food you reclaim is all perishable: vegetables, fruit, bread, meats, dairy products and healthy prepared foods. All of this beautiful food passes both Loving Spoonful's Healthy Food Guidelines and, as the Guidelines report, our own constant test: We only deliver it if it is fresh enough to feed our own families. Loving Spoonful has collected and delivered over $1 million of fresh food since our founding in 2008.</p>
+    <p>The Fresh Food Delivery program is one of several programs that directly support Loving Spoonful's goals of enhancing access to healthy food for all; engaging diverse sectors of the community; and delivering innovative and impactful programming.</p>
+    drivers are responsible for picking up donated surplus food from restaurants, grocers, caterers, and farmers&rsquo; markets and delivering it to local shelters and meal programs to get it to people experiencing hunger.</p>
     <p>Regular routes are available weekly, or you may sign up to cover one-time routes on an occasional basis. If you are delivering food by car, you will need a valid driver&rsquo;s license and regular or occasional access to a vehicle. If you are using a bike to deliver food you will need access to a bicycle; large bike trailer or the willingness to attach one to your bicycle and a backpack, panniers, and/or basket for transporting food.</p>
     <p>You will need:</p>
     <ul>
