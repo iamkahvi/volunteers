@@ -16,7 +16,10 @@
                 <li class="dropdown">
                   <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Resources <span class="caret"></span></a>
                       <ul class="dropdown-menu">
+                            <li><a href="/about">Instructions</a></li>
+                            <li role="separator" class="divider"></li>
                             <li><a href="/resources">Volunteer Handbook</a></li>
+                            <li><a href="/rights">Volunteer Code of Conduct</a></li>
                             <li role="separator" class="divider"></li>
                             <li><a href="/delivery">Fresh Food Delivery</a></li>
                             <li><a href="/booths">GAR Market Booths</a></li>
@@ -24,8 +27,7 @@
                             <li><a href="/grow">GROW Project</a></li>
                             <li><a href="/gleaning">Gleaning</a></li>
                             <li><a href="/events">Events</a></li>
-                            <li role="separator" class="divider"></li>
-                            <li><a href="/about">Instructions</a></li>
+
 
                       </ul>
                 </li>
