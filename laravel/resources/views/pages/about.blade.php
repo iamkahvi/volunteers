@@ -13,7 +13,6 @@
 
     <h2>Navigation Bar:</h2>
     <br>
-    <img src="public/img/navbar.png" alt="Italian Trulli">
     <ul>
     <li><strong>Resources</strong>: These pages are where you will find reading material to educate you on programming and the Volunteer Robot!</li>
     </ul>
