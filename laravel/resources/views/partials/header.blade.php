@@ -27,6 +27,9 @@
                             <li><a href="/grow">GROW Project</a></li>
                             <li><a href="/gleaning">Gleaning</a></li>
                             <li><a href="/events">Events</a></li>
+                            <li><a href="/circles">Circles Program Assistants</a></li>
+                            <li><a href="/office">Office Assistant</a></li>
+
 
 
                       </ul>

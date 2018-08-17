@@ -24,6 +24,8 @@ Route::get('/grow', 'ResourcesController@view');
 Route::get('/events', 'ResourcesController@view');
 Route::get('/gleaning', 'ResourcesController@view');
 Route::get('/rights', 'ResourcesController@view');
+Route::get('/circles', 'ResourcesController@view');
+Route::get('/office', 'ResourcesController@view');
 
 // User authentication routes
 Route::get('/login', 'PageController@view');
