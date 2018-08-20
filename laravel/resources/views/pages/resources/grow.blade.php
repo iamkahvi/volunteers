@@ -39,7 +39,11 @@
     <ul>
     <li>Hands-on, on-site training by GROW Project Staff</li>
     <li>An account with Loving Spoonful’s Volunteer Robot to view and sign up for shifts</li>
-    <li>You are always free to contact the GROW Project Coordinator and/or Volunteer Coordinator to discuss any concerns or provide feedback.</li>
+    </ul>
+    <p>You are always free to contact us to share your successes, discuss any concerns or provide feedback: </p>
+    <ul>
+    <li>Anne Munier, GROW Project Coordinator: <a href="mailto:AnneM@lovingspoonful.org">AnneM@lovingspoonful.org</a></li>
+    <li>Mary Gauthier, Volunteer & Outreach Coordinator: <a href="mailto:Mary@lovingspoonful.org">Mary@lovingspoonful.org</a></li>
     </ul>
     <h3>Benefits &ndash; What you&rsquo;ll gain</h3>
     <ul>
@@ -56,8 +60,6 @@
     <li>Building a connection to the environment and working together to support the local community</li>
     <li>The development of life skills such as gardening, healthy food preparation, and critical thinking</li>
     </ul>
-    <h3>Responsible to:</h3>
-    <p>Anne Munier, GROW Project Coordinator <a href="mailto:AnneM@lovingspoonful.org">AnneM@lovingspoonful.org</a></p>
     <h3>Next Steps</h3>
     <ul>
     <li>Review and sign off on the Loving Spoonful Volunteer Rights &amp; Code of Conduct</li>
