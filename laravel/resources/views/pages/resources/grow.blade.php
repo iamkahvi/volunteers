@@ -46,7 +46,7 @@
     <li>Hands-on, on-site training by GROW Project Staff</li>
     <li>An account with Loving Spoonful’s Volunteer Robot to view and sign up for shifts</li>
     </ul>
-    <p>You are always free to contact us to share your successes, discuss any concerns or provide feedback: </p>
+    <p>You are always welcome and encouraged to contact us to share your successes, discuss any concerns or provide feedback: </p>
     <ul>
     <li>Anne Munier, GROW Project Coordinator: <a href="mailto:AnneM@lovingspoonful.org">AnneM@lovingspoonful.org</a></li>
     <li>Mary Gauthier, Volunteer & Outreach Coordinator: <a href="mailto:Mary@lovingspoonful.org">Mary@lovingspoonful.org</a></li>
@@ -55,9 +55,8 @@
     <ul>
     <li>Great experience teaching and working with youth</li>
     <li>The chance to work in – and learn more about – vegetable gardens</li>
-    <li>Reference letter supplied for successful volunteer experience</li>
     <li>Cost of CPIC will be reimbursed with submission of a receipt</li>
+    <li>Reference letter supplied for successful volunteer experience</li>
     </ul>
-
 </div>
 @endsection
