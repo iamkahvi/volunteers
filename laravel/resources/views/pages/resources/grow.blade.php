@@ -3,7 +3,7 @@
 @section('content')
 <div class="col-sm-2"></div>
 <div class="col-sm-8">
-    <h1>Volunteer Position: GROW Project Workshop Assistant</h1>
+    <h1>GROW Project Workshop Assistant</h1>
     <h3>Program Description</h3>
     <p>Loving Spoonful's school-garden based GROW Project teaches over 600 students at 17 Kingston and area schools about good food, community, and collaboration. In each school, students in grades 4 to 8 participate in seven curriculum-connected classroom workshops that complement their garden time, teaching students about food systems, social justice and food security, food and culture, and healthy gardens and cooking. Visits from local farmers and nature-based field trips further assist students to make connections between their food, their health, their community, and the Earth.</p>
     <p>The GROW Project is one of several programs that directly support Loving Spoonful’s goals of enhancing access to healthy food for all; engaging diverse sectors of the community; and delivering innovative and impactful programming.
