@@ -31,6 +31,7 @@
     <ul>
     <li>Shifts take place at the office of Loving Spoonful</li>
     <li>Ideally volunteers would be able to dedicate 2 office hours per week; however, as much time that can be given to tasks will be accommodated.</li>
+    </ul>
     <h3>Support &ndash; What we&rsquo;ll provide</h3>
     <ul>
     <li>Training will take place as needed.</li>
