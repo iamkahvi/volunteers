@@ -11,8 +11,8 @@
     <p>As the critical point of connection between the food donors and the service agencies, Grow a Row Market Booth Ambassadors are in charge of running the Loving Spoonful Booth at the Memorial Centre Farmers’ Market and the Downtown Kingston Public Market. Specifically, they:</p>
     <ul>
     <li>Raise awareness about Loving Spoonful by engaging with curious passers-by, and clearly explaining to them what Loving Spoonful is and what we do.</li>
-    <li>Facilitate connection by getting new people sign up for our E-Newsletter.</li>
-    <li>Thoroughly collect, accurately weigh, and clearly record donated produce, and reliably submit this information as instructed.</li> 
+    <li>Facilitate connection by getting new people to sign up for our E-Newsletter.</li>
+    <li>Thoroughly collect, accurately weigh, and clearly record donated produce, and reliably submit this information, as instructed.</li> 
     </ul>
     <h3>Qualifications/Resources &ndash; What you&rsquo;ll need</h3>
     <p>Volunteers who have the most impact and enjoy this position most:</p>
