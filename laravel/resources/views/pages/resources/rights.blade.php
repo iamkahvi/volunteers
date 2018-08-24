@@ -4,8 +4,7 @@
 <div class="col-sm-2"></div>
 <div class="col-sm-8">
     <h1>Volunteer Rights &amp; Code of Conduct</h1>
-    <p>Loving Spoonful's programs are only possible thanks to incredible volunteers like you; thank you!</p>
-    <p>To ensure that your volunteer experience with Loving Spoonful is as positive as possible, we want to make sure that we on the same page about your rights and the expected code of conduct. Please read the following policies carefully. Indicate below that you have read them, and agree to comply with them. If you have any questions, please be in touch with Loving Spoonful staff before submitting this form.</p>
+    <p>To ensure that your volunteer experience with Loving Spoonful is as positive as possible, we want to make sure that we on the same page about your rights and the expected code of conduct. Before obtaining personal accounts with the Volunteer Robot, all volunteers were required to review and agree to comply with the following policies. This page, therefore, is for your reference. If you have any questions, please be in touch with Loving Spoonful staff.</p>
     <h3>Volunteers represent Loving Spoonful in the Kingston community</h3>
     <p>While you are on shift for Loving Spoonful, you are a representative of the organization. Depending on your volunteer role, you may be interacting with food and financial donors, recipient agencies and partner organizations, program participants, community members and the general public.</p>
     <p>As a volunteer with Loving Spoonful, we expect that you will adhere to the following when interacting with the individuals and groups identified above:</p>
