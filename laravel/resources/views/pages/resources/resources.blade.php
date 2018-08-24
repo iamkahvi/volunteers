@@ -26,10 +26,10 @@
     <li><em>Volunteer & Outreach Coordinator</em>: Mary Gauthier - <a href="mailto:Mary@lovingspoonful.org">Mary@lovingspoonful.org</a></li>
     <li><em>Food Access Animator</em>: Alex Harper - c. 343-333-0244, <a href="mailto:Alex@lovingspoonful.org">Alex@lovingspoonful.org</a></li>
     <li><em>GROW Project Coordinator</em>: Anne Munier - <a href="mailto:AnneM@lovingspoonful.org">AnneM@lovingspoonful.org</a></li>
-    <li><em>Community Kitchen Coordinator</em>: Thea Zuiker - c. 333-343-5699,<a href="mailto:Thea@lovingspoonful.org">Thea@lovingspoonful.org</a></li>
+    <li><em>Community Kitchen Coordinator</em>: Thea Zuiker - c. 333-343-5699, <a href="mailto:Thea@lovingspoonful.org">Thea@lovingspoonful.org</a></li>
     <li><em>Office Manager</strong></em>: Melanie Redman - c. 613-770-6105, <a href="mailto:Mel@lovingspoonful.org">Mel@lovingspoonful.org</a></li>
-    <li><em>Community Programs Manager</em> (Maternity leave): Madison Hainstock - c. 613-795-5426, <a href="mailto:Madison@lovingspoonful.org">Madison@lovingspoonful.org</a></li>
-    <li><em>Food Education Manager</em> (Maternity leave): Leslie Hanson - c. 204-981-3801, <a href="mailto:Leslie@lovingspoonful.org">Leslie@lovingspoonful.org</a></li>
+    <li><em>Community Programs Manager</em>: Madison Hainstock - c. 613-795-5426, <a href="mailto:Madison@lovingspoonful.org">Madison@lovingspoonful.org</a></li>
+    <li><em>Food Education Manager</em>: Leslie Hanson - c. 204-981-3801, <a href="mailto:Leslie@lovingspoonful.org">Leslie@lovingspoonful.org</a></li>
     <li><em>Executive Director</em>: Mara Shaw - c. 613-217-9404, <a href="mailto:Mara@lovingspoonful.org">Mara@lovingspoonful.org</a></li>
     </ul>
     <h2>Being a Volunteer</h2>
