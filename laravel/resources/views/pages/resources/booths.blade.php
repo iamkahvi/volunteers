@@ -5,7 +5,7 @@
 <div class="col-sm-8">
     <h1>GROW A Row Market Booth Ambassador</h1>
     <h3>Program Description</h3>
-    <p>Grow A Row encourages farmers, gardeners and local workplaces to grow an extra row of produce for delivery to 40 local agencies serving some of the over 20,000 people in the Kingston Area who live below the poverty line.  In 2017, Loving Spoonful collected 30,000 lbs of fresh produce that was delivered to the community.</p>
+    <p>Grow A Row (GAR) encourages farmers, gardeners and local workplaces to grow an extra row of produce for delivery to 40 local agencies serving some of the over 20,000 people in the Kingston Area who live below the poverty line.  In 2017, Loving Spoonful collected 30,000 lbs of fresh produce that was delivered to the community.</p>
     <p>Grow A Row Program is one of several programs that directly support Loving Spoonful’s goals of enhancing access to healthy food for all; engaging diverse sectors of the community; and delivering innovative and impactful programming.</p>
     <h3>Position Purpose &ndash; Your impact</h3>
     <p>As the critical point of connection between the food donors and the service agencies, Grow a Row Market Booth Ambassadors are in charge of running the Loving Spoonful Booth at the Memorial Centre Farmers’ Market and the Downtown Kingston Public Market. Specifically, they:</p>
