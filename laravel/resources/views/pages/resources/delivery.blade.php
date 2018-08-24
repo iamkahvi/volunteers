@@ -22,17 +22,19 @@
     <p>Fresh Food Delivery Drivers are responsible for picking up donated surplus food from restaurants, grocers, caterers, and farmers’ markets and delivering it to local shelters and meal programs.</p>
     <p><u>Food Donation Pick Up</u></p>
     <ol>
-    <li>1.	Affix a Loving Spoonful car magnet on your car (will be provided, while supplies last)</li>
-    <li>2.	Arrive at all pick-up destinations on time</li>
-    <li>3.	Load donated food into your vehicle</li>
-    <li>4.	Weigh all donated food (in lbs), and submit report on Food Rescue Robot online (Account and training provided.)</li>
-    <li>5.	Sort through food at the point of pick up. Leave any food that you would not feed to your family to be discarded by the food donor.</li>
-    <li>6.	If working with temperature-sensitive items, be sure to follow <a href="https://www.foodrescue.ca/docs/default-source/default-document-library/safe-food-transport-guide.pdf">Food Rescue.ca guidelines</a> on how to transport them safely.</li>
+    <li>Affix a Loving Spoonful car magnet on your car (will be provided, while supplies last)</li>
+    <li>Arrive at all pick-up destinations on time</li>
+    <li>Load donated food into your vehicle</li>
+    <li>Weigh all donated food (in lbs), and submit report on Food Rescue Robot online (Account and training provided.)</li>
+    <li>Sort through food at the point of pick up. Leave any food that you would not feed to your family to be discarded by the food donor.</li>
+    <li>If working with temperature-sensitive items, be sure to follow <a href="https://www.foodrescue.ca/docs/default-source/default-document-library/safe-food-transport-guide.pdf">Food Rescue.ca guidelines</a> on how to transport them safely.</li>
     </ol>
     <p><u>Food Donation Delivery</u></p>
-    <li>1.	Offer each drop-off location to take what they like. (They will typically not need all of it.)</li>
-    <li>2.	Move onto the next location. We design delivery routes to ensure that each agency receives adequate donations.</li>
-    <li>3.	If you are delivering to Fresh Food Market Stands, leave as much as you like, since they aren’t staffed.</li>
+    <ol>
+    <li>Offer each drop-off location to take what they like. (They will typically not need all of it.)</li>
+    <li>Move onto the next location. We design delivery routes to ensure that each agency receives adequate donations.</li>
+    <li>If you are delivering to Fresh Food Market Stands, leave as much as you like, since they aren’t staffed.</li>
+    </ol>
     <p><u>Other Responsibilities</u></p>
     <ul>
     <li>Sign up for shifts on the online Food Rescue Robot</li>
@@ -71,9 +73,9 @@
     <li>Regular and consistent reporting of food collection data</li>
     <li>Good relations with food donors and recipient agencies</li>
     </ul>
-    <p>
+    <p></p>
     <h3>SAFE LIFTING TIPS</h3>
-    <p>Some of the volunteer roles require lifting heavy objects. Improper lifting techniques can potentially lead to various back injuries. Here are a few simple tips about how to lift heavy objects safely:</p>
+    <p>This volunteer role may occassionally require lifting heavy objects. Improper lifting techniques can potentially lead to various back injuries. Here are a few simple tips about how to lift heavy objects safely:</p>
     <ul>
     <li>Always begin with your feet shoulder-width apart, with one foot slightly ahead of the other.</li>
     <li>Squat down, bending at the hips and knees only. Do not attempt to lift by bending forward.</li>
