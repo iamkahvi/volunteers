@@ -12,7 +12,7 @@
     <ul>
     <li>Raise awareness about Loving Spoonful by engaging with curious passers-by, and clearly explaining to them what Loving Spoonful is and what we do.</li>
     <li>Facilitate connection by getting new people to sign up for our E-Newsletter.</li>
-    <li>Thoroughly collect, accurately weigh, and clearly record donated produce, and reliably submit this information, as instructed.</li> 
+    <li>Cheerfully collect, accurately weigh, and clearly record donated produce, and reliably submit this information, as instructed.</li> 
     </ul>
     <h3>Qualifications/Resources &ndash; What you&rsquo;ll need</h3>
     <p>Volunteers who have the most impact and enjoy this position most:</p>
@@ -59,8 +59,10 @@
     <ul>
     <li>Tuesday (3:00PM – 5:00PM) at Downtown Kingston Public Market</li>
     <li>Thursday (3:00PM – 5:00PM) at Downtown Kingston Public Market</li>
-    <li>Saturday (1:00PM – 5:00PM {1-3 pm, 3-5pm}) at Downtown Kingston Public Market</li>
-    <li>Sunday (9:00AM – 2:30PM {9-12 pm, 12-2:30}) at Memorial Centre Farmers Market</li>
+    <li>Saturday (1:00PM – 3:00PM) at Downtown Kingston Public Market</li>
+    <li>Saturday (3:00PM - 5:00PM) at Downtown Kingston Public Market</li>
+    <li>Sunday (9:00AM – 12:00PM) at Memorial Centre Farmers Market</li>
+    <li>Sunday (12:00PM - 2:30PM) at Memorial Centre Farmers Market</li>
     </ul>
     <p>Volunteers sign up for shifts through their own account (provided) on Loving Spoonful’s online Volunteer Robot.</p>
     <p>Commitment is encouraged throughout the season; vacations are accommodated.</p>
