@@ -21,12 +21,14 @@
     <h3>Key Duties and Responsibilities</h3>
     <p>Fresh Food Delivery Drivers are responsible for picking up donated surplus food from restaurants, grocers, caterers, and farmers’ markets and delivering it to local shelters and meal programs.</p>
     <p><u>Food Donation Pick Up</u></p>
+    <ol>
     <li>1.	Affix a Loving Spoonful car magnet on your car (will be provided, while supplies last)</li>
     <li>2.	Arrive at all pick-up destinations on time</li>
     <li>3.	Load donated food into your vehicle</li>
     <li>4.	Weigh all donated food (in lbs), and submit report on Food Rescue Robot online (Account and training provided.)</li>
     <li>5.	Sort through food at the point of pick up. Leave any food that you would not feed to your family to be discarded by the food donor.</li>
     <li>6.	If working with temperature-sensitive items, be sure to follow <a href="https://www.foodrescue.ca/docs/default-source/default-document-library/safe-food-transport-guide.pdf">Food Rescue.ca guidelines</a> on how to transport them safely.</li>
+    </ol>
     <p><u>Food Donation Delivery</u></p>
     <li>1.	Offer each drop-off location to take what they like. (They will typically not need all of it.)</li>
     <li>2.	Move onto the next location. We design delivery routes to ensure that each agency receives adequate donations.</li>
