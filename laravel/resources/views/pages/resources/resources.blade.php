@@ -25,14 +25,13 @@
     <ul>
     <li><em>Volunteer & Outreach Coordinator</em>: Mary Gauthier - <a href="mailto:Mary@lovingspoonful.org">Mary@lovingspoonful.org</a></li>
     <li><em>Food Access Animator</em>: Alex Harper - c. 343-333-0244, <a href="mailto:Alex@lovingspoonful.org">Alex@lovingspoonful.org</a></li>
-    <li><strong><em>GROW Project Coordinator</strong></em>: Anne Munier - <a href="mailto:AnneM@lovingspoonful.org">AnneM@lovingspoonful.org</a></li>
-    <li><strong><em>Community Kitchen Coordinator</strong></em>: Thea Zuiker - c. 333-343-5699,<a href="mailto:Thea@lovingspoonful.org">Thea@lovingspoonful.org</a></li>
-    <li><strong>Office Manager</strong>: Melanie Redman - c. 613-770-6105, <a href="mailto:Mel@lovingspoonful.org">Mel@lovingspoonful.org</a></li>
-    <li><strong>Community Programs Manager</strong> (Maternity leave): Madison Hainstock - c. 613-795-5426, <a href="mailto:Madison@lovingspoonful.org">Madison@lovingspoonful.org</a></li>
-    <li><strong>Food Education Manager</strong> (Maternity leave): Leslie Hanson - c. 204-981-3801, <a href="mailto:Leslie@lovingspoonful.org">Leslie@lovingspoonful.org</a></li>
-    <li><strong>Executive Director</strong>: Mara Shaw - c. 613-217-9404, <a href="mailto:Mara@lovingspoonful.org">Mara@lovingspoonful.org</a></li>
+    <li><em>GROW Project Coordinator</em>: Anne Munier - <a href="mailto:AnneM@lovingspoonful.org">AnneM@lovingspoonful.org</a></li>
+    <li><em>Community Kitchen Coordinator</em>: Thea Zuiker - c. 333-343-5699,<a href="mailto:Thea@lovingspoonful.org">Thea@lovingspoonful.org</a></li>
+    <li><em>Office Manager</strong></em>: Melanie Redman - c. 613-770-6105, <a href="mailto:Mel@lovingspoonful.org">Mel@lovingspoonful.org</a></li>
+    <li><em>Community Programs Manager</em> (Maternity leave): Madison Hainstock - c. 613-795-5426, <a href="mailto:Madison@lovingspoonful.org">Madison@lovingspoonful.org</a></li>
+    <li><em>Food Education Manager</em> (Maternity leave): Leslie Hanson - c. 204-981-3801, <a href="mailto:Leslie@lovingspoonful.org">Leslie@lovingspoonful.org</a></li>
+    <li><em>Executive Director</em>: Mara Shaw - c. 613-217-9404, <a href="mailto:Mara@lovingspoonful.org">Mara@lovingspoonful.org</a></li>
     </ul>
-
     <h2>Being a Volunteer</h2>
     <p>First off &ndash; <strong>thank you</strong>! It is only because of volunteers like you that our work is possible.</p>
     <p>We commit to timely and open communication with you, providing you with sufficient support, and demonstrating our gratitude and respect. We want our volunteers to find roles that are a good fit, are fulfilling, and are not an undue burden. We want you to have fun!</p>
@@ -45,7 +44,7 @@
     <a href="http://volunteer.lovingspoonful.org/booths"><p><em>Grow A Row Market Booth Ambassadors</em></a><strong><em>: </em></strong>Represent us at our booths at the Downtown Kingston Public Market and the Memorial Centre Farmers&rsquo; Market over the summer. Receive fresh healthy produce donated by local farmers and gardeners for local shelters and meal programs.</p>
     <a href="http://volunteer.lovingspoonful.org/kitchens"><p><em>Community Kitchen Workshop Facilitators</em></a><strong><em>: </em></strong>Help run cooking classes to teach people to cook healthy, affordable and delicious meals while building confidence and community.</p>
     <a href="http://volunteer.lovingspoonful.org/grow"><p><em>GROW Project Workhop Assistants</em></a><strong><em>: </em></strong>Work in primary schools in Kingston, teaching kids about food security, gardening, healthy eating, and community through in-class and in-garden workshops, or help maintain gardens over the summer.</p>
-    <a href="http://volunteer.lovingspoonful.org/gleaning"><p><em>Gleaners</em><strong><em>: </em></a></strong>Help harvest surplus produce from farmers&rsquo; fields for donation.</p>
+    <a href="http://volunteer.lovingspoonful.org/gleaning"><p><em>Gleaners</em></a><strong><em>: </em></strong>Help harvest surplus produce from farmers&rsquo; fields for donation.</p>
     <a href="http://volunteer.lovingspoonful.org/events"><p><em>Events Assistants</em></a><strong><em>: </em></strong>Help organize, set up, and represent us at various events throughout the year.</p>
-    <a href="http://volunteer.lovingspoonful.org/office"><p><em>Administrative Helpers</em><strong><em>: </em></strong>Helps keep everything organized and running smoothly from our head office, this role includes mostly phone and computer work.</p>
+    <a href="http://volunteer.lovingspoonful.org/office"><p><em>Administrative Helpers</em></a><strong><em>: </em></strong>Helps keep everything organized and running smoothly from our head office, this role includes mostly phone and computer work.</p>
 </div>
