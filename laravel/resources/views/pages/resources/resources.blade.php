@@ -47,5 +47,5 @@
     <a href="http://volunteer.lovingspoonful.org/grow"><p><em>GROW Project Workhop Assistants</em></a><strong><em>: </em></strong>Work in primary schools in Kingston, teaching kids about food security, gardening, healthy eating, and community through in-class and in-garden workshops, or help maintain gardens over the summer.</p>
     <a href="http://volunteer.lovingspoonful.org/gleaning"><p><em>Gleaners</em><strong><em>: </em></a></strong>Help harvest surplus produce from farmers&rsquo; fields for donation.</p>
     <a href="http://volunteer.lovingspoonful.org/events"><p><em>Events Assistants</em></a><strong><em>: </em></strong>Help organize, set up, and represent us at various events throughout the year.</p>
-    <p><em>Administrative Helpers</em><strong><em>: </em></strong>Helps keep everything organized and running smoothly from our head office, this role includes mostly phone and computer work.</p>
+    <a href="http://volunteer.lovingspoonful.org/office"><p><em>Administrative Helpers</em><strong><em>: </em></strong>Helps keep everything organized and running smoothly from our head office, this role includes mostly phone and computer work.</p>
 </div>
