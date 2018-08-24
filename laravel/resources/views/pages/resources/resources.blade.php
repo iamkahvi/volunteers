@@ -23,14 +23,14 @@
     </ul>
     <p>For support, please contact the most appropriate staff person:</p>
     <ul>
-    <li><strong>Volunteer & Outreach Coordinator</strong>: Mary Gauthier - <a href="mailto:Mary@lovingspoonful.org">Mary@lovingspoonful.org</a></li>
-    <li><strong>Food Access Animator</strong>: Alex Harper - c. 343-333-0244, <a href="mailto:Alex@lovingspoonful.org">Alex@lovingspoonful.org</a></li>
-    <li><strong>GROW Project Coordinator</strong>: Anne Munier - <a href="mailto:AnneM@lovingspoonful.org">AnneM@lovingspoonful.org</a></li>
-    <li><strong>Community Kitchen Coordinator</strong>: Thea Zuiker - c. 333-343-5699,<a href="mailto:Thea@lovingspoonful.org">Thea@lovingspoonful.org</a></li>
+    <li><em>Volunteer & Outreach Coordinator</em>: Mary Gauthier - <a href="mailto:Mary@lovingspoonful.org">Mary@lovingspoonful.org</a></li>
+    <li><em>Food Access Animator</em>: Alex Harper - c. 343-333-0244, <a href="mailto:Alex@lovingspoonful.org">Alex@lovingspoonful.org</a></li>
+    <li><strong><em>GROW Project Coordinator</strong></em>: Anne Munier - <a href="mailto:AnneM@lovingspoonful.org">AnneM@lovingspoonful.org</a></li>
+    <li><strong><em>Community Kitchen Coordinator</strong></em>: Thea Zuiker - c. 333-343-5699,<a href="mailto:Thea@lovingspoonful.org">Thea@lovingspoonful.org</a></li>
     <li><strong>Office Manager</strong>: Melanie Redman - c. 613-770-6105, <a href="mailto:Mel@lovingspoonful.org">Mel@lovingspoonful.org</a></li>
     <li><strong>Community Programs Manager</strong> (Maternity leave): Madison Hainstock - c. 613-795-5426, <a href="mailto:Madison@lovingspoonful.org">Madison@lovingspoonful.org</a></li>
     <li><strong>Food Education Manager</strong> (Maternity leave): Leslie Hanson - c. 204-981-3801, <a href="mailto:Leslie@lovingspoonful.org">Leslie@lovingspoonful.org</a></li>
-    <li<strong>>Executive Director</strong>: Mara Shaw - c. 613-217-9404, <a href="mailto:Mara@lovingspoonful.org">Mara@lovingspoonful.org</a></li>
+    <li><strong>Executive Director</strong>: Mara Shaw - c. 613-217-9404, <a href="mailto:Mara@lovingspoonful.org">Mara@lovingspoonful.org</a></li>
     </ul>
 
     <h2>Being a Volunteer</h2>
