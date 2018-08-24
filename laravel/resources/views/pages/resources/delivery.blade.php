@@ -3,24 +3,73 @@
 @section('content')
 <div class="col-sm-2"></div>
 <div class="col-sm-8">
-    <h2>FRESH FOOD DELIVERY DRIVERS</h2>
-    <h3>Purpose of Position - Your Impact</h3>
-    <p>As the backbone of the Fresh Food Delivery program, Loving Spoonful's conscientious Fresh Food Delivery Drivers make it possible for those who live in poverty or who are struggling in Kingston to have access to fresh food, every day. The food you reclaim is all perishable: vegetables, fruit, bread, meats, dairy products and healthy prepared foods. All of this beautiful food passes both Loving Spoonful's Healthy Food Guidelines and, as the Guidelines report, our own constant test: We only deliver it if it is fresh enough to feed our own families. Loving Spoonful has collected and delivered over $1 million of fresh food since our founding in 2008.</p>
-    <p>The Fresh Food Delivery program is one of several programs that directly support Loving Spoonful's goals of enhancing access to healthy food for all; engaging diverse sectors of the community; and delivering innovative and impactful programming.</p>
-    drivers are responsible for picking up donated surplus food from restaurants, grocers, caterers, and farmers&rsquo; markets and delivering it to local shelters and meal programs to get it to people experiencing hunger.</p>
-    <p>Regular routes are available weekly, or you may sign up to cover one-time routes on an occasional basis. If you are delivering food by car, you will need a valid driver&rsquo;s license and regular or occasional access to a vehicle. If you are using a bike to deliver food you will need access to a bicycle; large bike trailer or the willingness to attach one to your bicycle and a backpack, panniers, and/or basket for transporting food.</p>
-    <p>You will need:</p>
+    <h1>Fresh Food Delivery Drivers</h1>
+    <h3>Program Description</h3>
+    <p>The Fresh Food Delivery Program collects surplus perishable food – vegetables, fruit, baked goods, meats, dairy products and healthy prepared foods – from restaurants, grocers, caterers and markets, and delivers them to over 40 social service agencies and fresh food stands throughout the city of Kingston. All of this beautiful food passes both Loving Spoonful’s Healthy Food Guidelines and, as the Guidelines report, our own constant test: We only deliver it if it is fresh enough to feed our own families. Loving Spoonful has collected and delivered over $1 million of fresh food since our founding in 2008.</p>
+    <p>The Fresh Food Delivery Program is one of several programs that directly support Loving Spoonful’s goals of enhancing access to healthy food for all; engaging diverse sectors of the community; and delivering innovative and impactful programming.</p>
+    <h3>Position Purpose &ndash; Your impact</h3>
+    <p>As the backbone of the Fresh Food Delivery program, Loving Spoonful’s conscientious Fresh Food Delivery Drivers salvage fresh healthy food and make it possible for those who live in poverty or who are struggling in Kingston to have access to fresh food, every day.</p>
+    <h3>Qualifications/Resources &ndash; What you&rsquo;ll need</h3>
+    <p>Volunteers who have the most impact and enjoy this position most:</p>
     <ul>
-    <li>An account on the <a href="https://wordhtml.com/robot.boulderfoodrescue.org">Food Rescue Robot</a> (sign up for region=Loving Spoonful)</li>
-    <li>Route details (time, locations, route order, any special instructions)</li>
-    <li>A scale for weighing donated food (in pounds (lb))</li>
-    <li>A Loving Spoonful car magnet (while supplies last)</li>
+    <li>If you are delivering food <u>by car</u>, you will need a valid driver’s license and regular or occasional access to a vehicle.</li>
+    <li>If you are delivering food <u>by bike</u>, you will need access to a bicycle, a helmet, a large bike trailer, (or the willingness to attach one to your bicycle) and a backpack, panniers, and/or basket for transporting food.</li>
+    <li>This position requires some light physical labour and occasional heavy lifting, but many donors and agencies are willing to assist with lifting.</li>
+    <li>An ability to work independently. Although you will be working without supervision, you will be able to discuss any concerns with the Food Access Animator.</li>
+    <li>Access to a computer to view and sign up for shifts, and to submit reports.</li>
     </ul>
-    <p>You will receive training in-person or by phone before your first shift. Delivery drivers are responsible for arriving at all pick-up destinations on time and loading donated food into your vehicle. All donated food must be weighed (in lbs) and entered into the Food Rescue Robot online. You will receive training on how to do this and a bathroom scale to use if you don&rsquo;t have one.</p>
-    <p>Food must be sorted through at the point of pick up, and any food that you would not feed to your family can be discarded by the food donor.</p>
-    <p>When delivering food, offer each drop-off location to take what they like. They will typically not need all of it. In this case, move onto the next location. We design delivery routes to ensure that each agency receives adequate donations. If you&rsquo;re delivering to Fresh Food Market Stands, leave as much as you like, since they aren&rsquo;t staffed.</p>
-    <p>If you cannot cover your shift for any reason, either temporarily or permanently, please schedule an absence on the Robot or inform the Food Access Animator as soon as possible, at least 3 days before your shift.</p>
-    <p>Be mindful of the safe lifting and safe driving tips below. This position requires some light physical labour and occasional heavy lifting. You will be working without supervision, but will be able to discuss any concerns with the Food Access Animator.</p>
+    <h3>Key Duties and Responsibilities</h3>
+    <p>Fresh Food Delivery Drivers are responsible for picking up donated surplus food from restaurants, grocers, caterers, and farmers’ markets and delivering it to local shelters and meal programs.</p>
+    <p><u>Food Donation Pick Up</u></p>
+    <li>1.	Affix a Loving Spoonful car magnet on your car (will be provided, while supplies last)</li>
+    <li>2.	Arrive at all pick-up destinations on time</li>
+    <li>3.	Load donated food into your vehicle</li>
+    <li>4.	Weigh all donated food (in lbs), and submit report on Food Rescue Robot online (Account and training provided.)</li>
+    <li>5.	Sort through food at the point of pick up. Leave any food that you would not feed to your family to be discarded by the food donor.</li>
+    <li>6.	If working with temperature-sensitive items, be sure to follow <a href="https://www.foodrescue.ca/docs/default-source/default-document-library/safe-food-transport-guide.pdf">Food Rescue.ca guidelines</a> on how to transport them safely.</li>
+    <p><u>Food Donation Delivery</u></p>
+    <li>1.	Offer each drop-off location to take what they like. (They will typically not need all of it.)</li>
+    <li>2.	Move onto the next location. We design delivery routes to ensure that each agency receives adequate donations.</li>
+    <li>3.	If you are delivering to Fresh Food Market Stands, leave as much as you like, since they aren’t staffed.</li>
+    <p><u>Other Responsibilities</u></p>
+    <ul>
+    <li>Sign up for shifts on the online Food Rescue Robot</li>
+    <li>Cancel shifts on the online Food Rescue Robot at least 3 days in advance if going to be absent, or directly inform the Food Access Animator as soon as possible if last minute changes occur.</li>
+    </ul>
+    <h3>Time Commitments and Locations</h3>
+    <ul>
+    <li>Regular routes are mapped out throughout the City of Kingston and in Amherstview. Details of each are provided in the Food Rescue Robot.</li>
+    <li>Regular routes are available weekly, or you may sign up to cover one-time routes on an occasional basis.</li>
+    <li>Routes generally take 1.5 to 2 hours to complete.</li>
+    </ul>
+    <h3>Support &ndash; What we&rsquo;ll provide</h3>
+    <p>You will receive:</p>
+    <ul>
+    <li>Training, in-person or by phone, before your first shift.</li>
+    <li>An online account with Food Rescue Robot to view and sign up for shifts, and to provide feedback.</li>
+    <li>A car magnet (if needed) and a scale.</li>
+    <li>A cooler/ice packs/thermometer for rescuing meat/dairy, if required.</li>
+    <li>Safe Lifting and Safe Driving tips (See below.)
+    </ul>
+    <p>You are always welcome and encouraged to contact us to share your successes, discuss any concerns or provide feedback: </p>
+    <ul>
+    <li>Alex Harper, Food Access Animator: 343-333-0244 (call or text), <a href="mailto:Alex@lovingspoonful.org">Alex@lovingspoonful.org</a></li>
+    <li>Mary Gauthier, Volunteer & Outreach Coordinator: <a href="mailto:Mary@lovingspoonful.org">Mary@lovingspoonful.org</a></li>
+    </ul>
+    <h3>Benefits &ndash; What you&rsquo;ll gain</h3>
+    <ul>
+    <li>Interaction with the community </li>
+    <li>Having a direct impact on reducing waste and feeding those in need</li>
+    <li>All time off will be covered, please notify in advance </li>
+    <li>Reference letter supplied for successful volunteer experience</li>
+    </ul>
+    <h3>Measures of Success</h3>
+    <ul>
+    <li>Regular and consistent pick-up & delivery of food donations (when there are donations)</li>
+    <li>Regular and consistent reporting of food collection data</li>
+    <li>Good relations with food donors and recipient agencies</li>
+    </ul>
+    <p>
     <h3>SAFE LIFTING TIPS</h3>
     <p>Some of the volunteer roles require lifting heavy objects. Improper lifting techniques can potentially lead to various back injuries. Here are a few simple tips about how to lift heavy objects safely:</p>
     <ul>
