@@ -18,19 +18,19 @@
     <h2>Contact Info</h2>
     <p>Loving Spoonful office</p>
     <ul>
-    <li>Address: Bagot St., 2nd floor in Kingston, ON K7K 3E1</li>
+    <li>Address: 559 Bagot St., 2nd floor, Kingston ON, K7K 3E1</li>
     <li>General office phone: 613-507-8848</li>
     </ul>
     <p>For support, please contact the most appropriate staff person:</p>
     <ul>
-    <li>Volunteer & Outreach Coordinator: Mary Gauthier - Mary@lovingspoonful.org</li>
-    <li>Food Access Animator: Alex Harper - c. 343-333-0244, <a href="mailto:Alex@lovingspoonful.org">Alex@lovingspoonful.org</a></li>
-    <li>GROW Project Coordinator: Anne Munier - <a href="mailto:AnneM@lovingspoonful.org">AnneM@lovingspoonful.org</a></li>
-    <li>Community Kitchen Coordinator: Thea Zuiker - c. 333-343-5699,<a href="mailto:Thea@lovingspoonful.org">Thea@lovingspoonful.org</a></li>
-    <li>Office Manager: Melanie Redman - c. 613-770-6105</li>, <a href="mailto:Mel@lovingspoonful.org">Mel@lovingspoonful.org</a>
-    <li>Community Programs Manager (Maternity leave): Madison Hainstock - c. 613-795-5426, <a href="mailto:Madison@lovingspoonful.org">Madison@lovingspoonful.org</a></li>
-    <li>Food Education Manager (Maternity leave): Leslie Hanson - c. 204-981-3801</li>, <a href="mailto:Leslie@lovingspoonful.org">Leslie@lovingspoonful.org</a>
-    <li>Executive Director: Mara Shaw - c. 613-217-9404</li>, <a href="mailto:Mara@lovingspoonful.org">Mara@lovingspoonful.org</a>
+    <li><strong>Volunteer & Outreach Coordinator</strong>: Mary Gauthier - <a href="mailto:Mary@lovingspoonful.org">Mary@lovingspoonful.org</a></li>
+    <li><strong>Food Access Animator</strong>: Alex Harper - c. 343-333-0244, <a href="mailto:Alex@lovingspoonful.org">Alex@lovingspoonful.org</a></li>
+    <li><strong>GROW Project Coordinator</strong>: Anne Munier - <a href="mailto:AnneM@lovingspoonful.org">AnneM@lovingspoonful.org</a></li>
+    <li><strong>Community Kitchen Coordinator</strong>: Thea Zuiker - c. 333-343-5699,<a href="mailto:Thea@lovingspoonful.org">Thea@lovingspoonful.org</a></li>
+    <li><strong>Office Manager</strong>: Melanie Redman - c. 613-770-6105, <a href="mailto:Mel@lovingspoonful.org">Mel@lovingspoonful.org</a></li>
+    <li><strong>Community Programs Manager</strong> (Maternity leave): Madison Hainstock - c. 613-795-5426, <a href="mailto:Madison@lovingspoonful.org">Madison@lovingspoonful.org</a></li>
+    <li><strong>Food Education Manager</strong> (Maternity leave): Leslie Hanson - c. 204-981-3801, <a href="mailto:Leslie@lovingspoonful.org">Leslie@lovingspoonful.org</a></li>
+    <li<strong>>Executive Director</strong>: Mara Shaw - c. 613-217-9404, <a href="mailto:Mara@lovingspoonful.org">Mara@lovingspoonful.org</a></li>
     </ul>
 
     <h2>Being a Volunteer</h2>
@@ -39,8 +39,8 @@
     <p>Loving Spoonful does not and shall not discriminate on the basis of race, color, religion (creed), gender, gender expression, age, national origin (ancestry), disability, marital status, sexual orientation, or military status, in any of its activities or operations. These activities include, but are not limited to, hiring and firing of staff, selection of volunteers and vendors, and provision of services. We are committed to providing an inclusive and welcoming environment for all members of our staff, clients, volunteers, and partners. We expect all volunteers and staff to share in this commitment.</p>
     <h2>Policies</h2>
     <p>All volunteers are required to review and agree to comply with the Volunteer Policies before obtaining a personal account with the Volunteer Robot. They can be found <a href="http://volunteer.lovingspoonful.org/rights">here</a> for your reference.</p>
-    <h2>Volunteer Roles</h2>
-    <p>There are many different ways that volunteers contribute to the work of Loving Spoonful!</p>
+    <h2>Volunteer Positions</h2>
+    <p>There are many different ways that volunteers contribute to the work of Loving Spoonful! Click on the roles to find out more information.</p>
     <a href="http://volunteer.lovingspoonful.org/delivery"><p><em>Fresh Food Delivery Drivers</em></a><strong><em>: </em></strong>Pick up donated food from local grocers, farmers, and other businesses and deliver it directly to local shelters and meal programs.</p>
     <a href="http://volunteer.lovingspoonful.org/booths"><p><em>Grow A Row Market Booth Ambassadors</em></a><strong><em>: </em></strong>Represent us at our booths at the Downtown Kingston Public Market and the Memorial Centre Farmers&rsquo; Market over the summer. Receive fresh healthy produce donated by local farmers and gardeners for local shelters and meal programs.</p>
     <a href="http://volunteer.lovingspoonful.org/kitchens"><p><em>Community Kitchen Workshop Facilitators</em></a><strong><em>: </em></strong>Help run cooking classes to teach people to cook healthy, affordable and delicious meals while building confidence and community.</p>
