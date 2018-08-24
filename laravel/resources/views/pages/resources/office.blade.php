@@ -5,7 +5,7 @@
 <div class="col-sm-8">
     <h1>Administrative Helpers</h1>
     <h3>Position Purpose &ndash; Your impact</h3>
-    <p>The skills and expertise of Administrative Helpers assist in creating a strong administrative foundation at Loving Spoonful, which is key to providing consistent quality programming. In this way, their contributions directly support Loving Spoonful’s goals of enhancing access to healthy food for all; engaging diverse sectors of the community; and delivering innovative and impactful programming.</p>    <p>The GROW Project is one of several programs that directly support Loving Spoonful’s goals of enhancing access to healthy food for all; engaging diverse sectors of the community; and delivering innovative and impactful programming.
+    <p>The skills and expertise of Administrative Helpers assist in creating a strong administrative foundation at Loving Spoonful, which is key to providing consistent quality programming. In this way, their contributions directly support Loving Spoonful’s goals of enhancing access to healthy food for all; engaging diverse sectors of the community; and delivering innovative and impactful programming.</p>
     <h3>Qualifications/Resources &ndash; What you&rsquo;ll need</h3>
     <ul>
     <li>Familiarity with Microsoft Excel, Microsoft Word, and computers is preferred.</li>
