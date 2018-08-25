@@ -5,6 +5,7 @@
 <div class="col-sm-8">
     <h1>Volunteer Handbook</h1>
     <h4>Updated August 2018</h4>
+    A printable version of the Volunteer Handbook is available <HERE>.
     <h2>Why we exist</h2>
     <p>Approximately 20,000 people in Kingston live below the poverty line. Thousands more are unable to buy the healthy food that keeps minds and bodies working. Loving Spoonful is a charitable organization that works towards achieving a food-secure community by facilitating fresh food access, skills, and engagement in a collaborative, empowering, and environmentally-sustainable manner.</p>
     <p>Our goals include:</p>
@@ -14,7 +15,7 @@
     <li>Engaging diverse sectors of the community.</li>
     </ul>
     <h2>Who we are</h2>
-    <p>Loving Spoonful is based in Kingston, Ontario, and has 4 core staff, 6 program staff, 250 volunteers, and a local board of directors (see Figure 1). We deliver fresh food from farms, gardeners, and grocery stores to more than thirty local shelters and meal programs. We lead garden-based education programs and teach hundreds of people healthy food skills. We work with partners across Kingston on food security issues.</p>
+    <p>Loving Spoonful is based in Kingston, Ontario, and has 4 core staff, 6 program staff, 250 volunteers, and a local board of directors. We deliver fresh food from farms, gardeners, and grocery stores to more than thirty local shelters and meal programs. We lead garden-based education programs and teach hundreds of people healthy food skills. We work with partners across Kingston on food security issues.</p>
     <h2>Contact Info</h2>
     <p>Loving Spoonful office</p>
     <ul>
