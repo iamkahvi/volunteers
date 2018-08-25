@@ -15,12 +15,13 @@
     <li>No training or previous experience required.</li>
     </ul>
     <h3>Key Duties and Responsibilities</h3>
-    <ul>
-    <li>Volunteers drive or carpool to a local farm or garden to harvest produce.</li>
-    <li>Produce is weighed at the end of the shift.</li>
-    <li>Produce is delivered to Loving Spoonful’s Little Cat Cold Storage.</li>
+    <ol>
+    <li>Drive or carpool to a local farm or garden. (Assistance with carpooling is available.)</li>
+    <li>Harvest produce, as instructed.</li>
+    <li>Weigh produce at the end of the shift.</li>
+    <li>Deliver produce to Loving Spoonful’s Little Cat Cold Storage.</li>
     <li>Record delivery details on the track sheet there.</li>
-    </ul>
+    </ol>
     <p><u>Other responsibilities</u></p>
     <ul>
     <li>Sign up for shifts on the online Volunteer Robot</li>
