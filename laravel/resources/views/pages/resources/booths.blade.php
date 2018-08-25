@@ -82,7 +82,7 @@
     <li>Interaction with the community, farmers, and market-goers</li>
     <li>Time outside in the sunshine</li>
     <li>Seeing beautiful produce be salvaged and appreciated</li>
-    <li>Reference letter supplied for successful volunteer experience</li>
+    <li>Reference letter supplied for successful volunteer experience, upon request.</li>
     </ul>
 </div>
 @endsection
