@@ -20,7 +20,7 @@
     <li>Are outgoing, or willing to talk to strangers;</li>
     <li>Able to do some light physical labour and occasional heavy lifting; and</li>
     <li>Are able to work as part of a team.
-    <li>Have access to a computer to view and sign up for shifts. (Accommodation provided upon request.)</li>
+    <li>Have online access on computer or mobile device to view and sign up for shifts. (Accommodation provided upon request.)</li>
     </ul>
     <h3>Key Duties and Responsibilities</h3>
     <p>Grow A Row Market Booth Ambassadors work in teams to run the Loving Spoonful Booths at the Memorial Centre Farmers’ Market and the Downtown Kingston Public Market.</p>
