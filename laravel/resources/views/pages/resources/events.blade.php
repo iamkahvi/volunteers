@@ -10,6 +10,7 @@
     <ul>
     <li>Ability to work without direct supervision, but in coordination with the Office Manager.</li>
     <li>No previous experience required.</li>
+    <li>Online access on computer or mobile device to view and sign up for shifts is an asset. (Accommodation provided if needed.)</li>
     </ul>
     <h3>Key Duties and Responsibilities</h3>
     <p>Tasks of Events Assistants vary according to need. Some examples of what they do include, but are not limited to:</p>
