@@ -17,6 +17,7 @@
     <li>Be comfortable standing for long periods of time (1.5 to 3 hours at a time)</li>
     <li>An ability to work as part of a team.</li>
     <li>A Criminal Record Check is required, as program participants are allowed to bring their children to the classes. (Cost is reimbursed.)</li>
+    <li>Have online access on computer or mobile device to view and sign up for shifts. (Accommodation provided upon request.)</li>
     </ul>
     <h3>Key Duties and Responsibilities</h3>
     <p>Circles&reg; Workshop Assistants have on-site duties and other responsibilities.</p>
