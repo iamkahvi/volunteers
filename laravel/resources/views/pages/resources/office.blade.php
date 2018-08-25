@@ -48,7 +48,7 @@
     <ul>
     <li>An opportunity to use your skills to support a worthy cause</li>
     <li>An opportunity to gain administrative experience</li>
-    <li>Reference letter supplied for successful volunteer experience</li>
+    <li>Reference letter supplied for successful volunteer experience, upon request.</li>
     </ul>
 </div>
 @endsection
