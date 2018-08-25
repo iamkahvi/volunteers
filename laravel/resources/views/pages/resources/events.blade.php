@@ -3,8 +3,33 @@
 @section('content')
 <div class="col-sm-2"></div>
 <div class="col-sm-8">
-    <h2>Events</h2>
-    <p>Volunteers are instrumental in representing Loving Spoonful at events like:</p>
+    <h1>Events Assistants</h1>
+    <h3>Position Purpose &ndash; Your impact</h3>
+    <p>Events Assistants are instrumental in helping to plan, execute and staff our community-building and fundraising events. By supporting programming capacity, these events directly contribute to Loving Spoonful’s goals of enhancing access to healthy food for all; engaging diverse sectors of the community; and delivering innovative and impactful programming.</p>
+    <h3>Qualifications/Resources &ndash; What you&rsquo;ll need</h3>
+    <ul>
+    <li>Ability to work without direct supervision, but in coordination with the Office Manager.</li>
+    <li>No previous experience required.</li>
+    </ul>
+    <h3>Key Duties and Responsibilities</h3>
+    <p>Tasks of Events Assistants vary according to need. Some examples of what they do include, but are not limited to:</p>
+    <ul>
+    <li>Putting up posters around Kingston, in advance of events</li>
+    <li>Decorating at event site, setting up tables/chairs, etc.</li>
+    <li>Disassembling event site, removing tables/chairs, etc.</li>
+    <li>Attending events, assisting as required with distribution of materials, food, etc.</li>
+    <li>Engaging with event attendees and raising awareness about Loving Spoonful</li>
+    <li>Ensuring good relations are maintained with event holders and attendees</li>
+    <li>This position may require light physical labour and occasional heavy lifting.</li>
+    </ul>
+    <p><u>Other responsibilities</u></p>
+    <ul>
+    <li>Sign up for shifts on the online Volunteer Robot</li>
+    <li>Cancel shifts on the online Volunteer Robot at least 3 days in advance if going to be absent, or directly inform the Loving Spoonful staff as soon as possible if last minute changes occur.</li>
+    </ul>
+    <h3>Time Commitments and Locations</h3>
+    <p>All volunteers will be notified of upcoming events and volunteer role opportunities in advance. Time commitments vary according to tasks.</p>
+    <p>Regularly scheduled events take place primarily during summer months:</p>
     <ul>
     <li>Seedy Saturday (March)</li>
     <li>Food Revolution Day (May)</li>
@@ -13,14 +38,21 @@
     <li>Night Market (August)</li>
     <li>Community Garden Trolley Tour (June/July/August/September)</li>
     </ul>
-    <p>Other ways to help include:</p>
+    <h3>Support &ndash; What we&rsquo;ll provide</h3>
     <ul>
-    <li>Putting up posters around Kingston, in advance of events</li>
-    <li>Decorating at event site, setting up tables/chairs, etc.</li>
-    <li>Disassembling event site, removing tables/chairs, etc.</li>
-    <li>Attending events, assisting as required with distribution of materials, food, etc.</li>
-    <li>Representing Loving Spoonful at the events</li>
+    <li>Training will take place as needed.</li>
+    <li>A supervisor will be available to you at all times while in the office.</li>
+    <li>Flexibility in accommodating your schedule</li>
+    <li>An online account with Volunteer Robot to track your shifts</li>
     </ul>
-    <p>Volunteers will be notified of upcoming events in advance. They will be asked to attend planning meetings prior to events and help distribute posters advertising the events. Regularly scheduled events take place, as listed above. Volunteers will work without direct supervision, but will coordinate their work with the Office Manager. Volunteers will be responsible for ensuring events are well coordinated, start on time, and run smoothly. They will also be required to ensure good relations are maintained with event holders &amp; attendees.</p>
-</div>
+    <p>You are always welcome and encouraged to contact us to share your successes, discuss any concerns or provide feedback: </p>
+    <ul>
+    <li>Melanie Redman, Office Manager: <a href="mailto:Mel@lovingspoonful.org">Mel@lovingspoonful.org</a></li>
+    <li>Mary Gauthier, Volunteer & Outreach Coordinator: <a href="mailto:Mary@lovingspoonful.org">Mary@lovingspoonful.org</a></li>
+    </ul>
+    <h3>Benefits &ndash; What you&rsquo;ll gain</h3>
+    <ul>
+    <li> </li>
+    <li>Reference letter supplied for successful volunteer experience, as requested.</li>
+    </ul></div>
 @endsection
