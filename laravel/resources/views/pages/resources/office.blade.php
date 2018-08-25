@@ -13,7 +13,7 @@
     <li>A flexible schedule is an asset.</li>
     </ul>
     <h3>Key Duties and Responsibilities</h3>
-    <p>Tasks of Administrative Helpers vary according to need. Some examples of what they do include, but not limited to:</p>
+    <p>Tasks of Administrative Helpers vary according to need. Some examples of what they do include, but are not limited to:</p>
     <ul>
     <li>Data entry & database management </li>
     <li>Graphic design</li>
