@@ -12,6 +12,7 @@
     <h3>Qualifications/Resources &ndash; What you&rsquo;ll need</h3>
     <ul>
     <li>This position requires light physical labour and occasional heavy lifting.</li>
+    <li>Online access on computer or mobile device to view and sign up for shifts is an asset. (Accommodation provided if needed.)</li>
     <li>No training or previous experience required.</li>
     </ul>
     <h3>Key Duties and Responsibilities</h3>
