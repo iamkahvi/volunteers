@@ -17,6 +17,7 @@
     <li>Be comfortable standing for long periods of time (1.5 – 3 hrs depending on the program)</li>
     <li>Light physical labour is required for some of the workshops.</li>
     <li>A Criminal Record Check is required, as program participants can bring their children to the classes. Cost is reimbursed; just provide your receipt.</li>
+    <li>Online access on computer or mobile device to view and sign up for shifts is an asset. (Accommodation provided if needed.)</li>
     </ul>
     <h3>Key Duties and Responsibilities</h3>
     <p><u>On-site Duties</u></p>
