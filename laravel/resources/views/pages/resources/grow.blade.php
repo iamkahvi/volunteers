@@ -22,6 +22,7 @@
     <li>Knowledge of basic gardening techniques such as “planting”, “weeding”, “thinning” and “harvesting” would be helpful for spring workshops, but is not required.</li>
     <li>Knowledge of basic food preparation techniques (chopping, mixing, using different ingredients) would be helpful but is not required.</li>
     <li>Light physical labour is required for some of the workshops.</li>
+    <li>Online access on computer or mobile device to view and sign up for shifts is an asset. (Accommodation provided if needed.)</li>
     </ul>
     <h3>Key Duties and Responsibilities</h3>
     <p>Workshop Assistants help in the classroom and/or garden with students from grades 4 to 8. Their role could include:</p>
