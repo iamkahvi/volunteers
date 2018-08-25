@@ -56,7 +56,7 @@
     <li>Learning new healthy recipes</li>
     <li>Teaching and cooking in the kitchen</li>
     <li>Cost of CPIC will be reimbursed with submission of a receipt</li>
-    <li>Reference letter supplied for successful volunteer experience</li>
+    <li>Reference letter supplied for successful volunteer experience, upon request.</li>
     </ul>
 </div>
 @endsection
