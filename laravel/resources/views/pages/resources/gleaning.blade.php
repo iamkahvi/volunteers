@@ -46,7 +46,7 @@
     </ul>
     <h3>Benefits &ndash; What you&rsquo;ll gain</h3>
     <ul>
-    <li>Time outdoors, on farms or in gardens</li>
+    <li>Physical time outdoors, on farms or in gardens</li>
     <li>Seeing beautiful produce be salvaged</li>
     <li>Reference letter supplied for successful volunteer experience</li>
     </ul>
