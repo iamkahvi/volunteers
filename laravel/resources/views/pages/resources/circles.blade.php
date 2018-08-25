@@ -3,7 +3,7 @@
 @section('content')
 <div class="col-sm-2"></div>
 <div class="col-sm-8">
-    <h1>Position Title: Circles Program Assistants</h1>
+    <h1>Circles Workshop Assistant</h1>
     <h3>Program Description</h3>
     <p>Circles&reg; is a proven poverty reduction program, and is offered by Loving Spoonful, in partnership with Kingston Community Health Centres (KCHC) and the City of Kingston. The weekly gatherings around meals build community across class lines, teach food skills, and support people experiencing poverty toward their goals for self-sufficiency.</p>
     <p>Circles&reg; is one of several programs that directly support Loving Spoonful&rsquo;s goals of enhancing access to healthy food for all; engaging diverse sectors of the community; and delivering innovative and impactful programming.</p>
