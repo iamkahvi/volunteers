@@ -65,7 +65,7 @@
     <li>Interaction with the community </li>
     <li>Having a direct impact on reducing waste and feeding those in need</li>
     <li>All time off will be covered, please notify in advance </li>
-    <li>Reference letter supplied for successful volunteer experience</li>
+    <li>Reference letter supplied for successful volunteer experience, upon request.</li>
     </ul>
     <h3>Measures of Success</h3>
     <ul>
