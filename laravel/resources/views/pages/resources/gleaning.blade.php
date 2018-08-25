@@ -48,7 +48,7 @@
     <ul>
     <li>Physical time outdoors, on farms or in gardens</li>
     <li>Seeing beautiful produce be salvaged</li>
-    <li>Reference letter supplied for successful volunteer experience</li>
+    <li>Reference letter supplied for successful volunteer experience, upon request.</li>
     </ul>
 </div>
 @endsection
