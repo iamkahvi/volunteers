@@ -73,7 +73,10 @@
     <li>Regular and consistent reporting of food collection data</li>
     <li>Good relations with food donors and recipient agencies</li>
     </ul>
-    <p>*****</p>
+    <h3>WANT TO VOLUNTEER AS A FRESH FOOD DELIVERY DRIVER?</h3>
+    <p>Please contact Alex Harper, Food Access Animator: <a href="mailto:Alex@lovingspoonful.org">Alex@lovingspoonful.org</a></p>
+
+    <p>****************************************************************************************</p>
     <h3>SAFE LIFTING TIPS</h3>
     <p>This volunteer role may occassionally require lifting heavy objects. Improper lifting techniques can potentially lead to various back injuries. Here are a few simple tips about how to lift heavy objects safely:</p>
     <ul>
