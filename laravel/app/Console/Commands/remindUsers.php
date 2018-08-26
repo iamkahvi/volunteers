@@ -50,112 +50,107 @@ class remindUsers extends Command
      public function handle()
      {
 
-         $currDate = date("Y-m-d H:i:s");
-
          $shifts = Slot::get();
-
-         $secondsReminder = env('REMIND_HOURS')*60*60
 
          // Cycle through all the slots
          foreach($shifts as $shift)
          {
+             $startDate = new Carbon(date('Y-m-d H:i:s', strtotime("$shift->start_date $shift->start_time")));
 
-             // Find all the shifts that start today
-             if($shift->start_date == date('Y-m-d'))
+             $remindDate = new Carbon(date('Y-m-d H:i:s', strtotime("$shift->start_date $shift->start_time")));
+
+             $now = Carbon::now();
+
+             $remindDate->subHours(env('REMIND_HOURS'));
+
+             //echo date('Y-m-d H:i:s', strtotime($shift->start_time) - 84600).' is less than or equal to '.date('Y-m-d H:i:s').PHP_EOL;
+
+             // Find all the shifts that start within the next day
+             if($remindDate <= $now and $startDate > $now)
              {
 
-                 // Find all the shifts that start within the next day
-                 if(date('H:i:s', strtotime($shift->start_time) - $secondsReminder) <= date('H:i:s') and $shift->start_time > date('H:i:s'))
+                 echo $remindDate.' is less than or equal to '.$now.PHP_EOL;
+
+                 // Find all the shifts that are empty
+                 if(empty($shift->user_id))
                  {
-                     echo date('H:i:s', strtotime($shift->start_time) - $secondsReminder).' is less than or equal to '.date('H:i:s').PHP_EOL;
+                     echo 'No one has signed up for it, so you should send reminders to the admins'.PHP_EOL;
 
-                     echo $shift->start_time.' is greater than '.date('H:i:s').PHP_EOL;
+                     // Find all admin users
+                     $admins = UserRole::get()->where('role_id', 1);
 
-                     // Find all the shifts that are empty
-                     if(empty($shift->user_id))
+                     if($shift->isNotified == 'No')
                      {
-                         echo 'No one has signed up for it, so you should send reminders to the admins'.PHP_EOL;
 
                          // Find all admin users
-                         $admins = UserRole::get()->where('role_id', 1);
-
-                         if($shift->isNotified == 'No')
+                         foreach ($admins as $admin)
                          {
+                             //$user = User::get()->where('id', $admin->user_id)->first();
 
-                             // Find all admin users
-                             foreach ($admins as $admin)
-                             {
-                                 //$user = User::get()->where('id', $admin->user_id)->first();
-
-                                 //$user->notify(new shiftStarting($shift, $user));
-                             }
-
-                         } else
-                         {
-                             echo "You already did lol".PHP_EOL;
+                             //$user->notify(new shiftStarting($shift, $user));
                          }
 
-                         // Updating Database isNotified value
-                         DB::table('slots')
-                                     ->where('id', $shift->id)
-                                     ->update(['isNotified' => 'Yes']);
-
-                        /*
-                         // Notify admin of unregistered shift
-                         if($shift->isNotified == 'No')
-                         {
-                             $admin->notify(new shiftStarting($shift, $admin));
-                         } else
-                         {
-                             echo "You already did lol".PHP_EOL;
-                         }
-                         */
-
-                     }
-
-                     // Find all the shifts that are full
-                     else
+                     } else
                      {
-                         echo $shift->getDepartmentAttribute()->description.PHP_EOL;
-
-                         $users = User::get();
-
-                         // Cycle through users
-                         foreach ($users as $user)
-                         {
-
-                             // Find user that is registered for this shift
-                             if ($user->id == $shift->user_id) {
-
-                                 echo 'You should remind '.$user->email.' that they have a shift starting soon'.PHP_EOL;
-
-                                 // Updating Database isNotified value
-                                 DB::table('slots')
-                                             ->where('id', $shift->id)
-                                             ->update(['isNotified' => 'Yes']);
-
-                                 // Notify user of upcoming shift
-                                 if($shift->isNotified == 'No')
-                                 {
-                                     $user->notify(new shiftStarting($shift, $user));
-                                 } else
-                                 {
-                                     echo "You already did lol".PHP_EOL;
-                                 }
-
-                             }
-                         }
-
+                         echo "You already did lol".PHP_EOL;
                      }
+
+                     // Updating Database isNotified value
+                     DB::table('slots')
+                                 ->where('id', $shift->id)
+                                 ->update(['isNotified' => 'Yes']);
+
+                    /*
+                     // Notify admin of unregistered shift
+                     if($shift->isNotified == 'No')
+                     {
+                         $admin->notify(new shiftStarting($shift, $admin));
+                     } else
+                     {
+                         echo "You already did lol".PHP_EOL;
+                     }
+                     */
+
                  }
+
+                 // Find all the shifts that are full
                  else
                  {
-                     echo 'Shift does not start within the hour'.PHP_EOL;
+                     echo $shift->getDepartmentAttribute()->description.PHP_EOL;
+
+                     $users = User::get();
+
+                     // Cycle through users
+                     foreach ($users as $user)
+                     {
+
+                         // Find user that is registered for this shift
+                         if ($user->id == $shift->user_id) {
+
+                             echo 'You should remind '.$user->email.' that they have a shift starting soon'.PHP_EOL;
+
+                             // Updating Database isNotified value
+                             DB::table('slots')
+                                         ->where('id', $shift->id)
+                                         ->update(['isNotified' => 'Yes']);
+
+                             // Notify user of upcoming shift
+                             if($shift->isNotified == 'No')
+                             {
+                                 $user->notify(new shiftStarting($shift, $user));
+                             } else
+                             {
+                                 echo "You already did lol".PHP_EOL;
+                             }
+
+                         }
+                     }
+
                  }
              }
              else
              {
-                 echo 'No shifts begin today'.PHP_EOL;
+                 echo 'Shift does not start within the designated period'.PHP_EOL;
              }
 
          }
