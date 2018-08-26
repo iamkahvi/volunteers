@@ -54,6 +54,8 @@ class remindUsers extends Command
 
          $shifts = Slot::get();
 
+         $secondsReminder = env('REMIND_HOURS')*60*60
+
          // Cycle through all the slots
          foreach($shifts as $shift)
          {
@@ -63,9 +65,9 @@ class remindUsers extends Command
              {
 
                  // Find all the shifts that start within the next day
-                 if(date('H:i:s', strtotime($shift->start_time) - 86400) <= date('H:i:s') and $shift->start_time > date('H:i:s'))
+                 if(date('H:i:s', strtotime($shift->start_time) - $secondsReminder) <= date('H:i:s') and $shift->start_time > date('H:i:s'))
                  {
-                     echo date('H:i:s', strtotime($shift->start_time) - 86400).' is less than or equal to '.date('H:i:s').PHP_EOL;
+                     echo date('H:i:s', strtotime($shift->start_time) - $secondsReminder).' is less than or equal to '.date('H:i:s').PHP_EOL;
 
                      echo $shift->start_time.' is greater than '.date('H:i:s').PHP_EOL;
 
