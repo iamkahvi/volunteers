@@ -136,7 +136,7 @@
             <h2>All Shifts:</h2>
 
             <div class="days">
-                @foreach($event->days() as $day)
+                @foreach($event->days(true) as $day)
                     <div class="day" data-date="{{ $day->date->format('Y-m-d') }}">
                         <div class="heading">
                             <h3><ins>{{ date("D, M jS", strtotime($day->date->format('Y-m-d'))) }}</ins></h3>
