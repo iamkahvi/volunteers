@@ -50,7 +50,7 @@ class sendEmail extends Command
     {
         $shift = Slot::get()->first();
 
-        $user = User::get()->where('name', '=', env('ADMIN_NAME'))->first();
+        $user = User::get()->where('name', '=', env('ADMIN_USERNAME'))->first();
 
         $user->notify(new shiftStarting($shift, $user));
 

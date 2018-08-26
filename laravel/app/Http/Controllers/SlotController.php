@@ -34,7 +34,7 @@ class SlotController extends Controller
         $start_date = new Carbon($slot->start_date);
         $start_time = new Carbon($slot->start_time);
 
-        if($start_date->subDays(3)->gte(Carbon::today()))
+        if($start_date->subDays(env('PICKUP_DAYS'))->gte(Carbon::today()))
         {
             if($start_time->gt(Carbon::today()))
             {
@@ -116,7 +116,7 @@ class SlotController extends Controller
             // Send notification to administrator
             $volunteer = Auth::user();
 
-            $user = User::get()->where('name', '=', env('ADMIN_NAME'))->first();
+            $user = User::get()->where('name', '=', env('ADMIN_USERNAME'))->first();
             $user->notify(new slotTaken($slot, $volunteer));
 
             // If a password was used
@@ -167,7 +167,7 @@ class SlotController extends Controller
                     // Send notification to administrator
                     $volunteer = Auth::user();
 
-                    $user = User::get()->where('name', '=', env('ADMIN_NAME'))->first();
+                    $user = User::get()->where('name', '=', env('ADMIN_USERNAME'))->first();
                     $user->notify(new slotReleased($slot, $volunteer));
 
                 }
