@@ -32,7 +32,7 @@ class SendAdminFileUploaded
         $file = $event->file;
 
         // TODO: Options to choose which admins to notify
-        $admin = User::where('name', '=', 'LovingSpoonful')->first();
+        $admin = User::where('name', '=', env('ADMIN_NAME'))->first();
 
         Mail::send('emails/admin-file-uploaded', compact('file'), function ($message) use ($admin)
         {

@@ -116,7 +116,7 @@ class SlotController extends Controller
             // Send notification to administrator
             $volunteer = Auth::user();
 
-            $user = User::get()->where('name', '=', 'LovingSpoonful')->first();
+            $user = User::get()->where('name', '=', env('ADMIN_NAME'))->first();
             $user->notify(new slotTaken($slot, $volunteer));
 
             // If a password was used
@@ -167,7 +167,7 @@ class SlotController extends Controller
                     // Send notification to administrator
                     $volunteer = Auth::user();
 
-                    $user = User::get()->where('name', '=', 'LovingSpoonful')->first();
+                    $user = User::get()->where('name', '=', env('ADMIN_NAME'))->first();
                     $user->notify(new slotReleased($slot, $volunteer));
 
                 }

@@ -32,7 +32,7 @@ class SendAdminWelcome
         $user = $event->user;
 
         // TODO: Options to choose which admins to notify
-        $admin = User::where('name', '=', 'LovingSpoonful')->first();
+        $admin = User::where('name', '=', env('ADMIN_NAME'))->first();
 
         Mail::send('emails/admin-welcome', compact('user'), function ($message) use ($admin)
         {
