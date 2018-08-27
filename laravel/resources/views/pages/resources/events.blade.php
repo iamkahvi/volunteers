@@ -53,8 +53,9 @@
     </ul>
     <h3>Benefits &ndash; What you&rsquo;ll gain</h3>
     <ul>
-    <li> </li>
-    <li>Reference letter supplied for successful volunteer experience, as requested.</li>
+    <li>An opportunity be part of the ‘backstage crew’ at fun community events</li>
+    <li>A chance to build up a worthy cause</li>
+    <li>Reference letter supplied for successful volunteer experience, upon request.</li>
     </ul></div>
     <h3>Measures of Success</h3>
     <ul>
