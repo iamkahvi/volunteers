@@ -56,10 +56,11 @@
     <li>An opportunity be part of the ‘backstage crew’ at fun community events</li>
     <li>A chance to build up a worthy cause</li>
     <li>Reference letter supplied for successful volunteer experience, upon request.</li>
-    </ul></div>
+    </ul>
     <h3>Measures of Success</h3>
     <ul>
     <li>Tasks are completed as assigned</li>
     <li>Events Support volunteers are having fun!</li>
     </ul>
 @endsection
+</div>
