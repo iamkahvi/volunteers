@@ -7,6 +7,7 @@ use Illuminate\Database\Eloquent\SoftDeletes;
 use Carbon\Carbon;
 use App\Models\Slot;
 use App\Models\Schedule;
+use App\Models\Shifts;
 
 class Event extends Model
 {
@@ -112,16 +113,22 @@ class Event extends Model
 
             while($date->lte($end_date))
             {
+
+                $shifts = Shift::where('event_id', $this->id)->pluck('id');
+
                 if($hideEmpty)
                 {
+
                     // Pluck all of the shift IDs for this event and check the if any in the schedule start today
-                    if(Schedule::where('dates', 'LIKE', "%".$date->format('Y-m-d')."%")->get()->isEmpty())
+                    if(Schedule::whereIn('shift_id', $shifts)->where('dates', 'LIKE', "%".$date->format('Y-m-d')."%")->get()->isEmpty())
                     {
                         // Continue onto the next day
                         $date->addDay();
                         continue;
                     }
                 }
+
+
 
                 $days[] = (object)
                 [
