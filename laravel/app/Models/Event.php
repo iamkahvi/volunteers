@@ -115,7 +115,7 @@ class Event extends Model
                 if($hideEmpty)
                 {
                     // Pluck all of the shift IDs for this event and check the if any in the schedule start today
-                    if(Schedule::whereIn('shift_id', $this->shifts->pluck('id'))->where('start_date', $date->format('Y-m-d'))->get()->isEmpty())
+                    if(Schedule::where('dates', 'LIKE', "%".$date->format('Y-m-d')."%")->get()->isEmpty())
                     {
                         // Continue onto the next day
                         $date->addDay();
