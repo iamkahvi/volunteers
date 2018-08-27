@@ -8,12 +8,8 @@
     <p>Grow A Row (GAR) encourages farmers, gardeners and local workplaces to grow an extra row of produce for delivery to 40 local agencies serving some of the over 20,000 people in the Kingston Area who live below the poverty line.  In 2017, Loving Spoonful collected 30,000 lbs of fresh produce that was delivered to the community.</p>
     <p>Grow A Row Program is one of several programs that directly support Loving Spoonful’s goals of enhancing access to healthy food for all; engaging diverse sectors of the community; and delivering innovative and impactful programming.</p>
     <h3>Position Purpose &ndash; Your impact</h3>
-    <p>As the critical point of connection between the food donors and the service agencies, Grow a Row Market Booth Ambassadors are in charge of running the Loving Spoonful Booth at the Memorial Centre Farmers’ Market and the Downtown Kingston Public Market. Specifically, they:</p>
-    <ul>
-    <li>Raise awareness about Loving Spoonful by engaging with curious passers-by, and clearly explaining to them what Loving Spoonful is and what we do.</li>
-    <li>Facilitate connection by getting new people to sign up for our E-Newsletter.</li>
-    <li>Cheerfully collect, accurately weigh, and clearly record donated produce, and reliably submit this information, as instructed.</li> 
-    </ul>
+    <p>As the critical point of connection between the food donors and the service agencies, Grow a Row Market Booth Representatives are in charge of running the Loving Spoonful Booth at the Memorial Centre Farmers’ Market and the Downtown Kingston Public Market. These volunteers collect, weigh, and record donated produce.</p>
+    <p>Grow A Row Market Booth Representatives are also the face of Loving Spoonful in the public. As they engage with curious passers-by, they help to raise awareness about what Loving Spoonful is and what we do.</p>
     <h3>Qualifications/Resources &ndash; What you&rsquo;ll need</h3>
     <p>Volunteers who have the most impact and enjoy this position most:</p>
     <ul>
@@ -84,6 +80,13 @@
     <li>Time outside in the sunshine</li>
     <li>Seeing beautiful produce be salvaged and appreciated</li>
     <li>Reference letter supplied for successful volunteer experience, upon request.</li>
+    </ul>
+    <h3>Measures of Success</h3>
+    <ul>
+    <li>Volunteers can clearly explain Loving Spoonful mission and programming</li>
+    <li>New people sign up for our E-Newsletter</li> 
+    <li>Donation Tracker Forms are accurately and clearly filled with the weight, donor info, and item for each donation</li>
+    <li>All Donation Tracker Forms are submitted<li>
     </ul>
 </div>
 @endsection
