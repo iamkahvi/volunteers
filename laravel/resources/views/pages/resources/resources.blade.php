@@ -41,12 +41,14 @@
     <p>All volunteers are required to review and agree to comply with the Volunteer Policies before obtaining a personal account with the Volunteer Robot. They can be found <a href="http://volunteer.lovingspoonful.org/rights">here</a> for your reference.</p>
     <h2>Volunteer Positions</h2>
     <p>There are many different ways that volunteers contribute to the work of Loving Spoonful! Click on the roles to find out more information.</p>
+    <h3>Food Access Programs</h3>
     <a href="http://volunteer.lovingspoonful.org/delivery"><p><em>Fresh Food Delivery Drivers</em></a><strong><em>: </em></strong>Collect donated surplus food from local grocers, farmers, and other businesses and deliver it directly to social service agencies and fresh food stands in Kingston.</p>
     <a href="http://volunteer.lovingspoonful.org/booths"><p><em>Grow A Row Market Booth Ambassadors</em></a><strong><em>: </em></strong>Run our booths at the Downtown Kingston Public Market and the Memorial Centre Farmers&rsquo; Market over the summer by receiving fresh healthy produce donated by local farmers and gardeners for local shelters and meal programs, and by talking to people about who we are and what we do.</p>
-    <a href="http://volunteer.lovingspoonful.org/kitchens"><p><em>Community Kitchen Workshop Facilitators</em></a><strong><em>: </em></strong>Help run cooking classes to teach people to cook healthy, affordable and delicious meals while building confidence and community.</p>
+    <h3>Food Eduation Programs</h3>
+    <a href="http://volunteer.lovingspoonful.org/kitchens"><p><em>Community Kitchen Workshop Assistants</em></a><strong><em>: </em></strong>Help run cooking classes to teach people to cook healthy, affordable and delicious meals while building confidence and community.</p>
     <a href="http://volunteer.lovingspoonful.org/grow"><p><em>GROW Project Workhop Assistants</em></a><strong><em>: </em></strong>Work in schools in Kingston, teaching kids about food security, gardening, healthy eating, and community through in-class and in-garden workshops.</p>
     <a href="http://volunteer.lovingspoonful.org/gleaning"><p><em>Gleaners</em></a><strong><em>: </em></strong>Help harvest surplus produce from farmers&rsquo; fields for donation.</p>
-     <a href="http://volunteer.lovingspoonful.org/circles"><p><em>Circles Workshop Assistants</em></a><strong><em>: </em></strong>Help run this proven poverty reduction program that gathers weekly around meals to build community across class lines, teach food skills, and support people experiencing poverty toward their goals for self-sufficiency.</p>
-    <a href="http://volunteer.lovingspoonful.org/events"><p><em>Events Assistants</em></a><strong><em>: </em></strong>Help organize, set up, and represent us at various events throughout the year.</p>
-    <a href="http://volunteer.lovingspoonful.org/office"><p><em>Administrative Helpers</em></a><strong><em>: </em></strong>Helping to keep everything organized and running smoothly from our head office, this role includes mostly phone and computer work.</p>
+    <h3>Other Support</h3>
+    <a href="http://volunteer.lovingspoonful.org/events"><p><em>Events Support</em></a><strong><em>: </em></strong>Help organize, set up, and represent us at various events throughout the year.</p>
+    <a href="http://volunteer.lovingspoonful.org/office"><p><em>Administrative Support</em></a><strong><em>: </em></strong>Helping to keep everything organized and running smoothly from our head office, this role includes mostly phone and computer work.</p>
 </div>
