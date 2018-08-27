@@ -8,13 +8,7 @@
     <p>Loving Spoonful's school-garden based GROW Project teaches over 600 students at 17 Kingston and area schools about good food, community, and collaboration. In each school, students in grades 4 to 8 participate in seven curriculum-connected classroom workshops that complement their garden time, teaching students about food systems, social justice and food security, food and culture, and healthy gardens and cooking. Visits from local farmers and nature-based field trips further assist students to make connections between their food, their health, their community, and the Earth.</p>
     <p>The GROW Project is one of several programs that directly support Loving Spoonful’s goals of enhancing access to healthy food for all; engaging diverse sectors of the community; and delivering innovative and impactful programming.
     <h3>Position Purpose &ndash; Your impact</h3>
-    <p>GROW Project Workshop Assistants help out in hands-on workshops where students design, plant, care for and harvest vegetables in their school gardens while learning values of stewardship and responsibility. Their positive impact is observed when:</p>
-    <ul>
-    <li>Students are excited about healthy food and keen to try new things</li>
-    <li>Increased awareness of food systems, food security and the importance of food in culture</li>
-    <li>Building a connection to the environment and working together to support the local community</li>
-    <li>The development of life skills such as gardening, healthy food preparation, and critical thinking</li>
-    </ul>
+    <p>GROW Project Workshop Assistants help out in hands-on workshops where students design, plant, care for and harvest vegetables in their school gardens while learning values of stewardship and responsibility.</p>
     <h3>Qualifications/Resources &ndash; What you&rsquo;ll need</h3>
     <ul>
     <li>A Criminal Record Check with ‘no criminal record’ is required. Cost is reimbursed; just provide your receipt.</li>
@@ -58,6 +52,14 @@
     <li>The chance to work in – and learn more about – vegetable gardens</li>
     <li>Cost of CPIC will be reimbursed with submission of a receipt</li>
     <li>Reference letter supplied for successful volunteer experience, upon request.</li>
+    </ul>
+    <h3>Measures of Success</h3>
+    <p>GROW Project Workshop Assistants see the positive impact they make when students:</p>
+    <ul>
+    <li>Are excited about healthy food and keen to try new things</li>
+    <li>Show an increased awareness of food systems, food security and the importance of food in culture</li>
+    <li>Build a connection to the environment and working together to support the local community</li>
+    <li>Develop life skills such as gardening, healthy food preparation, and critical thinking</li>
     </ul>
 </div>
 @endsection
