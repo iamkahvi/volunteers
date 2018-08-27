@@ -3,7 +3,7 @@
 @section('content')
 <div class="col-sm-2"></div>
 <div class="col-sm-8">
-    <h1>GROW A Row Market Booth Ambassador</h1>
+    <h1>Grow A Row Market Booth Ambassador</h1>
     <h3>Program Description</h3>
     <p>Grow A Row (GAR) encourages farmers, gardeners and local workplaces to grow an extra row of produce for delivery to 40 local agencies serving some of the over 20,000 people in the Kingston Area who live below the poverty line.  In 2017, Loving Spoonful collected 30,000 lbs of fresh produce that was delivered to the community.</p>
     <p>Grow A Row Program is one of several programs that directly support Loving Spoonful’s goals of enhancing access to healthy food for all; engaging diverse sectors of the community; and delivering innovative and impactful programming.</p>
@@ -86,7 +86,7 @@
     <li>Volunteers can clearly explain Loving Spoonful mission and programming</li>
     <li>New people sign up for our E-Newsletter</li> 
     <li>Donation Tracker Forms are accurately and clearly filled with the weight, donor info, and item for each donation</li>
-    <li>All Donation Tracker Forms are submitted<li>
+    <li>All Donation Tracker Forms are submitted</li>
     </ul>
 </div>
 @endsection
