@@ -3,9 +3,9 @@
 @section('content')
 <div class="col-sm-2"></div>
 <div class="col-sm-8">
-    <h1>Events Assistants</h1>
+    <h1>Events Support</h1>
     <h3>Position Purpose &ndash; Your impact</h3>
-    <p>Events Assistants are instrumental in helping to plan, execute and staff our community-building and fundraising events. By supporting programming capacity, these events directly contribute to Loving Spoonful’s goals of enhancing access to healthy food for all; engaging diverse sectors of the community; and delivering innovative and impactful programming.</p>
+    <p>Volunteers providing Events Support are instrumental in helping to plan, execute and staff our community-building and fundraising events. By supporting programming capacity, these events directly contribute to Loving Spoonful’s goals of enhancing access to healthy food for all; engaging diverse sectors of the community; and delivering innovative and impactful programming.</p>
     <h3>Qualifications/Resources &ndash; What you&rsquo;ll need</h3>
     <ul>
     <li>Ability to work without direct supervision, but in coordination with the Office Manager.</li>
@@ -13,7 +13,7 @@
     <li>Online access on computer or mobile device to view and sign up for shifts is an asset. (Accommodation provided if needed.)</li>
     </ul>
     <h3>Key Duties and Responsibilities</h3>
-    <p>Tasks of Events Assistants vary according to need. Some examples of what they do include, but are not limited to:</p>
+    <p>Tasks of Events Support volunteers vary according to need. Some examples of what they do include, but are not limited to:</p>
     <ul>
     <li>Putting up posters around Kingston, in advance of events</li>
     <li>Decorating at event site, setting up tables/chairs, etc.</li>
@@ -44,7 +44,7 @@
     <li>Training will take place as needed.</li>
     <li>A supervisor will be available to you at all times while in the office.</li>
     <li>Flexibility in accommodating your schedule</li>
-    <li>An online account with Volunteer Robot to track your shifts</li>
+    <li>An online account with Volunteer Robot to view and sign up for shifts</li>
     </ul>
     <p>You are always welcome and encouraged to contact us to share your successes, discuss any concerns or provide feedback: </p>
     <ul>
@@ -56,4 +56,9 @@
     <li> </li>
     <li>Reference letter supplied for successful volunteer experience, as requested.</li>
     </ul></div>
+    <h3>Measures of Success</h3>
+    <ul>
+    <li>Tasks are completed as assigned</li>
+    <li>Events Support volunteers are having fun!</li>
+    </ul>
 @endsection
