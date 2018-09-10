@@ -1,5 +1,4 @@
 const $ = require('wetfish-basic');
-var moment = require('../moment/moment.js');
 let m = moment();
 
 $(document).ready(function()
