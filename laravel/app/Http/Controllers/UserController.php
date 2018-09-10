@@ -19,7 +19,7 @@ use App\Models\UserRole;
 
 class UserController extends Controller
 {
-    
+
 
     // Handle a user logging in
     public function login(UserRequest $request)
@@ -44,6 +44,7 @@ class UserController extends Controller
             $user->save();
         }
 
+        /*
         // Check if there's an ongoing or upcoming event to redirect the user to
         $event = Event::ongoingOrUpcoming();
 
@@ -51,7 +52,8 @@ class UserController extends Controller
         {
             return redirect('/event/' . $event->id);
         }
-
+        */
+        
         // Fall back to the main page
         return redirect('/');
     }
