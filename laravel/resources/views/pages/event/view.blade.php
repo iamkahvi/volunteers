@@ -119,7 +119,7 @@
                         <option disabled>──────────</option>
 
 
-                        @foreach($event->days(true) as $day)
+                        @foreach($event->days() as $day)
                             @if($day->date->format('D') == "Mon")
                                 <option disabled>──────────</option>
                             @endif
