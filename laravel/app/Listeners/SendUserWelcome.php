@@ -32,7 +32,7 @@ class SendUserWelcome
         Mail::send('emails/user-welcome', compact('user'), function ($message) use ($user)
         {
             $message->to($user->email, $user->name)->subject('Welcome to the Volunteer Database!');
-            $message->attach('docs/Volunteer-Handbook.docx');
+            // $message->attach('docs/Volunteer-Handbook.docx');
         });
     }
 }
