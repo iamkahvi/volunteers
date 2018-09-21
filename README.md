@@ -15,7 +15,7 @@ A volunteer database for events written using the Laravel 5.6 framework
 
 1. Git clone this repo
 2. Set **laravel/public/** as your document root
-3. Run ```composer install``` within the **laravel** folder
+3. Run ```php composer.phar install``` within the **laravel** folder
 4. Run ```npm install``` within the **laravel** folder  
 5. Set up your environment configuration. See the [Setup / Configuration](#configuration) section below. 
 6. Run ```php artisan migrate``` within the **laravel** folder
