@@ -71,6 +71,10 @@ A program page is where you can view what shifts are avaiable and when to sign u
 ### Notification Emails
 The robot allows for reminder emails to be sent to users and admins. Scheduling for emails can easily be changed from the .env file while the website is running.
 
+<img src="https://github.com/iamkahvi/volunteers/blob/master/laravel/public/img/Welcome.png">
+<img src"https://github.com/iamkahvi/volunteers/blob/master/laravel/public/img/Registered.png">
+<im src="https://github.com/iamkahvi/volunteers/blob/master/laravel/public/img/Released.png">
+
 ### Detailed Filtering
 For programs running for multiple months, filter options include by day, week or department. Additionally, the robot hides days with no shifts.
 
