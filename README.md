@@ -6,7 +6,7 @@ A beta software project from Loving Spoonful forked from [this repository](https
 - [Usage](#usage)
   - [Navigation Bar](#navigation-bar)
   - [Dashboard](#dashboard)
-  - [Program](#program)
+  - [A Program Page](#a-program-page)
   
 - [Features](#features)
   - [Notification Emails](#notification-emails)
@@ -33,15 +33,17 @@ The Navigation Bar helps you go to different pages on the Volunteer Robot.
 
 ![Nav Bar](https://raw.githubusercontent.com/iamkahvi/volunteers/master/laravel/public/img/navbar.png)
 
-**Resources**: These pages are where you will find reading material to educate you on programming and the Volunteer Robot!
+**Resources**: These pages are where you will find reading material to educate you on programming and the Volunteer Robot.
+- Instructions
 - Volunteer Handbook
+- Volunteer Code of Conduct
 - Fresh Food Delivery
 - GAR Market Booths
 - Community Kitchens
 - GROW Project
 - Gleaning
 - Events
-- Instructions
+- Office Administration
 
 **Your Shifts**: This page is where you will find all the shifts you have signed up for; past, present and future.
 
@@ -54,13 +56,13 @@ The Navigation Bar helps you go to different pages on the Volunteer Robot.
 
 ### Dashboard
 
-The Dashboard is where you will find all upcoming, current and future programs.
+The Dashboard or the Programs page is where you will find all upcoming, current and future programs.
 
  <img src="https://raw.githubusercontent.com/iamkahvi/volunteers/master/laravel/public/img/Artboard%203.png">
     
-### Program
+### A Program Page
 
-A program page is where you can view if shifts are avaiable and sign up! Remember to use the filters!
+A program page is where you can view what shifts are avaiable and when to sign up! Remember to use the filters!
 
 <img src="https://raw.githubusercontent.com/iamkahvi/volunteers/master/laravel/public/img/Artboard%201.png">
 
