@@ -73,8 +73,6 @@ The robot allows for reminder emails to be sent to users and admins. Scheduling 
 
 <img src="https://raw.githubusercontent.com/iamkahvi/volunteers/master/laravel/public/img/Artboard%204.png">
 
-<img src="https://github.com/iamkahvi/volunteers/blob/master/laravel/public/img/Welcome.png">
-
 ### Detailed Filtering
 For programs running for multiple months, filter options include by day, week or department. Additionally, the robot hides days with no shifts.
 
@@ -83,6 +81,8 @@ The robot provides a CSV export option to download volunteer information and sor
 
 ### Mobile friendly
 This website was developed using the mobile first methodology; all parts of the site are designed to work on phones, tablets, and desktop computers.
+
+<img src="https://raw.githubusercontent.com/iamkahvi/volunteers/master/laravel/public/img/Artboard%204%20copy.png">
 
 ### User roles
 Every user has specific roles that allow them to take certain shifts. This allows administrators to create medical or fire fighting shifts that only allow approved users.
