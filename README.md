@@ -9,17 +9,21 @@ A beta software project from Loving Spoonful forked from [this repository](https
   - [Program](#program)
   
 - [Features](#features)
-  - Notification Email for User
-  - Notification Email for Admin
-  - Hide empty days feature
-  - .env editability
-  - CSV export
+  - [Notification Emails](#notification-emails)
+  - [Detailed Filtering](#detailed-filtering)
+  - [Mobile friendly](#mobile-friendly)
+  - [User roles](#user-roles)
+  - [User uploads](#user-uploads)
+  - [History from previous events](#history-from-previous-events)
+  - [Customizable shifts](#customizable-shifts)
 
 - [Installation](#installation)
   - [Dependencies](#dependencies)
   - [Installing](#installing)
   - [Setup/Configuration](#setup-and-configuration)
   - [Extra Websocket Steps](#extra-websockets-steps)
+  
+ - [History](#history)
 
 ## Usage
 
@@ -62,7 +66,31 @@ A program page is where you can view if shifts are avaiable and sign up! Remembe
 
 ## Features
 
-Details coming soon.
+### Notification Emails
+The robot allows for reminder emails to be sent to users and admins. Scheduling for emails can easily be changed from the .env file while the website is running.
+
+### Detailed Filtering
+For programs running for multiple months, filter options include by day, week or department. Additionally, the robot hides days with no shifts.
+
+### CSV Export
+The robot provides a CSV export option to download volunteer information and sort data in familiar programs like Microsoft Excel.
+
+### Mobile friendly
+This website was developed using the mobile first methodology; all parts of the site are designed to work on phones, tablets, and desktop computers.
+
+### User roles
+Every user has specific roles that allow them to take certain shifts. This allows administrators to create medical or fire fighting shifts that only allow approved users.
+
+### User uploads
+Users can upload files into their profile to be approved by administrators. This allows users to upload their EMT or fire fighting certification documents.
+
+### History from previous events
+This website supports creating multiple events, allowing use by many festivals, or allowing a festival to keep a record of who volunteered in the past.
+
+### Customizable shifts
+Event shifts can start and end at any time of day and can be any duration. Instead of being locked into a rigid table, this lets administrators create longer shifts for leads and shorter shifts for miscellaneous jobs.
+
+More details coming soon.
 
 ## Installation
 
@@ -109,4 +137,9 @@ If you want to use websockets for a couple extra features (auto-updating when sh
 4. Run ```node websocket-server.js``` within the **node** folder
 5. Use a ```screen``` session or a process manager like ```pm2``` to keep the websocket server running indefinitely
 
+## History
+
+Back between late 2014 and early 2015, volunteers from Apogaea were working on making updates to their existing volunteer database. [Rachel Fish](https://github.com/itsrachelfish) is friends with a couple of the developers and was present at a weekend-long hackathon where lots of ideas were shared and code was written aplenty. Unfortunately, when Apogaea was postponed in 2015, development of their volunteer database was postponed as well.
+
+This project was started in November of 2015 as an experiment in learning the Laravel framework. Over time, what started as a learning exercise turned into a fully featured system that might actually be useful to someone. Rachel's previous experience with the old Apogaea database gave her insight into some of the problems the team was facing and inspired her to try something new.
   
