@@ -52,18 +52,14 @@ The Navigation Bar helps you go to different pages on the Volunteer Robot.
 
 The Dashboard is where you will find all upcoming, current and future programs.
 
- <img src="https://drive.google.com/uc?authuser=0&id=1vvZW-Vk4rK-B2tm0ZN6qgDzWjHxOjz1I" align="center"
+ <img src="https://cdn.rawgit.com/iamkahvi/volunteers/master/laravel/public/img/Untitled%20presentation%20(1).svg" align="center"
     width="100%">
     
 ### Program
 
 A program page is where you can view if shifts are avaiable and sign up! Remember to use the filters!
 
-<img src="https://raw.githubusercontent.com/iamkahvi/volunteers/master/laravel/public/img/Event.png" align="center"
-    width="80%">
-        
-<img src="https://drive.google.com/uc?authuser=0&id=1DyLvA50aE3NPNibuEXvLCgv1W8a7GdLK&export=download" align="center"
-    width="80%">
+<img src="https://cdn.rawgit.com/iamkahvi/volunteers/master/laravel/public/img/Untitled%20presentation%20(2).svg"/>
 
 ## Features
 
