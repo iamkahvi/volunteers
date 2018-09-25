@@ -3,10 +3,18 @@ A beta software project from Loving Spoonful forked from [this repository](https
 
 ## Table of Content
 
-- [How it Works](#how-it-works)
+- [Usage](#usage)
   - [Navigation Bar](#navigation-bar)
   - [Dashboard](#dashboard)
   - [Program](#program)
+  
+- [Features](#features)
+  - Notification Email for User
+  - Notification Email for Admin
+  - Hide empty days feature
+  - .env editability
+  - CSV export
+  
 
 - [Installation](#installation)
   - [Dependencies](#dependencies)
@@ -14,7 +22,7 @@ A beta software project from Loving Spoonful forked from [this repository](https
   - [Setup/Configuration](#setup-and-configuration)
   - [Extra Websocket Steps](#extra-websockets-steps)
 
-## How it Works
+## Usage
 
 ### Navigation Bar
 
@@ -52,6 +60,10 @@ The Dashboard is where you will find all upcoming, current and future programs.
 A program page is where you can view if shifts are avaiable and sign up! Remember to use the filters!
 
 ![Event](https://raw.githubusercontent.com/iamkahvi/volunteers/master/laravel/public/img/Event.png)
+
+## Features
+
+Details coming soon.
 
 ## Installation
 
