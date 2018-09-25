@@ -6,8 +6,8 @@ A beta software project from Loving Spoonful forked from [this repository](https
 - [Installation](#installation)
   - [Dependencies](#dependencies)
   - [Installing](#installing)
-  - [Setup/Configuration](#setup/configuration)
-  - [Websocket Steps](#Extra websockets steps)
+  - [Setup/Configuration](#setup-and-configuration)
+  - [Extra Websocket Steps](#extra-websockets-steps)
 
 ## Installation
 
@@ -30,7 +30,7 @@ A beta software project from Loving Spoonful forked from [this repository](https
 6. Run ```php artisan migrate``` within the **laravel** folder
 
 
-### Setup/Configuration
+### Setup and Configuration
 
 1. In the **laravel** folder, copy **.env.example** and rename it to **.env**
 2. Configure your database and email settings in the **.env** file
