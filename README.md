@@ -14,7 +14,6 @@ A beta software project from Loving Spoonful forked from [this repository](https
   - Hide empty days feature
   - .env editability
   - CSV export
-  
 
 - [Installation](#installation)
   - [Dependencies](#dependencies)
@@ -53,13 +52,15 @@ The Navigation Bar helps you go to different pages on the Volunteer Robot.
 
 The Dashboard is where you will find all upcoming, current and future programs.
 
-![Dashboard](https://raw.githubusercontent.com/iamkahvi/volunteers/master/laravel/public/img/Dashboard.png)
+<img src="https://raw.githubusercontent.com/iamkahvi/volunteers/master/laravel/public/img/Dashboard.png" align="center"
+    width="80%">
 
 ### Program
 
 A program page is where you can view if shifts are avaiable and sign up! Remember to use the filters!
 
-![Event](https://raw.githubusercontent.com/iamkahvi/volunteers/master/laravel/public/img/Event.png)
+<img src="https://raw.githubusercontent.com/iamkahvi/volunteers/master/laravel/public/img/Event.png" align="center"
+    width="80%">
 
 ## Features
 
