@@ -3,11 +3,55 @@ A beta software project from Loving Spoonful forked from [this repository](https
 
 ## Table of Content
 
+- [How it Works](#how-it-works)
+  - [Navigation Bar](#navigation-bar)
+  - [Dashboard](#dashboard)
+  - [Program](#program)
+
 - [Installation](#installation)
   - [Dependencies](#dependencies)
   - [Installing](#installing)
   - [Setup/Configuration](#setup-and-configuration)
   - [Extra Websocket Steps](#extra-websockets-steps)
+
+## How it Works
+
+### Navigation Bar
+
+The Navigation Bar helps you go to different pages on the Volunteer Robot.
+
+![Nav Bar](https://raw.githubusercontent.com/iamkahvi/volunteers/master/laravel/public/img/navbar.png)
+
+**Resources**: These pages are where you will find reading material to educate you on programming and the Volunteer Robot!
+- Volunteer Handbook
+- Fresh Food Delivery
+- GAR Market Booths
+- Community Kitchens
+- GROW Project
+- Gleaning
+- Events
+- Instructions
+
+**Your Shifts**: This page is where you will find all the shifts you have signed up for; past, present and future.
+
+**Programs**: This page is where you will find all upcoming, ongoing and past programs. 
+
+**[User]**: This page is where will find all your personal details.
+
+**Logout**: Clicking this button logs you out of the Robot.
+
+
+### Dashboard
+
+The Dashboard is where you will find all upcoming, current and future programs.
+
+![Dashboard](https://raw.githubusercontent.com/iamkahvi/volunteers/master/laravel/public/img/Dashboard.png)
+
+### Program
+
+A program page is where you can view if shifts are avaiable and sign up! Remember to use the filters!
+
+![Event](https://raw.githubusercontent.com/iamkahvi/volunteers/master/laravel/public/img/Event.png)
 
 ## Installation
 
