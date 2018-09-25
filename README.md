@@ -1,8 +1,17 @@
-# Laravel VolDB
-A volunteer database for events written using the Laravel 5.6 framework
+# Volunteer Robot
+A beta software project from Loving Spoonful forked from [this repository](https://github.com/playasoft/volunteers/) and written using the Laravel 5.6 framework.
 
+## Table of Content
 
-## Dependencies
+- [Installation](#installation)
+  - [Dependencies](#dependencies)
+  - [Installing](#installing)
+  - [Setup/Configuration](#setup/configuration)
+  - [Websocket Steps](#Extra websockets steps)
+
+## Installation
+
+### Dependencies
 
 1. A webserver that supports PHP (```nginx``` and ```php-fpm``` recommended)
 2. ```mysql```
@@ -11,7 +20,7 @@ A volunteer database for events written using the Laravel 5.6 framework
 5. ```redis```, if you want to use websockets
 
 
-## Installing
+### Installing
 
 1. Git clone this repo
 2. Set **laravel/public/** as your document root
@@ -21,7 +30,7 @@ A volunteer database for events written using the Laravel 5.6 framework
 6. Run ```php artisan migrate``` within the **laravel** folder
 
 
-## <a name="configuration"></a> Setup / Configuration
+### Setup/Configuration
 
 1. In the **laravel** folder, copy **.env.example** and rename it to **.env**
 2. Configure your database and email settings in the **.env** file
@@ -37,7 +46,7 @@ Alright! Now everything is compiled and the site is functional. You can register
 If you want to use websockets for a couple extra features (auto-updating when shifts are taken or departments are changed), follow these steps:
 
 
-## Extra websockets steps
+### Extra websockets steps
 
 1. In your **.env** file, make sure ```redis``` is installed and configured as the broadcast driver, and that the variable WEBSOCKETS_ENABLED is set to true
 2. Run ```npm install``` within the **node** folder
