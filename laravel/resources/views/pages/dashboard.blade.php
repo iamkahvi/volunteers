@@ -20,7 +20,7 @@
     @endcan
 
     @if(count($present))
-        <h2>Ongoing Programs:</h2>
+        <h2>Programs:</h2>
 
         <div class="list-group">
             @foreach($present as $event)
@@ -39,34 +39,28 @@
             </h4></a>
 
             @endforeach
+
+            @if(count($future))
+                @foreach($future as $event)
+
+                <a href='/event/{{ $event->id }}' class="list-group-item"><h4>
+                    <b style="font-size:1.3em;color:#337AB7">
+                        @if($event->featured)
+                            <span class="burn glyphicon glyphicon-fire"></span>
+                        @endif
+                        {{ $event->name }}
+                    </b>
+                    <i style="text-overflow:ellipsis;white-space:nowrap;overflow:hidden;">
+                        <!--(from {{ $event->start_date }} until {{ $event->end_date }})-->
+                        {{ date("M jS", strtotime($event->start_date)) }} to {{ date("M jS, Y", strtotime($event->end_date)) }}
+                    </i>
+                </h4></a>
+
+                @endforeach
+            @endif
         </div>
-        <hr>
     @endif
-
-    @if(count($future))
-        <h2>Upcoming Programs:</h2>
-
-        <div class="list-group">
-            @foreach($future as $event)
-
-            <a href='/event/{{ $event->id }}' class="list-group-item"><h4>
-                <b style="font-size:1.3em;color:#337AB7">
-                    @if($event->featured)
-                        <span class="burn glyphicon glyphicon-fire"></span>
-                    @endif
-                    {{ $event->name }}
-                </b>
-                <i style="text-overflow:ellipsis;white-space:nowrap;overflow:hidden;">
-                    <!--(from {{ $event->start_date }} until {{ $event->end_date }})-->
-                    {{ date("M jS", strtotime($event->start_date)) }} to {{ date("M jS, Y", strtotime($event->end_date)) }}
-                </i>
-            </h4></a>
-
-            @endforeach
-        </div>
-        <hr>
-    @endif
-
+<!--
     @if(count($past))
         <h2>Past Programs:</h2>
 
@@ -81,7 +75,6 @@
                     {{ $event->name }}
                 </b>
                 <i style="text-overflow:ellipsis;white-space:nowrap;overflow:hidden;">
-                    <!--(from {{ $event->start_date }} until {{ $event->end_date }})-->
                     {{ date("M jS", strtotime($event->start_date)) }} to {{ date("M jS, Y", strtotime($event->end_date)) }}
                 </i>
             </h4></a>
@@ -89,4 +82,5 @@
             @endforeach
         </div>
     @endif
+-->
 @endsection
