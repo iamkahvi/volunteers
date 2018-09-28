@@ -63,9 +63,9 @@
     </ul>
     <h3>Additional Resources</h3>
     <ul>
-    <a href="https://www.dropbox.com/s/u751seh0lj2b5gq/GROW%20Garden%20Map.pdf?dl=0">GROW Project School Garden Map</a>
-    <a href="https://www.dropbox.com/s/ydetbrlo7dgzorx/Volunteer%20Overview-%20Salsa%20%26%20Social%20Justice-%20Gr%205_6.pdf?dl=0">Volunteer Overview- Salsa & Social Justice- Gr 5_6</a>
-    <a href="https://www.dropbox.com/s/27oi6gjo5tuscsf/Volunteer%20Overview-%20Salsa%20%26%20Food%20Security-%20Gr%207_8.pdf?dl=0">Volunteer Overview- Salsa & Food Security- Gr 7_8</a>
+    <li><a href="https://www.dropbox.com/s/u751seh0lj2b5gq/GROW%20Garden%20Map.pdf?dl=0">GROW Project School Garden Map</a></li>
+    <li><a href="https://www.dropbox.com/s/ydetbrlo7dgzorx/Volunteer%20Overview-%20Salsa%20%26%20Social%20Justice-%20Gr%205_6.pdf?dl=0">Volunteer Overview- Salsa & Social Justice- Gr 5_6</a></li>
+    <li><a href="https://www.dropbox.com/s/27oi6gjo5tuscsf/Volunteer%20Overview-%20Salsa%20%26%20Food%20Security-%20Gr%207_8.pdf?dl=0">Volunteer Overview- Salsa & Food Security- Gr 7_8</a></li>
     </ul>
 </div>
 @endsection
