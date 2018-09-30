@@ -126,7 +126,7 @@ if(!empty($slot->user))
             <p>
                 Are you sure you want to volunteer for this shift?
                 By registering, you will be expected to perform the duties of this shift for the entire time listed.
-                Please arrive at least 15 minutes ahead of time to be briefed by the previous shift team and answer any questions you have.
+                Please arrive on time.
             </p>
 
             <button type="submit" class="btn btn-success">Take Shift</button>
