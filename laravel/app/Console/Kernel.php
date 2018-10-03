@@ -19,6 +19,7 @@ class Kernel extends ConsoleKernel
         \App\Console\Commands\Inspire::class,
         \App\Console\Commands\remindUsers::class,
         \App\Console\Commands\sendEmail::class,
+        \App\Console\Commands\testDates::class,
 
 
     ];
