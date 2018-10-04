@@ -41,14 +41,16 @@ class testDates extends Command
     public function handle()
     {
 
-        echo Carbon::createFromTime(12, 0, 0)."\n";
+        //echo Carbon::createFromTime(12, 0, 0)."\n";
 
-        echo Carbon::now().PHP_EOL;
+        //echo Carbon::now().PHP_EOL;
+
+        echo Carbon::now()."\n";
 
         $currDate = date('Y-m-d');
 
         $dates = Schedule::where('dates', 'LIKE', '%'.$currDate.'%')->get()->first()->id;
 
-        echo $dates.' versus '.$currDate.PHP_EOL;
+        //echo $dates.' versus '.$currDate.PHP_EOL;
     }
 }
