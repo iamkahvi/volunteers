@@ -28,22 +28,43 @@ class SlotController extends Controller
         $this->middleware('bindings');
     }
 
-    // Helper function to determine if an event has passed
-    private function eventHasPassed(Slot $slot)
+    // Helper function to determine if an shift is too late for volunteer to pickup
+    private function pickupEventHasPassed(Slot $slot)
     {
         $start_date = new Carbon($slot->start_date);
         $start_time = new Carbon($slot->start_time);
 
-        if($start_date->subDays(env('PICKUP_DAYS'))->gte(Carbon::today()))
+        $compare_time = Carbon::createFromTime(11, 0, 0);
+
+        if($start_date->lt(Carbon::today()))
         {
-            if($start_time->gt(Carbon::today()))
+            return true;
+        }
+        if($start_date->eq(Carbon::today()))
+        {
+            if($start_time->lt(Carbon::now()))
             {
-                return false;
+                return true;
             }
         }
 
-        return true;
+        return false;
     }
+
+    // Helper function to determine if an shift has passed is too late for a volunteer to release
+    private function releaseEventHasPassed(Slot $slot)
+    {
+        $start_date = new Carbon($slot->start_date);
+        $start_time = new Carbon($slot->start_time);
+
+        if($start_date->subDays(env('RELEASE_DAYS'))->lt(Carbon::today()))
+        {
+            return true;
+        }
+
+        return false;
+    }
+
 
     // Helper function to determine allowed roles
     private function userAllowed(Slot $slot)
@@ -98,7 +119,7 @@ class SlotController extends Controller
             }
         }
 
-        if($this->eventHasPassed($slot))
+        if($this->pickupEventHasPassed($slot))
         {
             $request->session()->flash('error', 'This shift is starting soon or has already started, you are no longer able to sign up for shifts online.');
             return redirect()->back();
@@ -117,7 +138,7 @@ class SlotController extends Controller
             $volunteer = Auth::user();
 
             $user = User::get()->where('name', '=', env('ADMIN_USERNAME'))->first();
-            $user->notify(new slotTaken($slot, $volunteer));
+            //$user->notify(new slotTaken($slot, $volunteer));
 
             // If a password was used
             if($slot->schedule->password)
@@ -150,10 +171,13 @@ class SlotController extends Controller
         }
         else
         {
-            if($this->eventHasPassed($slot))
+
+            if($this->releaseEventHasPassed($slot))
             {
                 $request->session()->flash('error', 'This shift is happening too soon. Please contact administrator to release shift.');
+                return redirect()->back();
             }
+
             else
             {
                 if(!is_null($slot->user) && $slot->user->id === Auth::user()->id)
@@ -168,7 +192,7 @@ class SlotController extends Controller
                     $volunteer = Auth::user();
 
                     $user = User::get()->where('name', '=', env('ADMIN_USERNAME'))->first();
-                    $user->notify(new slotReleased($slot, $volunteer));
+                    //$user->notify(new slotReleased($slot, $volunteer));
 
                 }
                 else
