@@ -64,8 +64,9 @@
     <h3>Additional Resources</h3>
     <ul>
     <li><a href="https://www.dropbox.com/s/u751seh0lj2b5gq/GROW%20Garden%20Map.pdf?dl=0">GROW Project School Garden Map</a></li>
-    <li><a href="https://www.dropbox.com/s/ydetbrlo7dgzorx/Volunteer%20Overview-%20Salsa%20%26%20Social%20Justice-%20Gr%205_6.pdf?dl=0">Volunteer Overview- Salsa & Social Justice- Gr 5_6</a></li>
-    <li><a href="https://www.dropbox.com/s/27oi6gjo5tuscsf/Volunteer%20Overview-%20Salsa%20%26%20Food%20Security-%20Gr%207_8.pdf?dl=0">Volunteer Overview- Salsa & Food Security- Gr 7_8</a></li>
+    <li><a href="https://www.dropbox.com/s/ydetbrlo7dgzorx/Volunteer%20Overview-%20Salsa%20%26%20Social%20Justice-%20Gr%205_6.pdf?dl=0">GROW Workshop 1: Volunteer Overview- Salsa & Social Justice- Gr 5_6</a></li>
+    <li><a href="https://www.dropbox.com/s/27oi6gjo5tuscsf/Volunteer%20Overview-%20Salsa%20%26%20Food%20Security-%20Gr%207_8.pdf?dl=0">GROW Workshop 1: Volunteer Overview- Salsa & Food Security- Gr 7_8</a></li>
+    <li><a href="https://www.dropbox.com/s/ttf2mr43ee0mjan/GROW%20Workshop%203%20Activity_Corn%20%26%20Culture.pdf?dl=0">GROW Workshop 3: Corn & Culture Activity</a></li>
     </ul>
 </div>
 @endsection
