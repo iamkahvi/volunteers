@@ -60,7 +60,8 @@
             @endif
         </div>
     @endif
-<!--
+
+    @can('create-event')
     @if(count($past))
         <h2>Past Programs:</h2>
 
@@ -82,5 +83,5 @@
             @endforeach
         </div>
     @endif
--->
+    @endcan
 @endsection
