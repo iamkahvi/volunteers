@@ -24,8 +24,8 @@
     </ul>
     <p><u>Other responsibilities</u></p>
     <ul>
-    <li>Sign up for shifts on the online Volunteer Robot</li>
-    <li>Cancel shifts on the online Volunteer Robot at least 3 days in advance if going to be absent, or directly inform the Loving Spoonful staff as soon as possible if last minute changes occur.</li>
+    <li>Sign up for shifts on the online Love Bug</li>
+    <li>Cancel shifts on the online Love Bug at least 3 days in advance if going to be absent, or directly inform the Loving Spoonful staff as soon as possible if last minute changes occur.</li>
     </ul>
     <h3>Time Commitments and Locations</h3>
     <ul>
@@ -37,7 +37,7 @@
     <li>Training will take place as needed.</li>
     <li>A supervisor will be available to you at all times while in the office.</li>
     <li>Flexibility in accommodating your schedule</li>
-    <li>An online account with Volunteer Robot to track your shifts</li>
+    <li>An online account with Love Bug to track your shifts</li>
     </ul>
     <p>You are always welcome and encouraged to contact us to share your successes, discuss any concerns or provide feedback: </p>
     <ul>

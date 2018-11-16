@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Volunteer Robot</title>
+        <title>Love Bug</title>
         <link rel="shortcut icon" href="/img/favicon2.ico"/>
 
         <!-- Bootstrap styles -->

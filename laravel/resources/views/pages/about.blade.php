@@ -14,7 +14,7 @@
     <h2>Navigation Bar:</h2>
     <br>
     <ul>
-    <li><strong>Resources</strong>: These pages are where you will find reading material to educate you on programming and the Volunteer Robot!</li>
+    <li><strong>Resources</strong>: These pages are where you will find reading material to educate you on programming and the Love Bug!</li>
     </ul>
     <p style="padding-left: 60px;"><strong>Volunteer Handbook</strong></p>
     <p style="padding-left: 60px;"><strong>Fresh Food Delivery</strong></p>

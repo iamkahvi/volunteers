@@ -28,8 +28,8 @@
     </ul>
     <p><u>Other responsibilities</u></p>
     <ul>
-    <li>Sign up for shifts on the online Volunteer Robot</li>
-    <li>Cancel shifts on the online Volunteer Robot at least 3 days in advance if going to be absent, or directly inform the Kitchen Instructor as soon as possible if last minute changes occur.</li>
+    <li>Sign up for shifts on the online Love Bug</li>
+    <li>Cancel shifts on the online Love Bug at least 3 days in advance if going to be absent, or directly inform the Kitchen Instructor as soon as possible if last minute changes occur.</li>
     </ul>
     <h3>Time Commitments and Locations</h3>
     <ul>
@@ -40,8 +40,8 @@
     <ul>
     <li>A training meeting will be set up as at the start of each cooking program to review details about the cooking participants and volunteer position, as well as the recipes and activities that will be used during the workshops. This meeting will either take place before the program begins or directly before the first shift at the kitchen.</li>
     <li>The Kitchen Instructor will provide on-going support. Supervision will take place to make sure recipes are being followed (within reason) and people are having fun.</li>
-    <li>An account with our online Volunteer Robot to view and sign up for shifts.</li>
-    <li>An orientation session to learn more about Loving Spoonful, the Circles&reg; Program, and Volunteer Robot.</li>
+    <li>An account with our online Love Bug to view and sign up for shifts.</li>
+    <li>An orientation session to learn more about Loving Spoonful, the Circles&reg; Program, and Love Bug.</li>
     <li>You are always free to contact the Program Manager?? and/or Volunteer Coordinator to discuss any concerns or provide feedback.</li>
     </ul>
     <h3>Benefits &ndash; What you&rsquo;ll gain</h3>
@@ -61,7 +61,7 @@
     <h3>Next Steps</h3>
     <ul>
     <li>Review and sign off on the Loving Spoonful Volunteer Rights &amp; Code of Conduct</li>
-    <li>Receive an account with Volunteer Robot (provided)</li>
+    <li>Receive an account with Love Bug (provided)</li>
     <li>Attend a Loving Spoonful Orientation</li>
     <li>Attend a Circles&reg; Program training</li>
     </ul>

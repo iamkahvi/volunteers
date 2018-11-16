@@ -30,16 +30,16 @@
     <p>Specific volunteer position details will be available for each workshop opportunity so volunteers can choose the positions that are right for them.</p>
     <p><u>Other responsibilities</u></p>
     <ul>
-    <li>Sign up for shifts on the online Volunteer Robot</li>
-    <li>Cancel shifts on the online Volunteer Robot at least 3 days in advance if going to be absent, or directly inform the Loving Spoonful staff as soon as possible if last minute changes occur.</li>
+    <li>Sign up for shifts on the online Love Bug</li>
+    <li>Cancel shifts on the online Love Bug at least 3 days in advance if going to be absent, or directly inform the Loving Spoonful staff as soon as possible if last minute changes occur.</li>
     </ul>
     <h3>Time Commitments and Locations</h3>
     <p>Over the school year, the GROW Project delivers 7 workshops to each of 17 different schools in the City of Kingston. GROW Workshop Assistants are needed for 5 of these workshops (85 workshops in total) which take place in: late Sept/early Oct; November; April; May; and June.</p>
-    <p>All scheduled GROW Workshops are posted on Loving Spoonful’s online Volunteer Robot, and each GROW Workshop Assistant will be provided an online account to sign up to volunteer for any workshop. Workshop shifts can occur any week day, Monday to Friday, during school hours, and are approximately 2-3 hours long.</p>
+    <p>All scheduled GROW Workshops are posted on Loving Spoonful’s online Love Bug, and each GROW Workshop Assistant will be provided an online account to sign up to volunteer for any workshop. Workshop shifts can occur any week day, Monday to Friday, during school hours, and are approximately 2-3 hours long.</p>
     <h3>Support &ndash; What we&rsquo;ll provide</h3>
     <ul>
     <li>Hands-on, on-site training by GROW Project Staff</li>
-    <li>An account with Loving Spoonful’s Volunteer Robot to view and sign up for shifts</li>
+    <li>An account with Loving Spoonful’s Love Bug to view and sign up for shifts</li>
     </ul>
     <p>You are always welcome and encouraged to contact us to share your successes, discuss any concerns or provide feedback: </p>
     <ul>

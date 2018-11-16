@@ -7,7 +7,7 @@
 
         <div class="navbar-header">
             <a class="pull-left" href="/"><img style="padding:5px;height:50px" src="/img/logocorner4.png" ></a>
-            <a class="navbar-brand" href="/">Volunteer Robot</a>
+            <a class="navbar-brand" href="/">Loving Spoonful's Love Bug</a>
         </div>
 
         <div class="collapse navbar-collapse">

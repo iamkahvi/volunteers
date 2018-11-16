@@ -29,8 +29,8 @@
     </ul>
     <p><u>Other responsibilities</u></p>
     <ul>
-    <li>Sign up for shifts on the online Volunteer Robot</li>
-    <li>Cancel shifts on the online Volunteer Robot at least 3 days in advance if going to be absent, or directly inform Loving Spoonful staff as soon as possible if last minute changes occur.</li>
+    <li>Sign up for shifts on the online Love Bug</li>
+    <li>Cancel shifts on the online Love Bug at least 3 days in advance if going to be absent, or directly inform Loving Spoonful staff as soon as possible if last minute changes occur.</li>
     </ul>
     <h3>Time Commitments and Locations</h3>
     <ul>
@@ -38,14 +38,14 @@
     <li>Volunteer opportunities vary throughout the year according to what programs are running.</li>
     <li>Shifts can be during the day, evening, or weekends</li>
     <li>It is preferred that a volunteer commit to a whole program as the continuity of their presence is enriching to participants. One-off/single-class programs are also offered.</li>
-    <li>All scheduled Community Kitchens Classes are posted on Loving Spoonful’s online Volunteer Robot, and each Workshop Facilitator will be provided an online account to sign up to volunteer for any class that has an unfilled volunteer shift.</li>
+    <li>All scheduled Community Kitchens Classes are posted on Loving Spoonful’s online Love Bug, and each Workshop Facilitator will be provided an online account to sign up to volunteer for any class that has an unfilled volunteer shift.</li>
     </ul>
     <h3>Support &ndash; What we&rsquo;ll provide</h3>
     <ul>
     <li>A training meeting will be set up as at the start of each cooking program to review details about the cooking participants and volunteer position, as well as the recipes and activities that will be used during the workshops. This meeting will either take place before the program begins or directly before the first shift at the kitchen.</li>
     <li>The Community Kitchen Instructor will provide on-going support. Supervision will take place to make sure recipes are being followed (within reason) and people are having fun. </li>
     <li>Informal post-class debriefings with the Community Kitchen Instructor allows Workshop Assistants to discuss what is going well with the program, areas for improvement, as well as voice any suggestions, comments or concerns.</li>
-    <li>An account with Loving Spoonful’s Volunteer Robot to view and sign up for shifts</li>
+    <li>An account with Loving Spoonful’s Love Bug to view and sign up for shifts</li>
     </ul>
     <p>You are always welcome and encouraged to contact us to share your successes, discuss any concerns or provide feedback: </p>
     <ul>

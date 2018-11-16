@@ -38,7 +38,7 @@
     <p>We commit to timely and open communication with you, providing you with sufficient support, and demonstrating our gratitude and respect. We want our volunteers to find roles that are a good fit, are fulfilling, and are not an undue burden. We want you to have fun!</p>
     <p>Loving Spoonful does not and shall not discriminate on the basis of race, color, religion (creed), gender, gender expression, age, national origin (ancestry), disability, marital status, sexual orientation, or military status, in any of its activities or operations. These activities include, but are not limited to, hiring and firing of staff, selection of volunteers and vendors, and provision of services. We are committed to providing an inclusive and welcoming environment for all members of our staff, clients, volunteers, and partners. We expect all volunteers and staff to share in this commitment.</p>
     <h2>Policies</h2>
-    <p>All volunteers are required to review and agree to comply with the Volunteer Policies before obtaining a personal account with the Volunteer Robot. They can be found <a href="http://volunteer.lovingspoonful.org/rights">here</a> for your reference.</p>
+    <p>All volunteers are required to review and agree to comply with the Volunteer Policies before obtaining a personal account with the Love Bug. They can be found <a href="http://volunteer.lovingspoonful.org/rights">here</a> for your reference.</p>
     <h2>Volunteer Positions</h2>
     <p>There are many different ways that volunteers contribute to the work of Loving Spoonful! Click on the roles to find out more information.</p>
     <h4>Fresh Food Access Programs</h4>

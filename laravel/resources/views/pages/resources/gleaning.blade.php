@@ -25,15 +25,15 @@
     </ol>
     <p><u>Other responsibilities</u></p>
     <ul>
-    <li>Sign up for shifts on the online Volunteer Robot</li>
-    <li>Cancel shifts on the online Volunteer Robot at least 3 days in advance if going to be absent, or directly inform the Loving Spoonful staff as soon as possible if last minute changes occur.</li>
+    <li>Sign up for shifts on the online Love Bug</li>
+    <li>Cancel shifts on the online Love Bug at least 3 days in advance if going to be absent, or directly inform the Loving Spoonful staff as soon as possible if last minute changes occur.</li>
     </ul>
     <h3>Time Commitments and Locations</h3>
     <ul>
     <li>Gleaning occurs in the harvest season, August to November.</li>
     <li>Volunteer shifts are 2 to 3 hours.</li>
     <li>A one-time commitment is all that is required.</li>
-    <li>Gleaning opportunities are posted on the Volunteer Robot.</li>
+    <li>Gleaning opportunities are posted on the Love Bug.</li>
     </ul>
     <h3>Support &ndash; What we&rsquo;ll provide</h3>
     <ul>

@@ -16,7 +16,7 @@
 
 
 <p>
-Instructions on how to use the Volunteer Robot are listed below.<br>
+Instructions on how to use the Love Bug are listed below.<br>
 <a href="http://volunteer.lovingspoonful.org/about">Click here to view them on the website!</a>
 </p>
 
@@ -25,7 +25,7 @@ Instructions on how to use the Volunteer Robot are listed below.<br>
 <h2>Navigation Bar:</h2>
 <br>
 <ul>
-<li><strong>Resources</strong>: These pages are where you will find reading material to educate you on programming and the Volunteer Robot!</li>
+<li><strong>Resources</strong>: These pages are where you will find reading material to educate you on programming and the Love Bug!</li>
 </ul>
 <p style="padding-left: 60px;"><strong>Volunteer Handbook</strong></p>
 <p style="padding-left: 60px;"><strong>Fresh Food Delivery</strong></p>

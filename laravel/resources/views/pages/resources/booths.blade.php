@@ -47,8 +47,8 @@
     <ul>
     <li>Take pictures of donated produce, and if able, circulate on social media, or send to supervisor</li>
     <li>Contact Alex (alex@lovingspoonful.org) if anyone signs up for the newsletter (send a photo of the sheet), makes a donation (arrange for pickup of funds), if anything is missing or damaged, or if you need help of any kind.</li>
-    <li>Sign up for shifts on the online Volunteer Robot</li>
-    <li>Cancel shifts on the online Volunteer Robot at least 3 days in advance if going to be absent, or directly inform the Loving Spoonful staff as soon as possible if last minute changes occur.</li>
+    <li>Sign up for shifts on the online Love Bug</li>
+    <li>Cancel shifts on the online Love Bug at least 3 days in advance if going to be absent, or directly inform the Loving Spoonful staff as soon as possible if last minute changes occur.</li>
     </ul>
     <h3>Time Commitments and Locations</h3>
     <p>From June to October, Market Booth Ambassadors cover shifts at 1 of 2 locations. Shifts are 2 to 2.5 hours long.</p>
@@ -61,7 +61,7 @@
     <li>Sunday (9:00AM – 12:00PM) at Memorial Centre Farmers Market</li>
     <li>Sunday (12:00PM - 2:30PM) at Memorial Centre Farmers Market</li>
     </ul>
-    <p>Volunteers sign up for shifts through their own account (provided) on Loving Spoonful’s online Volunteer Robot.</p>
+    <p>Volunteers sign up for shifts through their own account (provided) on Loving Spoonful’s online Love Bug.</p>
     <p>Commitment is encouraged throughout the season; vacations are accommodated.</p>
     <h3>Support &ndash; What we&rsquo;ll provide</h3>
     <ul>
