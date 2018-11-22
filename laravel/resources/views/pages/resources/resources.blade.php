@@ -45,9 +45,9 @@
     <a href="http://volunteer.lovingspoonful.org/delivery"><p><em>Fresh Food Delivery Drivers</em></a><strong><em>: </em></strong>Collect donated surplus food from local grocers, farmers, and other businesses and deliver it directly to social service agencies and fresh food stands in Kingston.</p>
     <a href="http://volunteer.lovingspoonful.org/booths"><p><em>Grow A Row Market Booth Ambassadors</em></a><strong><em>: </em></strong>Run our booths at the Downtown Kingston Public Market and the Memorial Centre Farmers&rsquo; Market over the summer by receiving fresh healthy produce donated by local farmers and gardeners for local shelters and meal programs, and by talking to people about who we are and what we do.</p>
     <a href="http://volunteer.lovingspoonful.org/gleaning"><p><em>Gleaners</em></a><strong><em>: </em></strong>Help harvest surplus produce from farmers&rsquo; fields for donation.</p>
-    <h4>Food Eduation Programs</h4>
+    <h4>Food Education Programs</h4>
     <a href="http://volunteer.lovingspoonful.org/kitchens"><p><em>Community Kitchen Workshop Assistants</em></a><strong><em>: </em></strong>Help run cooking classes to teach people to cook healthy, affordable and delicious meals while building confidence and community.</p>
-    <a href="http://volunteer.lovingspoonful.org/grow"><p><em>GROW Project Workhop Assistants</em></a><strong><em>: </em></strong>Work in schools in Kingston, teaching kids in Grades 4 to 8 about food security, gardening, healthy eating, and community through in-class and in-garden workshops.</p>
+    <a href="http://volunteer.lovingspoonful.org/grow"><p><em>GROW Project Workshop Assistants</em></a><strong><em>: </em></strong>Work in schools in Kingston, teaching kids in Grades 4 to 8 about food security, gardening, healthy eating, and community through in-class and in-garden workshops.</p>
     <h4>Other Support</h4>
     <a href="http://volunteer.lovingspoonful.org/events"><p><em>Events Support</em></a><strong><em>: </em></strong>Help organize, set up, and represent us at various events throughout the year.</p>
     <a href="http://volunteer.lovingspoonful.org/office"><p><em>Administrative Support</em></a><strong><em>: </em></strong>Helping to keep everything organized and running smoothly from our head office, this role includes mostly phone and computer work.</p>
