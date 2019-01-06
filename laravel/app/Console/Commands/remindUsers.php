@@ -61,9 +61,26 @@ class remindUsers extends Command
 
              $now = Carbon::now();
 
+			 $followUpDate = $remindDate;
+
              $remindDate->subHours(env('REMIND_HOURS'));
 
+			 //when the user should be sent a follow-up email for feedback. The start time plus the length of the shift.
+
+			 $followUpDate->addHours($shift->start_time->diffInHours($shift->end_time));
+
              //echo date('Y-m-d H:i:s', strtotime($shift->start_time) - 84600).' is less than or equal to '.date('Y-m-d H:i:s').PHP_EOL;
+			
+			 if($followUpDate <= $now and $startDate > $now)
+			 {
+				 
+				 $Event = $shift->getEventAttribute();
+
+			
+				 $user->notify(new shiftFollowUp($shift, $user));
+				
+				 //NEED TO CREATE COLUMN SO I DON'T SEND NOTIFICATIONS TWICE 
+				
 
              // Find all the shifts that start within the next day
              if($remindDate <= $now and $startDate > $now)
@@ -131,7 +148,7 @@ class remindUsers extends Command
 
                              // Updating Database isNotified value
                              DB::table('slots')
-                                         ->where('id', $shift->id)
+                                          ->where('id', $shift->id)
                                          ->update(['isNotified' => 'Yes']);
 
                              // Notify user of upcoming shift
