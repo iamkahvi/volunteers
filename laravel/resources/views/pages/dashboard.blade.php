@@ -19,7 +19,7 @@
         <a href="/event" class="btn btn-primary">Create an Event</a>
     @endcan
 
-    @if(count($present))
+    @if(count($present) or count($future))
         <h2>Programs:</h2>
 
         <div class="list-group">
@@ -40,24 +40,24 @@
 
             @endforeach
 
-            @if(count($future))
-                @foreach($future as $event)
 
-                <a href='/event/{{ $event->id }}' class="list-group-item"><h4>
-                    <b style="font-size:1.3em;color:#337AB7">
-                        @if($event->featured)
-                            <span class="burn glyphicon glyphicon-fire"></span>
-                        @endif
-                        {{ $event->name }}
-                    </b>
-                    <i style="text-overflow:ellipsis;white-space:nowrap;overflow:hidden;">
-                        <!--(from {{ $event->start_date }} until {{ $event->end_date }})-->
-                        {{ date("M jS", strtotime($event->start_date)) }} to {{ date("M jS, Y", strtotime($event->end_date)) }}
-                    </i>
-                </h4></a>
+            @foreach($future as $event)
 
-                @endforeach
-            @endif
+            <a href='/event/{{ $event->id }}' class="list-group-item"><h4>
+                <b style="font-size:1.3em;color:#337AB7">
+                    @if($event->featured)
+                        <span class="burn glyphicon glyphicon-fire"></span>
+                    @endif
+                    {{ $event->name }}
+                </b>
+                <i style="text-overflow:ellipsis;white-space:nowrap;overflow:hidden;">
+                    <!--(from {{ $event->start_date }} until {{ $event->end_date }})-->
+                    {{ date("M jS", strtotime($event->start_date)) }} to {{ date("M jS, Y", strtotime($event->end_date)) }}
+                </i>
+            </h4></a>
+
+            @endforeach
+
         </div>
     @endif
 
