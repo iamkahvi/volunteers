@@ -24,8 +24,7 @@
     </ul>
     <p>For support, please contact the most appropriate staff person:</p>
     <ul>
-    <li><em>Volunteer & Outreach Coordinator</em>: Mary Gauthier - <a href="mailto:Mary@lovingspoonful.org">Mary@lovingspoonful.org</a></li>
-    <li><em>Food Access Animator</em>: Alex Harper - c. 343-333-0244, <a href="mailto:Alex@lovingspoonful.org">Alex@lovingspoonful.org</a></li>
+    <li><em>Fresh Food Delivery & Volunteer Coordinator</em>: Alex Harper - c. 343-333-0244, <a href="mailto:Alex@lovingspoonful.org">Alex@lovingspoonful.org</a></li>
     <li><em>GROW Project Coordinator</em>: Anne Munier - <a href="mailto:AnneM@lovingspoonful.org">AnneM@lovingspoonful.org</a></li>
     <li><em>Community Kitchen Coordinator</em>: Thea Zuiker - c. 333-343-5699, <a href="mailto:Thea@lovingspoonful.org">Thea@lovingspoonful.org</a></li>
     <li><em>Office Manager</strong></em>: Melanie Redman - c. 613-770-6105, <a href="mailto:Mel@lovingspoonful.org">Mel@lovingspoonful.org</a></li>
