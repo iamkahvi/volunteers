@@ -10,6 +10,9 @@ use App\Http\Requests\SlotRequest;
 use App\Models\Slot;
 use App\Models\User;
 use App\Models\UserRole;
+use App\Models\Schedule;
+use App\Models\Department;
+use App\Models\Event;
 
 use Illuminate\Support\Facades\Auth;
 
@@ -18,6 +21,8 @@ use Carbon\Carbon;
 
 use App\Notifications\slotTaken;
 use App\Notifications\slotReleased;
+use App\Notifications\shiftStarting;
+use App\Notifications\shiftFollowUp;
 use Illuminate\Notification\Notifications;
 
 class SlotController extends Controller
@@ -130,6 +135,7 @@ class SlotController extends Controller
         {
             $slot->user_id = Auth::user()->id;
             $slot->save();
+            $event_name = $slot->getEventAttribute()->name;
 
             event(new SlotChanged($slot, ['status' => 'taken', 'name' => Auth::user()->name]));
             $request->session()->flash('success', 'You signed up for a volunteer shift.');
@@ -138,7 +144,13 @@ class SlotController extends Controller
             $volunteer = Auth::user();
 
             $user = User::get()->where('name', '=', env('ADMIN_USERNAME'))->first();
-            //$user->notify(new slotTaken($slot, $volunteer));
+
+            $user->notify(new slotTaken($slot, $volunteer));
+
+            if (strpos($event_name, env('GROW_KEYWORD')) !== false)
+            {
+              $volunteer->notify(new shiftFollowUp($slot, $volunteer));
+            }
 
             // If a password was used
             if($slot->schedule->password)

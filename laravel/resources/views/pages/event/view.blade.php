@@ -92,7 +92,7 @@
             <form class="form-inline event-filter">
 
                 <div class="form-group" style="padding-right:15px;">
-                    <select class="form-control filter-departments">
+                    <select id="selectID" class="form-control filter-departments">
                         <option value="all">Show All Activities</option>
 
                         @foreach($event->departments->sortBy('name') as $department)
@@ -104,7 +104,6 @@
                 <div class="form-group" style="padding-right:15px;">
                     <select class="form-control filter-weeks">
                         <option value="all">Show All Weeks</option>
-
                         @foreach($event->days() as $day)
                             @if($day->date->format('D') == "Mon")
                                 <option value="{{ $day->date->format('Y-m-d') }}">Week of {{ date("F jS", strtotime($day->date->format('Y-m-d'))) }}</option>

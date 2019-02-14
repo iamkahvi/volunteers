@@ -15,7 +15,7 @@ return [
 
     'debug' => env('APP_DEBUG', false),
 
-    'name' => env('MAIL_FROM_NAME', 'Loving Spoonful'),
+    'name' => env('MAIL_FROM_NAME', 'Love Bug'),
 
     /*
     |--------------------------------------------------------------------------

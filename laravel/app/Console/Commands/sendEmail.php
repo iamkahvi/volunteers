@@ -13,6 +13,8 @@ use Illuminate\Support\Facades\DB;
 use App\Http\Controllers\Controller;
 use Illuminate\Notification\Notifications;
 use App\Models\UserRole;
+use App\Notifications\slotTaken;
+use App\Notifications\slotReleased;
 use Illuminate\Console\Command;
 
 class sendEmail extends Command
@@ -50,9 +52,17 @@ class sendEmail extends Command
     {
         $shift = Slot::get()->first();
 
+        $event_name = $shift->getEventAttribute()->name;
+
+        echo $event_name.PHP_EOL;
+
+        //echo $shift.PHP_EOL;
+
         $user = User::get()->where('name', '=', env('ADMIN_USERNAME'))->first();
 
-        $user->notify(new shiftStarting($shift, $user));
+        //echo $user.PHP_EOL;
+
+        //$user->notify(new shiftStarting($shift, $user));
 
         /*
         $admins = UserRole::get()->where('role_id', 1);
