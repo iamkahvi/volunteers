@@ -50,7 +50,9 @@ class AdminController extends Controller
         $request->session()->flash('success', ['title' => 'The account has been registered!', 'message' => "Before the user can sign up for volunteer shifts, they must enter their full name in the profile section page. All other fields are optional."]);
 
         $users = User::latest()->get();
-        return view('pages/admin/user-list', compact('users'));
+        $userroles = UserRole::latest()->get();
+        $roles = Role::get();
+        return view('pages/admin/user-list', compact('users', 'userroles', 'roles'));
     }
 
     // List of users
