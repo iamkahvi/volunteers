@@ -107,7 +107,11 @@
 
                         @foreach($event->days() as $day)
                             @if($day->date->format('D') == "Mon")
-                                <option value="{{ $day->date->format('Y-m-d') }}">Week of {{ date("F jS", strtotime($day->date->format('Y-m-d'))) }}</option>
+                                @if($day->date <= $now and $day->date > $nowMinusWeek) 
+                                    <option selected="selected" value="{{ $day->date->format('Y-m-d') }}">Week of {{ date("F jS", strtotime($day->date->format('Y-m-d'))) }}</option>
+                                @elseif($day->date >= $now)
+                                    <option value="{{ $day->date->format('Y-m-d') }}">Week of {{ date("F jS", strtotime($day->date->format('Y-m-d'))) }}</option>
+                                @endif
                             @endif
                         @endforeach
                     </select>
@@ -120,10 +124,12 @@
 
 
                         @foreach($event->days() as $day)
-                            @if($day->date->format('D') == "Mon")
-                                <option disabled>──────────</option>
+                            @if($day->date >= $now)
+                                @if($day->date->format('D') == "Mon")
+                                    <option disabled>──────────</option>
+                                @endif
+                                    <option value="{{ $day->date->format('Y-m-d') }}">{{ date("D, F jS", strtotime($day->date->format('Y-m-d'))) }}</option>
                             @endif
-                                <option value="{{ $day->date->format('Y-m-d') }}">{{ date("D, F jS", strtotime($day->date->format('Y-m-d'))) }}</option>
                         @endforeach
                     </select>
                 </div>

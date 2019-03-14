@@ -92,7 +92,10 @@ class EventController extends Controller
     // View an existing event
     public function view(Request $request, Event $event)
     {
-        return view('pages/event/view', compact('event'));
+        $nowMinusWeek = Carbon::now('America/Toronto')->subWeek();
+        $now = Carbon::now('America/Toronto'); 
+        //echo Carbon::now()."\n";
+        return view('pages/event/view', compact('event', 'now', 'nowMinusWeek'));
     }
 
     // View form to edit an existing event

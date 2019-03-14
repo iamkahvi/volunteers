@@ -80,10 +80,4 @@ $(document).ready(function()
             }
         }
     });
-
-
-
-
-
-
 });
