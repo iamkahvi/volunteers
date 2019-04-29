@@ -76,7 +76,7 @@ class ShiftStarting extends Notification
            return (new MailMessage)
                        ->subject($this->shift->getDepartmentAttribute()->name.' Shift in '.env('REMIND_HOURS').' hours!')
                        ->greeting('Hello '.$this->user->name.'!')
-                       ->line('Thank you so much for being apart of the Loving Spoonful team.')
+                       ->line('Thank you so much for being a part of the Loving Spoonful team.')
                        ->line('This is a friendly reminder of your '.$theShift->name.' shift tomorrow from '.date('g:i A',strtotime($this->shift->start_time)).' to '.date('g:i A',strtotime($this->shift->end_time)))
                        ->action('View Shift',env('SITE_URL').'/slot/'.$this->shift->id.'/view');
 
