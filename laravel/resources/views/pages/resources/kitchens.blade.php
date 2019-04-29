@@ -49,8 +49,7 @@
     </ul>
     <p>You are always welcome and encouraged to contact us to share your successes, discuss any concerns or provide feedback: </p>
     <ul>
-    <li>Thea Zuiker, Community Kitchen Coordinator: 333-343-5699, <a href="mailto:Thea@lovingspoonful.org">Thea@lovingspoonful.org</a></li>
-    <li>Mary Gauthier, Volunteer & Outreach Coordinator: <a href="mailto:Mary@lovingspoonful.org">Mary@lovingspoonful.org</a></li>
+    <li>Leslie Hanson,Food Education Manager <a href="mailto:leslie@lovingspoonful.org">leslie@lovingspoonful.org</a></li>
     </ul>
     <h3>Benefits &ndash; What you&rsquo;ll gain</h3>
     <ul>
