@@ -4,8 +4,8 @@
 <div class="col-sm-2"></div>
 <div class="col-sm-8">
     <h1>Volunteer Handbook</h1>
-    <h4>Updated January 2019</h4>
-    A printable version of the Volunteer Handbook is available <a href="https://www.dropbox.com/sh/j4hu3jxgc9zbgc5/AACyhpIruLl2brYzU9fFHWRHa?dl=0">here.</a></p>
+    <h4>Updated April 2019</h4>
+    A printable version of the Volunteer Handbook is available <a href="https://www.dropbox.com/s/1otppeo5s18imp1/Volunteer%20Handbook_04.2019.pdf?dl=0">here.</a></p>
     <h2>Why we exist</h2>
     <p>Approximately 20,000 people in Kingston live below the poverty line. Thousands more are unable to buy the healthy food that keeps minds and bodies working. Loving Spoonful is a charitable organization that works towards achieving a food-secure community by facilitating fresh food access, skills, and engagement in a collaborative, empowering, and environmentally-sustainable manner.</p>
     <p>Our goals include:</p>
