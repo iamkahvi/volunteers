@@ -70,8 +70,6 @@
     <p>You are always welcome and encouraged to contact us to share your successes, discuss any concerns or provide feedback: </p>
     <ul>
     <li>Alex Harper, Food Access Animator: 343-333-0244 (call or text), <a href="mailto:Alex@lovingspoonful.org">Alex@lovingspoonful.org</a></li>
-    <li>Mary Gauthier, Volunteer & Outreach Coordinator: <a href="mailto:Mary@lovingspoonful.org">Mary@lovingspoonful.org</a></li>
-    </ul>
     <h3>Benefits &ndash; What you&rsquo;ll gain</h3>
     <ul>
     <li>Interaction with the community, farmers, and market-goers</li>
