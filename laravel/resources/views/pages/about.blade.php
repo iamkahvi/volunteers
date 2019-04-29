@@ -21,6 +21,7 @@
     <p style="padding-left: 60px;"><strong>GAR Market Booths</strong></p>
     <p style="padding-left: 60px;"><strong>Community Kitchens</strong></p>
     <p style="padding-left: 60px;"><strong>GROW Project</strong></p>
+    <p style="padding-left: 60px;"><strong>Circles</strong></p>
     <p style="padding-left: 60px;"><strong>Gleaning</strong></p>
     <p style="padding-left: 60px;"><strong>Events</strong></p>
     <p style="padding-left: 60px;"><strong>Instructions</strong></p>
