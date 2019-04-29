@@ -57,7 +57,7 @@
     <li><em>?? How will a volunteer know they are doing a good job/ How do we know that the program is effective/meeting goals/etc.</em></li>
     </ul>
     <h3>Responsible to:</h3>
-    <p>Thea Zuiker, Community Kitchen Coordinator<br /> 333-343-5699<br /><a href="mailto:thea@lovingspoonful.org">thea@lovingspoonful.org</a></p>
+    <p>Leslie Hanson <a href="mailto:leslie@lovingspoonful.org">leslie@lovingspoonful.org</a></p>
     <h3>Next Steps</h3>
     <ul>
     <li>Review and sign off on the Loving Spoonful Volunteer Rights &amp; Code of Conduct</li>
