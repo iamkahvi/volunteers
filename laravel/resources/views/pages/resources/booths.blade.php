@@ -54,8 +54,6 @@
     <p>From June to October, Market Booth Ambassadors cover shifts at 1 of 2 locations. Shifts are 2 to 2.5 hours long.</p>
     <p>Volunteers sign up for a particular booth team, and can volunteer weekly or once or twice per month. Booth teams are:</p>
     <ul>
-    <li>Tuesday (3:00PM – 5:00PM) at Downtown Kingston Public Market</li>
-    <li>Thursday (3:00PM – 5:00PM) at Downtown Kingston Public Market</li>
     <li>Saturday (1:00PM – 3:00PM) at Downtown Kingston Public Market</li>
     <li>Saturday (3:00PM - 5:00PM) at Downtown Kingston Public Market</li>
     <li>Sunday (9:00AM – 12:00PM) at Memorial Centre Farmers Market</li>
