@@ -49,7 +49,7 @@
     <p>You are always welcome and encouraged to contact us to share your successes, discuss any concerns or provide feedback: </p>
     <ul>
     <li>Melanie Redman, Office Manager: <a href="mailto:Mel@lovingspoonful.org">Mel@lovingspoonful.org</a></li>
-    <li>Mary Gauthier, Volunteer & Outreach Coordinator: <a href="mailto:Mary@lovingspoonful.org">Mary@lovingspoonful.org</a></li>
+    <li>Alexandra Harper, Fresh Food Delivery & Volunteer Coordinator: <a href="mailto:alex@lovingspoonful.org">alex@lovingspoonful.org</a></li>
     </ul>
     <h3>Benefits &ndash; What you&rsquo;ll gain</h3>
     <ul>
