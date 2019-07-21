@@ -41,7 +41,7 @@
     <li>Hands-on, on-site training by GROW Project Staff</li>
     <li>An account with Loving Spoonful’s Love Bug to view and sign up for shifts</li>
     </ul>
-    <p>You are always welcome and encouraged to contact us to share your successes, discuss any concerns or provide feedback to <a href="mailto:kitchen@lovingspoonful.org">kitchen@lovingspoonful.org</a> or <a href="mailto:volunteer@lovingspoonful.org">volunteer@lovingspoonful.org</a></p>
+    <p>You are always welcome and encouraged to contact us to share your successes, discuss any concerns or provide feedback with GROW Project Staff at <a href="mailto:kitchen@lovingspoonful.org">kitchen@lovingspoonful.org</a>, and/or Volunteer Coordinator <a href="mailto:volunteer@lovingspoonful.org">volunteer@lovingspoonful.org</a></p>
     <h3>Benefits &ndash; What you&rsquo;ll gain</h3>
     <ul>
     <li>Great experience teaching and working with youth</li>
@@ -57,13 +57,5 @@
     <li>Build a connection to the environment and working together to support the local community</li>
     <li>Develop life skills such as gardening, healthy food preparation, and critical thinking</li>
     </ul>
-    <h3>Additional Resources</h3>
-    <ul>
-    <li><a href="https://www.dropbox.com/s/u751seh0lj2b5gq/GROW%20Garden%20Map.pdf?dl=0">GROW Project School Garden Map</a></li>
-    <li><a href="https://www.dropbox.com/s/ydetbrlo7dgzorx/Volunteer%20Overview-%20Salsa%20%26%20Social%20Justice-%20Gr%205_6.pdf?dl=0">GROW Workshop 1: Volunteer Overview- Salsa & Social Justice- Gr 5_6</a></li>
-    <li><a href="https://www.dropbox.com/s/27oi6gjo5tuscsf/Volunteer%20Overview-%20Salsa%20%26%20Food%20Security-%20Gr%207_8.pdf?dl=0">GROW Workshop 1: Volunteer Overview- Salsa & Food Security- Gr 7_8</a></li>
-    <li><a href="https://www.dropbox.com/s/ttf2mr43ee0mjan/GROW%20Workshop%203%20Activity_Corn%20%26%20Culture.pdf?dl=0">GROW Workshop 3: Corn & Culture Activity</a></li>
-    <li><a href="https://www.dropbox.com/s/j2tn0agc9hdai4c/Spring%20workshop%202-%20worm%20deets.pdf?dl=0">Spring Workshop 2: worm details</a></li>
-    </ul>
-</div>
+    </div>
 @endsection
