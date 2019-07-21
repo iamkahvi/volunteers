@@ -39,10 +39,10 @@
     <li>Flexibility in accommodating your schedule</li>
     <li>An online account with Love Bug to track your shifts</li>
     </ul>
-    <p>You are always welcome and encouraged to contact us to share your successes, discuss any concerns or provide feedback: </p>
+    <p>You are always welcome and encouraged to contact us to share your successes, discuss any concerns or provide feedback with: </p>
     <ul>
-    <li>Melanie Redman, Office Manager: <a href="mailto:Mel@lovingspoonful.org">Mel@lovingspoonful.org</a></li>
-    <li>Alexandra Harper, Fresh Food Delivery & Volunteer Coordinator: <a href="mailto:alex@lovingspoonful.org">alex@lovingspoonful.org</a></li>
+    <li>Office Manager: <a href="mailto:Mel@lovingspoonful.org">Mel@lovingspoonful.org</a></li>
+    <li>Volunteer Coordinator: <a href="mailto:volunteer@lovingspoonful.org">volunteer@lovingspoonful.org</a></li>
     </ul>
     <h3>Benefits &ndash; What you&rsquo;ll gain</h3>
     <ul>
