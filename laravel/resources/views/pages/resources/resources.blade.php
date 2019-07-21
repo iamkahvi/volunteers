@@ -4,8 +4,8 @@
 <div class="col-sm-2"></div>
 <div class="col-sm-8">
     <h1>Volunteer Handbook</h1>
-    <h4>Updated April 2019</h4>
-    A printable version of the Volunteer Handbook is available <a href="https://www.dropbox.com/s/1otppeo5s18imp1/Volunteer%20Handbook_04.2019.pdf?dl=0">here.</a></p>
+    <h4>Updated July 2019</h4>
+    A printable version of the Volunteer Handbook is currently being updated, and a link to download it will be available here shortly./p>
     <h2>Why we exist</h2>
     <p>Approximately 20,000 people in Kingston live below the poverty line. Thousands more are unable to buy the healthy food that keeps minds and bodies working. Loving Spoonful is a charitable organization that works towards achieving a food-secure community by facilitating fresh food access, skills, and engagement in a collaborative, empowering, and environmentally-sustainable manner.</p>
     <p>Our goals include:</p>
@@ -24,12 +24,14 @@
     </ul>
     <p>For support, please contact the most appropriate staff person:</p>
     <ul>
-    <li><em>Fresh Food Delivery & Volunteer Coordinator</em>: Alex Harper - c. 343-333-0244, <a href="mailto:Alex@lovingspoonful.org">Alex@lovingspoonful.org</a></li>
+    <li><em>Outreach & Volunteer Coordinator</em>: Mary Gauthier - <a href="mailto:Mary@lovingspoonful.org">Mary@lovingspoonful.org</a></li>
     <li><em>GROW Project Coordinator</em>: Anne Munier - <a href="mailto:AnneM@lovingspoonful.org">AnneM@lovingspoonful.org</a></li>
-    <li><em>Community Kitchen Coordinator</em>: Thea Zuiker - c. 333-343-5699, <a href="mailto:Thea@lovingspoonful.org">Thea@lovingspoonful.org</a></li>
-    <li><em>Office Manager</strong></em>: Melanie Redman - c. 613-770-6105, <a href="mailto:Mel@lovingspoonful.org">Mel@lovingspoonful.org</a></li>
-    <li><em>Community Programs Manager</em>: Madison Hainstock - c. 613-795-5426, <a href="mailto:Madison@lovingspoonful.org">Madison@lovingspoonful.org</a></li>
+    <li><em>Community Kitchen Coordinator</em>: Tibrata Gillies - <a href="mailto:Tibrata@lovingspoonful.org">Tibrata@lovingspoonful.org</a></li>
+    <li><em>Fresh Food Assistant</em>: Grace Wedlake - <a href="mailto:Grace@lovingspoonful.org">Grace@lovingspoonful.org</a></li>
+    <li><em>Circles Kingston Coordinator</em>: Madison Hainstock - c. 613-795-5426, <a href="mailto:Madison@lovingspoonful.org">Madison@lovingspoonful.org</a></li>
     <li><em>Food Education Manager</em>: Leslie Hanson - c. 204-981-3801, <a href="mailto:Leslie@lovingspoonful.org">Leslie@lovingspoonful.org</a></li>
+    <li><em>Community Programs Manager</strong></em>: Lilith Wyatt - <a href="mailto:Lilith@lovingspoonful.org">Lilith@lovingspoonful.org</a></li>
+    <li><em>Office Manager</strong></em>: Melanie Redman - c. 613-770-6105, <a href="mailto:Mel@lovingspoonful.org">Mel@lovingspoonful.org</a></li>
     <li><em>Executive Director</em>: Mara Shaw - c. 613-217-9404, <a href="mailto:Mara@lovingspoonful.org">Mara@lovingspoonful.org</a></li>
     </ul>
     <h2>Being a Volunteer</h2>
