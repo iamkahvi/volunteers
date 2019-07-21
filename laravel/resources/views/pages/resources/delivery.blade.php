@@ -55,10 +55,7 @@
     <li>A cooler/ice packs/thermometer for rescuing meat/dairy, if required.</li>
     <li>Safe Lifting and Safe Driving tips (See below.)
     </ul>
-    <p>You are always welcome and encouraged to contact us to share your successes, discuss any concerns or provide feedback: </p>
-    <ul>
-    <li>Alex Harper, Food Access Animator: 343-333-0244 (call or text), <a href="mailto:Alex@lovingspoonful.org">Alex@lovingspoonful.org</a></li>
-    </ul>
+    <p>You are always welcome and encouraged to contact us to share your successes, discuss any concerns or provide feedback to <a href="mailto:food@lovingspoonful.org">food@lovingspoonful.org</a></p>
     <h3>Benefits &ndash; What you&rsquo;ll gain</h3>
     <ul>
     <li>Interaction with the community </li>
@@ -73,7 +70,7 @@
     <li>Good relations with food donors and recipient agencies</li>
     </ul>
     <h3>WANT TO VOLUNTEER AS A FRESH FOOD DELIVERY DRIVER?</h3>
-    <p>Please contact Alex Harper, Food Access Animator: <a href="mailto:Alex@lovingspoonful.org">Alex@lovingspoonful.org</a></p>
+    <p>Please contact <a href="mailto:food@lovingspoonful.org">food@lovingspoonful.org</a></p>
 
     <p>****************************************************************************************</p>
     <h3>SAFE LIFTING TIPS</h3>
