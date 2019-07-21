@@ -67,7 +67,7 @@
     <li>In order to answer questions about Loving Spoonful clearly and with ease, training will be provided where you use your knowledge to develop a “pitch” about Loving Spoonful.</li>
     <li>This training occurs in April, May, and June, or as needed with new volunteers who join mid-season.
     </ul>
-    <p>You are always welcome and encouraged to contact us to share your successes, discuss any concerns or provide feedback with Grow A Row Staff at <a href="mailto:food@lovingspoonful.org">food@lovingspoonful.org</a>, and/or Volunteer Coordinator at <a href="mailto:volunteer@lovingspoonful.org">volunteer@lovingspoonful.org</a></p>
+    <p>You are always welcome and encouraged to share your successes, discuss any concerns or provide feedback with Grow A Row Program Staff at <a href="mailto:food@lovingspoonful.org">food@lovingspoonful.org</a>, and/or the Volunteer Coordinator at <a href="mailto:volunteer@lovingspoonful.org">volunteer@lovingspoonful.org</a></p>
     <h3>Benefits &ndash; What you&rsquo;ll gain</h3>
     <ul>
     <li>Interaction with the community, farmers, and market-goers</li>
