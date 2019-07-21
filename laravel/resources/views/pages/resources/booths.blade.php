@@ -46,7 +46,7 @@
     <p><u>Other responsibilities</u></p>
     <ul>
     <li>Take pictures of donated produce, and if able, circulate on social media, or send to supervisor</li>
-    <li>Contact the program coordinator or food@lovingspoonful.org if anyone signs up for the newsletter (send a photo of the sheet), makes a donation (arrange for pickup of funds), if anything is missing or damaged, or if you need help of any kind.</li>
+    <li>Contact the program coordinator or <a href="mailto:food@lovingspoonful.org">food@lovingspoonful.org</a> if anyone signs up for the newsletter (send a photo of the sheet), makes a donation (arrange for pickup of funds), if anything is missing or damaged, or if you need help of any kind.</li>
     <li>Sign up for shifts on the online Love Bug</li>
     <li>Cancel shifts on the online Love Bug at least 3 days in advance if going to be absent, or directly inform the Loving Spoonful staff as soon as possible if last minute changes occur.</li>
     </ul>
@@ -67,7 +67,7 @@
     <li>In order to answer questions about Loving Spoonful clearly and with ease, training will be provided where you use your knowledge to develop a “pitch” about Loving Spoonful.</li>
     <li>This training occurs in April, May, and June, or as needed with new volunteers who join mid-season.
     </ul>
-    <p>You are always welcome and encouraged to share your successes, discuss any concerns or provide feedback with Grow A Row Program Staff at <a href="mailto:food@lovingspoonful.org">food@lovingspoonful.org</a>, and/or the Volunteer Coordinator at <a href="mailto:volunteer@lovingspoonful.org">volunteer@lovingspoonful.org</a></p>
+    <p>You are always welcome and encouraged to share your successes, discuss any concerns or provide feedback with Grow A Row Program Staff at <a href="mailto:food@lovingspoonful.org">food@lovingspoonful.org</a>, and/or the Volunteer Coordinator at <a href="mailto:volunteer@lovingspoonful.org">volunteer@lovingspoonful.org</a>.</p>
     <h3>Benefits &ndash; What you&rsquo;ll gain</h3>
     <ul>
     <li>Interaction with the community, farmers, and market-goers</li>
