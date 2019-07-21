@@ -41,11 +41,7 @@
     <li>Hands-on, on-site training by GROW Project Staff</li>
     <li>An account with Loving Spoonful’s Love Bug to view and sign up for shifts</li>
     </ul>
-    <p>You are always welcome and encouraged to contact us to share your successes, discuss any concerns or provide feedback: </p>
-    <ul>
-    <li>Anne Munier, GROW Project Coordinator: <a href="mailto:AnneM@lovingspoonful.org">AnneM@lovingspoonful.org</a></li>
-    <li>Alexandra Harper, Fresh Food Delivery & Volunteer Coordinator: <a href="mailto:alex@lovingspoonful.org">alex@lovingspoonful.org</a></li>
-    </ul>
+    <p>You are always welcome and encouraged to contact us to share your successes, discuss any concerns or provide feedback to <a href="mailto:kitchen@lovingspoonful.org">kitchen@lovingspoonful.org</a> or <a href="mailto:volunteer@lovingspoonful.org">volunteer@lovingspoonful.org</a></p>
     <h3>Benefits &ndash; What you&rsquo;ll gain</h3>
     <ul>
     <li>Great experience teaching and working with youth</li>
