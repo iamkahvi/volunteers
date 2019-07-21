@@ -41,7 +41,7 @@
     <li>Hands-on, on-site training by GROW Project Staff</li>
     <li>An account with Loving Spoonful’s Love Bug to view and sign up for shifts</li>
     </ul>
-    <p>You are always welcome and encouraged to contact us to share your successes, discuss any concerns or provide feedback with GROW Project Staff at <a href="mailto:kitchen@lovingspoonful.org">kitchen@lovingspoonful.org</a>, and/or Volunteer Coordinator <a href="mailto:volunteer@lovingspoonful.org">volunteer@lovingspoonful.org</a></p>
+    <p>You are always welcome and encouraged to share your successes, discuss any concerns or provide feedback with GROW Project Staff at <a href="mailto:kitchen@lovingspoonful.org">kitchen@lovingspoonful.org</a>, and/or the Volunteer Coordinator at <a href="mailto:volunteer@lovingspoonful.org">volunteer@lovingspoonful.org</a></p>
     <h3>Benefits &ndash; What you&rsquo;ll gain</h3>
     <ul>
     <li>Great experience teaching and working with youth</li>
