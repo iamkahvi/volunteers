@@ -70,7 +70,7 @@
     <li>Good relations with food donors and recipient agencies</li>
     </ul>
     <h3>WANT TO VOLUNTEER AS A FRESH FOOD DELIVERY DRIVER?</h3>
-    <p>Please contact <a href="mailto:food@lovingspoonful.org">food@lovingspoonful.org</a></p>
+    <p>Please contact <a href="mailto:food@lovingspoonful.org">food@lovingspoonful.org</a>.</p>
 
     <p>****************************************************************************************</p>
     <h3>SAFE LIFTING TIPS</h3>
