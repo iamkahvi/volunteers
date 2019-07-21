@@ -40,10 +40,7 @@
     <li>Any equipment, if needed, is provided. </li>
     <li>A Loving Spoonful staff will always be present to provide guidance and support.</li>
     </ul>
-    <p>You are always welcome and encouraged to contact us to share your successes, discuss any concerns or provide feedback: </p>
-    <ul>
-    <li>Alexandra Harper, Fresh Food Delivery & Volunteer Coordinator: <a href="mailto:Gleaning@lovingspoonful.org">Gleaning@lovingspoonful.org</a></li>
-    </ul>
+    <p>You are always welcome and encouraged to contact us to share your successes, discuss any concerns or provide feedback to the Gleaning Coordinator at <a href="mailto:Gleaning@lovingspoonful.org">Gleaning@lovingspoonful.org</a>, or to the Community Programs Manager at <a href="mailto:food@lovingspoonful.org">food@lovingspoonful.org</a></p>
     <h3>Benefits &ndash; What you&rsquo;ll gain</h3>
     <ul>
     <li>Physical time outdoors, on farms or in gardens</li>
