@@ -47,10 +47,7 @@
     <li>Informal post-class debriefings with the Community Kitchen Instructor allows Workshop Assistants to discuss what is going well with the program, areas for improvement, as well as voice any suggestions, comments or concerns.</li>
     <li>An account with Loving Spoonful’s Love Bug to view and sign up for shifts</li>
     </ul>
-    <p>You are always welcome and encouraged to contact us to share your successes, discuss any concerns or provide feedback: </p>
-    <ul>
-    <li>Leslie Hanson,Food Education Manager <a href="mailto:leslie@lovingspoonful.org">leslie@lovingspoonful.org</a></li>
-    </ul>
+    <p>You are always welcome and encouraged to contact us to share your successes, discuss any concerns or provide feedback to <a href="mailto:kitchen@lovingspoonful.org">kitchen@lovingspoonful.org</a> </p>
     <h3>Benefits &ndash; What you&rsquo;ll gain</h3>
     <ul>
     <li>Social interaction with the community</li>
