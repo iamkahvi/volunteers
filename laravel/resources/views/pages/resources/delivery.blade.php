@@ -55,7 +55,7 @@
     <li>A cooler/ice packs/thermometer for rescuing meat/dairy, if required.</li>
     <li>Safe Lifting and Safe Driving tips (See below.)
     </ul>
-    <p>You are always welcome and encouraged to contact us to share your successes, discuss any concerns or provide feedback to <a href="mailto:food@lovingspoonful.org">food@lovingspoonful.org</a></p>
+    <p>You are always welcome and encouraged to contact us to share your successes, discuss any concerns or provide feedback with Fresh Food Delivery Staff at <a href="mailto:food@lovingspoonful.org">food@lovingspoonful.org</a>, and/or Volunteer Coordinator at <a href="mailto:volunteer@lovingspoonful.org">volunteer@lovingspoonful.org</a></p>
     <h3>Benefits &ndash; What you&rsquo;ll gain</h3>
     <ul>
     <li>Interaction with the community </li>
