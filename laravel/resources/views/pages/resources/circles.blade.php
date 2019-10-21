@@ -42,22 +42,20 @@
     <li>The Kitchen Instructor will provide on-going support. Supervision will take place to make sure recipes are being followed (within reason) and people are having fun.</li>
     <li>An account with our online Love Bug to view and sign up for shifts.</li>
     <li>An orientation session to learn more about Loving Spoonful, the Circles&reg; Program, and Love Bug.</li>
-    <li>You are always free to contact the Program Manager?? and/or Volunteer Coordinator to discuss any concerns or provide feedback.</li>
+    <li>You are always free to contact the Program Coordinator and/or Volunteer Coordinator at volunteer@lovingspoonful.org to discuss any concerns or provide feedback.</li>
     </ul>
     <h3>Benefits &ndash; What you&rsquo;ll gain</h3>
     <ul>
     <li>Social interaction with the community</li>
     <li>Learning new healthy recipes</li>
     <li>Teaching and cooking in the kitchen</li>
-    <li>Cost of CPIC will be reimbursed with submission of a receipt</li>
+    <li>Cost of CPIC can be reimbursed after 5 completed volunteer shifts, and submission of receipt. Alternatively, a tax receipt can be issued if the cost is donated.</li>
     <li>Reference letter supplied for successful volunteer experience</li>
     </ul>
     <h3>Measures of Success</h3>
     <ul>
-    <li><em>?? How will a volunteer know they are doing a good job/ How do we know that the program is effective/meeting goals/etc.</em></li>
+    <li><em>How will a volunteer know they are doing a good job/ How do we know that the program is effective/meeting goals/etc.?</em></li>
     </ul>
-    <h3>Responsible to:</h3>
-    <p>Leslie Hanson <a href="mailto:leslie@lovingspoonful.org">leslie@lovingspoonful.org</a></p>
     <h3>Next Steps</h3>
     <ul>
     <li>Review and sign off on the Loving Spoonful Volunteer Rights &amp; Code of Conduct</li>
