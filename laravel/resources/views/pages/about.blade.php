@@ -11,9 +11,9 @@
     
     <hr>
     
-    <h2>Dashboard</h2>
+    <h2>Your Dashboard</h2>
     <p>
-       The Dashboard shows all the current volunteer opportunities. Click on the opportunity to find a description of the program, a description of the volunteer role, and a calendar of available shifts that you can sign up for directly. You will also find the contact information of the Program Coordinator here.
+       Your Dashboard is the first page that you see when you login to Love Bug. It shows all the current volunteer opportunities. Click on the opportunity to find a description of the program, a description of the volunteer role, and a calendar of available shifts that you can sign up for directly. You will also find the contact information of the Program Coordinator here.
     </p>
 
     <h2>Navigation Bar</h2>
@@ -36,10 +36,10 @@
     <li><strong>Your Shifts</strong>: This page is where you will find all the shifts you have signed up for; past, present and future.</li>
     </ul>
     <ul>
-    <li><strong>Programs</strong>: This page is where you will find all upcoming, ongoing and past programs.</li>
+    <li><strong>Programs</strong>: This page is where you will find all current volunteer opportunities.</li>
     </ul>
     <ul>
-    <li><strong>User</strong>: This page is where you will find all your personal details.</li>
+    <li><strong>[Your Username]</strong>: This page is where you will find all your account details.</li>
     </ul>
     <ul>
     <li><strong>Logout</strong>: Clicking this button logs you out of Love Bug.</li>
@@ -67,7 +67,7 @@
     <li>Click on a green bubble to view a shift</li>
     <ul>
     <li>Click <em>Take Shift</em> to take a shift (You must perform this action <strong>3 days </strong>in advance of the shift occurrence)</li>
-    <li>Click View Event to return to the Event Page</li>
+    <li>Click <em>View Event</em> to return to the Event Page</li>
     </ul>
     </ol>
     <br>
