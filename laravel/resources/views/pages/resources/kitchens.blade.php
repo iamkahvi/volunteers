@@ -53,7 +53,7 @@
     <li>Social interaction with the community</li>
     <li>Learning new healthy recipes</li>
     <li>Teaching and cooking in the kitchen</li>
-    <li>Cost of CPIC will be reimbursed with submission of a receipt</li>
+    <li>Cost of CPIC can be reimbursed after 5 completed volunteer shifts, and submission of receipt. Alternatively, a tax receipt can be issued if the cost is donated.</li>
     <li>Reference letter supplied for successful volunteer experience, upon request.</li>
     </ul>
     <h3>Measures of Success</h3>
