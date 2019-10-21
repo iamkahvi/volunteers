@@ -3,7 +3,7 @@
 @section('content')
 <div class="col-sm-2"></div>
 <div class="col-sm-8">
-    <h1>About the Volunteer Database</h1>
+    <h1>About Loving Spoonful's Love Bug</h1>
 
     <h4>
         This website is a scheduling system where users can sign up for volunteer shifts. It is also where volunteers can find out more about all current volunteer opportunities with Loving Spoonful, including program descriptions, volunteer role descriptions and Program Coordinator contact details. The Volunteer Handbook and other volunteer resources are also found on Love Bug.
