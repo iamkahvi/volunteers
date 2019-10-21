@@ -46,7 +46,7 @@
     <ul>
     <li>Great experience teaching and working with youth</li>
     <li>The chance to work in – and learn more about – vegetable gardens</li>
-    <li>Cost of CPIC will be reimbursed with submission of a receipt</li>
+    <li>Cost of CPIC can be reimbursed after 5 completed volunteer shifts, and submission of receipt. Alternatively, a tax receipt can be issued upon request if the cost is donated.</li>
     <li>Reference letter supplied for successful volunteer experience, upon request.</li>
     </ul>
     <h3>Measures of Success</h3>
