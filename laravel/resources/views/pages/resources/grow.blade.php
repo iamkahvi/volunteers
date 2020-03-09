@@ -64,5 +64,9 @@
     <li><a href="https://www.dropbox.com/s/l41gg01zqqmyz1a/GROW%20Project.F3_Kale%26Culture.Gr4-6_Volunteer%20Overview.pdf?dl=0">"Kale & Culture" (Gr.4-6) - Volunteer Overview</a></li>
     <li><a href="https://www.dropbox.com/s/u8kp422lp6wu46s/GROW%20Workshop%203%20Activity_Corn%20%26%20Culture.pdf?dl=0">"Corn & Culture" (Gr.7-8) - Volunteer Overview</a></li>
     </ul>
+    <p><u>Spring Workshop #2</u></p>    
+    <ul>
+    <li><a href="https://www.dropbox.com/s/1obf5nva8k4kbe6/GROW%20Project.S2_Garden%20Planting_Volunteer%20Overview.pdf?dl=0">Garden Planting - Volunteer Overview</a></li>
+    </ul>
     </div>
 @endsection
